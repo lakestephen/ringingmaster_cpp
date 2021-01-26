@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<!DOCTYPE model SYSTEM "model.dtd">
+
+<model classname="Tower">
+  <field type="custom">
+    <variableName>GridRef</variableName>
+    <customType>MapGridRef</customType>
+  </field>
+  <field type="CString">
+    <variableName>County</variableName>
+  </field>
+  <field type="CString">
+    <variableName>Name</variableName>
+  </field>
+  <field type="CString">
+    <variableName>Dedication</variableName>
+  </field>
+  <field type="CString">
+    <variableName>PostCode</variableName>
+  </field>
+  <field type="BOOL">
+    <variableName>GroundFloor</variableName>
+  </field>
+  <field type="int">
+    <variableName>Number</variableName>
+  </field>
+  <field type="double">
+    <variableName>Weight</variableName>
+  </field>
+  <field type="BOOL">
+    <variableName>Approx</variableName>
+  </field>
+  <field type="enum">
+    <variableName>Note</variableName>
+    <enumName>Note</enumName>
+  </field>
+  <field type="enum">
+    <variableName>Night</variableName>
+    <enumName>Night</enumName>
+  </field>
+  <field type="BOOL">
+    <variableName>Unringable</variableName>
+  </field>
+  <field type="CString">
+    <variableName>WebPage</variableName>
+  </field>
+  <field type="CString">
+    <variableName>Country</variableName>
+  </field>
+</model>

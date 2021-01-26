@@ -1,0 +1,115 @@
+Copyright Central Council of Church Bell Ringers, September 2001
+Little Surprise Major methods (treble to 4ths)
+
+ No. Name                    Notation             hl le lh       Tower bells Place             CCC  RW ref
+
+5065 Ruxley Little           -  58 -  14.58 -  56.34 18 13462857  19.12.1970 Bexley                 71/77
+5066 Little Shambles Little  -  58 -  14.58.12 -  14 18 m            Spliced                        99/1166
+5067 Kingsbury Little        38 -  58.14 -  58 -  14 12 b         20. 4.1982 Kingsbury (Warks)  56U 82/424
+
+Little Surprise Major methods (treble to 6ths)
+
+ No. Name                          Notation                               hl le lh       Tower bells Place                        Handbells  CCC  RW ref
+
+5068 Richard Harris's Cat Little   -  34 -  14   -  12   -  16   -  12 -  16 18 15236847   7. 3.1982 Cubitt Town                                  82/277
+5069 Little Russian Little         -  34 -  14   -  12   -  36   -  34 -  16 18 m                                                  4.11.1987  78Z 87/1099
+5070 Annable's London Little       -  34 -  14   -  12   -  38   -  14 -  36 18 k         19. 7.1996 Haselbech                               J153 96/857
+5071 Eddington Little              -  34 -  14   -  58   -  36   -  14 -  36 12 e            Spliced                                          84S 80/468
+5072 Barry Peachey's Dog Little    -  34 -  16   -  12   -  16   -  12 -  16 18 m         26. 9.1983 Bow                                     588V 83/885
+5073 Gainford Little               -  34 -  16   -  56   -  36   -  12 -  16 18 m            Spliced                                         105Y 86/168
+5074 Inglesham Little              -  34 -  16   -  58   -  16   -  12 -  16 12 b            Spliced                                          85S 80/468
+5075 Glanfield Little              -  36 -  14   -  12   -  1236 -  12 -  16 18 m         19.11.1988 Babbacombe                              A101 88/1218
+5076 York Little                   -  38 -  14   -  12   -  38.  14 -  14.36 12 c          2. 1.1996 West Bridgford                          J154 96/199
+5077 Durham Little                 -  38 -  14   -  12   -  38.  14 -  34.16 12 c         29. 3.1974 West Bridgford                           37L 74/331
+5078 Dowager Little                -  38 -  14   -  12.  58.16   -  12 -  16 18 m         30. 1.1993 Bishopstoke                             F124 93/253
+5079 Horam Little                  -  38 -  14   -  56   -  38   -  14 -  56 12 f         11.10.1970 Waldron                                  48G 70/879
+5080 Garsington Manor Little       -  38 -  14   -  56   -  38.  14 -  34.56 12 f         19. 2.1998 Leicester, St Mary-de-Castro            L107 98/288
+5081 Inkpen Little                 -  38 -  1458 -  12.  58.36   -  34 -  36 12 e            Spliced                                          86S 80/468
+5082 Ashdown Little                -  38 -  16   -  12   -  38   -  14 -  36 12 a          6. 2.1971 Colemans Hatch                           48H 71/316
+5083 Spitalfields Festival Little  -  56 -  14   -  56   -  1238 -  12 -  16 18 k          3. 6.1999 Spitalfields                                 99/577
+5084 Heywood Little                -  56 -  14.  56 -    56.38.  14 -  34.56 12 a         30.11.1990 Heywood                                 C102 91/84
+5085 Little Blakenham Little       -  56 -  14.  56 -    58.1236 -  14 -  36 12 b         29. 8.1998 Henley                                  L108 98/946
+5086 Greenham Little               -  56 -  14.  56 -    58.1236 -  14 -  36 18 g         11. 4.1985 Hughenden                                87S 80/468 85/416
+5087 Little Redisham Little        -  56 -  1456 -  56   -  38   -  14 -  56 12 a          1.11.1998 Grundisburgh                            L109 98/1159
+5088 Little Finborough Little      -  56 -  1456 -  56   -  38.  14 -  12.56 12 a         27. 2.1999 Stowmarket                                   99/270
+5089 Little Glemham Little         -  56 -  1456 -  58   -  1238 -  34 -  16 18 m         30. 5.1998 Ipswich, St Mary-le-Tower               L110 98/629
+5090 Foggathorpe Little            -  56 -  16   -  56   -  1238 -  14 -  56 12 a         11. 6.1980 Barrow Gurney                            88S 80/600
+5091 Little Smeaton Little         -  58 -  14   -  12   -  38   -  34 -  16 18 m         10. 7.1976 Penistone                                77N 76/719
+5092 Little Linstead Little        -  58 -  14   -  12   -  38.  14 -  12.36 18 m          3. 1.1999 Grundisburgh                                 99/121 447
+5093 Oare Little                   -  58 -  14   -  56   -  38   -  12 -  56 12 f          3. 6.1994 Meldreth                                 89S 80/468 94/974
+5094 Buckledown Little             -  58 -  14   -  56   -  38.  14 -  14.56 12 f         13. 8.1985 Trumpington                              97X 85/830
+5095 Notlob Little                 -  58 -  14   -  58   -  16   -  34 -  36 18 m          2.11.1974 Deane (Lancs)                            38L 74/1006
+5096 Offton Little                 -  58 -  14   -  58   -  38   -  14 -  36 12 b         12. 4.1986 Offton                                   90S 80/468 86/498
+5097 Little Cornard Little         -  58 -  14.  58 -    12.36   -  34 -  16 18 m         28. 6.1998 Sudbury, St Gregory                     L111 98/747
+5098 Milston Little                -  58 -  14.  58 -    12.36.  14 -  12.36 18 m         16. 7.1993 Meldreth                                106Y 86/168 93/926
+5099 Little Chef Little            -  58 -  14.  58 -    12.38   -  12 -  16 12 e         20.10.1995 Meldreth                                H146 95/1202
+5100 Frilsham Little               -  58 -  14.  58 -    12.38   -  12 -  16 18 k          7. 1.1994 Meldreth                                 91S 80/468 94/230
+5101 Heptonstall Little            -  58 -  14.  58 -    56.38   -  14 -  56 12 a         24. 8.1963 Heptonstall                              570 63/619
+5102 Rags Little                   -  58 -  14.  58 -    56.38.  14 -  12.56 12 a         14.11.1990 Oldham, St Thomas Moorside              C103 90/1225
+5103 Nickel Little                 -  58 -  14.  58 -    56.38.  14 -  34.56 12 a         23. 1.1985 Barrow Gurney                            98X 85/197
+5104 Roxbourne Little              -  58 -  14.  58 -    58.1236 -  14 -  36 12 b         26.10.1957 Harrow Weald                             571 57/731
+5105 Wealdstone Little             -  58 -  14.  58 -    58.1236 -  14 -  36 18 g          7.10.1958 Harrow Weald                             572 58/684
+5106 Sunderland Little             -  58 -  16   -  12   -  1238 -  14 -  16 12 c         27. 8.1996 Kingsbury (Warks)                       J155 96/1150
+5107 Newtown Little                -  58 -  16   -  1258 -  36   -  14 -  56 12 c            Spliced                                          92S 80/468
+5108 Test Little                   -  58 -  16   -  56   -  38   -  12 -  16 18 m          2. 8.1980 Cranleigh                                93S 80/468
+5109 Herefordshire Little          -  58 -  16   -  58   -  38   -  12 -  36 12 f         26.12.1949 Burghill                                 573 50/21
+5110 Cunning Little Vixen Little   34 -  34.16   -  12   -  16   -  12 -  16 18 m                                                 23. 9.1982  57U 82/906
+5111 Trimley Little                34 -  38.14   -  58   -  36.  14 -  14.36 18 m         30. 7.1993 Meldreth                                 94S 80/468 93/926
+5112 Peal Pixie Little             34 -  38.16   -  12.  56.38.  14 -  12.36 18 m            Spliced                                         L112 98/258
+5113 Meon Little                   34 -  38.16   -  56   -  38   -  12.34.16 18 m            Spliced                                          95S 80/468
+5114 Aeons Little                  34 -  58.14   -  12   -  38   -  34 -  16 18 m         17. 4.1998 Meldreth                                L113 98/554
+5115 Belfast Little                34 -  58.14   -  12   -  38.  14 -  12.36 18 m          3. 9.1976 Cuckfield                                78N 76/840
+5116 Little Bealings Little        34 -  58.14   -  58   -  1236 -  34 -  16 18 m          2. 8.1998 Grundisburgh                            L114 98/849
+5117 Little Bricett Little         34 -  58.14   -  58   -  16   -  34 -  36 18 m         27. 3.1999 Offton                                       99/388
+5118 Little Welnetham Little       34 -  58.14   -  58   -  36.  12 -  14.36 18 m         30. 1.1999 Wilby                                        99/193
+5119 Penwood Little                34 -  58.14.  58 -    58.16.  34 -  14.36 12 e            Spliced                                          96S 80/468
+5120 Headingley Little             34 -  58.16   -  56   -  38   -  12 -  16 18 m         20. 5.1972 Guiseley                                 53J 72/523
+5121 Shepperton Little             34.56.38.16.  58 -    12.38.  12 -  34.56 12 f          6. 5.1994 Fulbourn                                 97S 80/468 94/656
+5122 Colthrop Little               36 -  56.14.  58 -    58.16.  34 -  14.36 12 d            Spliced                                          98S 80/468
+5123 Glazgow Little                36 -  56.14.  58 -    58.36   -  14 -  36 18 j         30. 5.1980 High Bickington                          99S 80/607
+5124 Itchen Little                 36 -  56.14.  58.12   -  1238 -  12 -  16 18 m            Spliced                                         100S 80/468
+5125 Fairlea Little                36 -  58.14   -  58   -  36   -  12 -  16 18 m         10. 1.1987 Moulton                                  79Z 87/177
+5126 Lincoln Little                38 -  38.14   -  12   -  38   -  12 -  36 12 b         13. 8.1993 Meldreth                                101S 80/468 942 93/1000
+5127 Ham Little                    38 -  38.14   -  58   -  38   -  14 -  16 12 e         26. 3.1993 Meldreth                                102S 80/468 93/447
+5128 Durley Little                 38 -  38.16   -  12   -  38   -  14 -  16 12 a         13. 5.1994 Meldreth                                103S 80/468 94/656
+5129 Mortimer Little               38 -  38.16   -  12.  58.36   -  14 -  56 12 c            Spliced                                         104S 80/468
+5130 Kintbury Little               38 -  38.16   -  56   -  38   -  34 -  36 12 b            Spliced                                         105S 80/468
+5131 Baydon Little                 38 -  38.16   -  56   -  38   -  34.12.36 12 b            Spliced                                         C104 90/1057
+5132 Joey Little                   38 -  58.14   -  56   -  1238 -  12 -  36 12 a          3. 6.1993 Thorverton                              F125 93/746
+5133 Leckhampstead Little          38 -  58.14.  56 -    56.38   -  34 -  16 12 b         24. 9.1993 Meldreth                                106S 80/468 93/1094
+5134 Johnstown Little              38 -  58.16   -  12.  56.38   -  12 -  16 12 b            Spliced                                         107S 80/468
+
+Little Surprise Major methods (hunt bell from 3rds to 6ths)
+
+ No. Name                       Notation         hl le lh       Tower bells Place       RW ref
+
+5135 Double Bishopstoke Little  - 56 - 36 - 34 - 16 38 24361857  16. 5.1983 Bishopstoke 83/471
+
+Asymmetric Surprise Major methods
+
+ No. Name      Notation                                                                                    lh Tower bells Place             CCC  RW ref
+
+5136 Diopside  -  56 -  14 -  56 -  36 -  34 - 58 -  34 -  18 -  14 -  58.14 -  14.36.58 - 58.14 - 58 - 18 l   26. 8.1998 Barrow Gurney     L115 98/943
+5137 Selenium  -  58 -  14.58 -  58.36 -  14 - 58 -  14 -  78.14 -  14.58.14 -  14.36.58 - 58.14 - 58 - 12 a   29. 5.1985 Barrow Gurney     130X 85/584
+5138 Nimrod    34 -  38.14 -  58 -  36 -  14 - 58.16 -  56.18 -  14 -  58.14 -  14.36.58 - 58.14 - 58 - 18 l   11. 3.1977 Bristol Cathedral 123P 77/296
+5139 Olympus   34 -  38.16 -  56 -  36.14 - 14.58 -  14 -  18.56 -  16.38 -  34 -  36.58 - 58.14 - 58 - 18 m    8. 7.1980 Barrow Gurney      55S 80/731
+
+Surprise Major methods (treble double dodging)
+
+ No. Name        Notation                                                       hl le lh Tower bells Place        RW ref
+
+5140 Eryri       -  58 -  58 - 14.58 -  58 -  58.36.14 - 14 - 14.58 - 14 - 14 - 18 18 m   19.11.1935 Bushey 
+5141 Spelthorne  56 -  56.38 - 14 -  12 -  58 -  36.14 - 14 - 14.58 - 16 - 12 - 78 12 b   11. 2.1977 Harrow Weald 77/357
+
+Surprise Major methods (treble triple dodging)
+
+ No. Name      Notation                                                                                hl le lh Tower bells Place        RW ref
+
+5142 Champion  -  58 -  58 -  58 -  14.58 -  58 -    58 -  58.36.14 - 14 - 14 - 14.58 - 14 - 14 - 14 - 18 18 m   21. 7.1980 Hungerford   80/732
+5143 Gore      56 -  56.38.56 -  56.14 -  12 -  1258 -  12 -  36.14 - 14 - 14 - 14.58 - 14 - 16 - 12 - 78 12 b   12. 3.1977 Harrow Weald 77/357
+
+Surprise Major methods (treble 11-pull dodging)
+
+ No. Name             Notation                                                                                                                                                                                                                                     hl le lh Tower bells Place         RW ref
+
+5144 Double Darrowby  - 36 - 34 - 36 - 56 - 36 - 34 - 36 - 56 - 36 - 34 - 36 - 14 - 58 - 58 - 58 - 56 - 58 - 58 - 58 - 56 - 58 - 58 - 58 - 36 - 14 - 14 - 14 - 34 - 14 - 14 - 14 - 34 - 14 - 14 - 14 - 58 - 36 - 56 - 36 - 34 - 36 - 56 - 36 - 34 - 36 - 56 - 36 - 78 12 f   28. 3.1981 New Alresford 81/384

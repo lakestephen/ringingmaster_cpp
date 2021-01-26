@@ -1,0 +1,187 @@
+Copyright Central Council of Church Bell Ringers, September 2001
+Single-hunt Triples methods
+
+ No. Name                        Notation                        hl  le  lh      Tower bells Place                           Handbells  CCC MUG RW ref
+
+1087 Mulbarton Bob               3.    1.  5.    1.    7.  145.  7   127 p        12.12.1956 Hethersett                                         57/2
+1088 Giles Bob                   3.    1.  5.    123.  7.  12345.7   127 p           Spliced                                                D3a 74/693
+1089 Piccadilly Bob              3.    1.  5.    123.  7.  125.  7   127 p           Spliced                                                D1a 74/693
+1090 Ronald Bob                  3.    1.  5.    123.  7.  345.  7   127 p           Spliced                                                C3a 74/693
+1091 Bakerloo Bob                3.    1.  5.    123.  7.  5.    7   127 p           Spliced                                                C1a 74/693
+1092 Hamish Bob                  3.    1.  5.    3.    127.345.  7   127 p           Spliced                                                E3a 74/693
+1093 Elmham Bob                  3.    1.  5.    3.    127.5.    7   127 p        15. 8.1963 North Elmham                                   E1a 63/601
+1094 Stansted Bob                3.    1.  5.    3.    147.3.    7   127 q        26.10.1907 Stansted                                    17     58/767
+1095 Margaret Bob                3.    1.  5.    3.    7.  12345.7   127 p           Spliced                                                B3a 74/693
+1096 St Stephen Bob              3.    1.  5.    3.    7.  125.  7   127 p        16. 1.1957 Hingham                                        B1a 57/67
+1097 Susan Bob                   3.    1.  5.    3.    7.  345.  7   127 p           Spliced                                                A3a 74/693
+1098 Waterloo Reverse Bob        3.    1.  5.    3.    7.  5.    167 1   s                                                               15  
+1099 Waterloo Bob                3.    1.  5.    3.    7.  5.    7   127 p        14. 1.1953 Norwich, St Giles                           14 A1a 53/67
+1100 German Bight Bob            3.    1.  567.  123.  7.  12345.7   127 p           Spliced                                                D3c 74/693
+1101 Ecclefechan Bob             3.    1.  567.  123.  7.  125.  7   127 p           Spliced                                                D1c 74/693
+1102 Thames Bob                  3.    1.  567.  123.  7.  345.  7   127 p           Spliced                                                C3c 74/693
+1103 Woodhouse Bob               3.    1.  567.  123.  7.  5.    7   127 p           Spliced                                                C1c 74/693
+1104 Biscay Bob                  3.    1.  567.  3.    127.345.  7   127 p           Spliced                                                E3c 74/693
+1105 Parkgate Bob                3.    1.  567.  3.    127.5.    7   127 p           Spliced                                                E1c 74/693
+1106 Dogger Bob                  3.    1.  567.  3.    7.  12345.7   127 p           Spliced                                                B3c 74/693
+1107 Handsworth Bob              3.    1.  567.  3.    7.  125.  7   127 p           Spliced                                                B1c 74/693
+1108 Fisher Bob                  3.    1.  567.  3.    7.  345.  7   127 p           Spliced                                                A3c 74/693
+1109 Sheffield Bob               3.    1.  567.  3.    7.  5.    7   127 p        22.10.1984 Handsworth (Yorks)                             A1c 74/693 84/1005
+1110 New Bob                     3.    1.  7.    3.    7.  3.    7   127 p        28. 3.1750 Shoreditch                                  12     58/767
+1111 Paston Bob                  3.    145.7.    3.    7.  3.    7   127 p        29. 5.1957 Hingham                                            57/390
+1112 Croydon Bob                 3.    147.5.    1.    7.  5.    167 1   r                                                               18  
+1113 Shipway Place               3.    147.5.    167.  7.  1.    7   127 q        17. 2.1801 Hackney                                            58/767
+1114 Rondo Bob                   3.    167.5.    123.  7.  12345.7   127 p           Spliced                                                D3e 74/693
+1115 Pythagorean Bob             3.    167.5.    123.  7.  125.  7   127 p           Spliced                                                D1e 74/693
+1116 Toccata Bob                 3.    167.5.    123.  7.  345.  7   127 p           Spliced                                                C3e 74/693
+1117 Marylebone Bob              3.    167.5.    123.  7.  5.    7   127 p           Spliced                                                C1e 74/693
+1118 Palestrina Bob              3.    167.5.    3.    127.345.  7   127 p           Spliced                                                E3e 74/693
+1119 Century Bob                 3.    167.5.    3.    127.5.    7   127 p           Spliced                                                E1e 74/693
+1120 Facade Bob                  3.    167.5.    3.    7.  12345.7   127 p           Spliced                                                B3e 74/693
+1121 Lundy Bob                   3.    167.5.    3.    7.  125.  7   127 p           Spliced                                                B1e 74/693
+1122 Passacaglia Bob             3.    167.5.    3.    7.  345.  7   127 p           Spliced                                                A3e 74/693
+1123 Tinsley Bob                 3.    167.5.    3.    7.  5.    7   127 p           Spliced                                                A1e 74/693
+1124 Plaza Bob                   345.  1.  5.    123.  7.  12345.7   127 p           Spliced                                                D4a 74/693
+1125 Salford Bob                 345.  1.  5.    123.  7.  125.  7   127 p           Spliced                                                D2a 74/693
+1126 Robert Bob                  345.  1.  5.    123.  7.  345.  7   127 p           Spliced                                                C4a 74/693
+1127 Abba Bob                    345.  1.  5.    123.  7.  5.    7   127 p           Spliced                                                C2a 74/693
+1128 Biryani Bob                 345.  1.  5.    3.    127.345.  7   127 p           Spliced                                                E4a 74/693
+1129 Flat-iron Bob               345.  1.  5.    3.    127.5.    7   127 p           Spliced                                                E2a 74/693
+1130 Marcus Bob                  345.  1.  5.    3.    7.  12345.7   127 p           Spliced                                                B4a 74/693
+1131 Thermopylae Bob             345.  1.  5.    3.    7.  125.  7   127 p           Spliced                                                B2a 74/693
+1132 Ian Bob                     345.  1.  5.    3.    7.  345.  7   127 p           Spliced                                                A4a 74/693
+1133 Trafalgar Bob               345.  1.  5.    3.    7.  5.    7   127 p           Spliced                                                A2a 74/693
+1134 Tyne Bob                    345.  1.  567.  123.  7.  12345.7   127 p           Spliced                                                D4c 74/693
+1135 Attercliffe Bob             345.  1.  567.  123.  7.  125.  7   127 p           Spliced                                                D2c 74/693
+1136 Ronaldsway Bob              345.  1.  567.  123.  7.  345.  7   127 p           Spliced                                                C4c 74/693
+1137 Brightside Bob              345.  1.  567.  123.  7.  5.    7   127 p           Spliced                                                C2c 74/693
+1138 Shannon Bob                 345.  1.  567.  3.    127.345.  7   127 p           Spliced                                                E4c 74/693
+1139 Darnall Bob                 345.  1.  567.  3.    127.5.    7   127 p           Spliced                                                E2c 74/693
+1140 Finnisterre Bob             345.  1.  567.  3.    7.  12345.7   127 p           Spliced                                                B4c 74/693
+1141 Aldewarke Bob               345.  1.  567.  3.    7.  125.  7   127 p           Spliced                                                B2c 74/693
+1142 Patmos Bob                  345.  1.  567.  3.    7.  345.  7   127 p           Spliced                                                A4c 74/693 87/558
+1143 Roundwood Bob               345.  1.  567.  3.    7.  5.    7   127 p           Spliced                                                A2c 74/693
+1144 Lune Bob                    345.  167.5.    123.  7.  12345.7   127 p           Spliced                                                D4e 74/693
+1145 Wye Bob                     345.  167.5.    123.  7.  125.  7   127 p           Spliced                                                D2e 74/693
+1146 Healey Bob                  345.  167.5.    123.  7.  345.  7   127 p           Spliced                                                C4e 74/693
+1147 Humber Bob                  345.  167.5.    123.  7.  5.    7   127 p           Spliced                                                C2e 74/693
+1148 Heywood Bob                 345.  167.5.    12367.7.  5.    7   127 p        18. 2.1994 Heywood                                        C2i 74/617 94/282
+1149 Ceviche Bob                 345.  167.5.    3.    127.345.  7   127 p           Spliced                                                E4e 74/693
+1150 Trent Bob                   345.  167.5.    3.    127.5.    7   127 p           Spliced                                                E2e 74/693
+1151 Shawclough Bob              345.  167.5.    3.    7.  12345.7   127 p           Spliced                                                B4e 74/693
+1152 Severn Bob                  345.  167.5.    3.    7.  125.  7   127 p           Spliced                                                B2e 74/693
+1153 Ellwoodii Bob               345.  167.5.    3.    7.  345.  7   127 p           Spliced                                                A4e 74/693
+1154 Avon Bob                    345.  167.5.    3.    7.  5.    7   127 p         2. 2.1991 Salisbury, St Thomas                           A2e 74/693 91/219
+1155 Snoopy Bob                  34567.1.  5.    123.  7.  12345.7   127 p           Spliced                                                D4b 74/693
+1156 Peatling Parva Bob          34567.1.  5.    123.  7.  125.  7   127 p           Spliced                                                D2b 74/693 670 750
+1157 Bramble Bob                 34567.1.  5.    123.  7.  345.  7   127 p           Spliced                                                C4b 74/693
+1158 Hanover Bob                 34567.1.  5.    123.  7.  5.    7   127 p           Spliced                                                C2b 74/693
+1159 Woodstock Bob               34567.1.  5.    3.    127.345.  7   127 p           Spliced                                                E4b 74/693
+1160 Anstey Bob                  34567.1.  5.    3.    127.5.    7   127 p           Spliced                                                E2b 74/693
+1161 Pushkin Bob                 34567.1.  5.    3.    7.  12345.7   127 p           Spliced                                                B4b 74/693
+1162 Brunswick Bob               34567.1.  5.    3.    7.  125.  7   127 p           Spliced                                                B2b 74/693
+1163 Sundance Bob                34567.1.  5.    3.    7.  345.  7   127 p           Spliced                                                A4b 74/693
+1164 Willoughby Waterleys Bob    34567.1.  5.    3.    7.  5.    7   127 p           Spliced                                                A2b 74/693 670 750
+1165 Guisborough Place           34567.1.  567.  123.  7.  12345.7   127 p           Spliced                                                D4d 74/693
+1166 Ashfell Bob                 34567.1.  567.  123.  7.  125.  7   127 p           Spliced                                                D2d 74/693
+1167 Marske-by-the-Sea Bob       34567.1.  567.  123.  7.  345.  7   127 p           Spliced                                                C4d 74/693
+1168 Chorlton-cum-Hardy Bob      34567.1.  567.  123.  7.  5.    7   127 p           Spliced                                                C2d 74/693
+1169 Dormanstown Bob             34567.1.  567.  3.    127.345.  7   127 p           Spliced                                                E4d 74/693
+1170 Newlands Bob                34567.1.  567.  3.    127.5.    7   127 p           Spliced                                                E2d 74/693
+1171 Redcar Bob                  34567.1.  567.  3.    7.  12345.7   127 p           Spliced                                                B4d 74/693
+1172 Ikaria Bob                  34567.1.  567.  3.    7.  125.  7   127 p           Spliced                                                B2d 74/693 87/558
+1173 Grangetown Bob              34567.1.  567.  3.    7.  345.  7   127 p           Spliced                                                A4d 74/693
+1174 Egerton Bob                 34567.1.  567.  3.    7.  5.    7   127 p           Spliced                                                A2d 74/693
+1175 Canterbury Pleasure Bob     347.  1.  7.    1.    7.  1.    7   127 1425736   3. 2.1887 Warnham                                            58/767
+1176 Winchendon Bob              347.  1.  7.    123.  7.  123.  7   127 1362475  15. 2.1969 Ossett                                             69/211
+1177 Aldbourne Bob               347.  1.  7.    123.  7.  125.  7   127 p         5. 5.1991 Aldbourne, St Michael                              91/520
+1178 Romsey Bob                  347.  1.  7.    123.  7.  5.    7   127 p        19. 7.1991 Brockenhurst                                       91/794
+1179 Downton Bob                 347.  1.  7.    3.    7.  125.  7   127 p        25. 7.1992 Salisbury, St Thomas                               92/845
+1180 St Nicholas Bob             347.  1.  7.    3.    7.  3.    7   127 1362475   4.10.1970 Earlsheaton                                        70/900
+1181 St Merwenna Bob             347.  1.  7.    3.    7.  5.    7   127 p        21. 4.1996 Romsey                                             96/542
+1182 Philadelphus Bob            367.  1.  5.    123.  7.  12345.7   127 p           Spliced                                                D3b 74/693
+1183 Superlation Bob             367.  1.  5.    123.  7.  125.  7   127 p           Spliced                                                D1b 74/693
+1184 Chrysanthemum Bob           367.  1.  5.    123.  7.  345.  7   127 p           Spliced                                                C3b 74/693
+1185 Bunter Bob                  367.  1.  5.    123.  7.  5.    7   127 p           Spliced                                                C1b 74/693
+1186 Buddleia Bob                367.  1.  5.    3.    127.345.  7   127 p           Spliced                                                E3b 74/693
+1187 Kea Bob                     367.  1.  5.    3.    127.5.    7   127 p           Spliced                                                E1b 74/693 87/558
+1188 Rhododendron Bob            367.  1.  5.    3.    7.  12345.7   127 p           Spliced                                                B3b 74/693
+1189 Wimsey Bob                  367.  1.  5.    3.    7.  125.  7   127 p           Spliced                                                B1b 74/693
+1190 Astilbe Bob                 367.  1.  5.    3.    7.  345.  7   127 p           Spliced                                                A3b 74/693
+1191 Sayers Bob                  367.  1.  5.    3.    7.  5.    7   127 p           Spliced                                                A1b 74/693
+1192 Middlesbrough Bob           367.  1.  567.  123.  7.  12345.7   127 p           Spliced                                                D3d 74/693
+1193 Chalfont Bob                367.  1.  567.  123.  7.  125.  7   127 p           Spliced                                                D1d 74/693
+1194 Teeside Bob                 367.  1.  567.  123.  7.  345.  7   127 p           Spliced                                                C3d 74/693
+1195 Craythorne Bob              367.  1.  567.  123.  7.  5.    7   127 p           Spliced                                                C1d 74/693
+1196 South Bank Bob              367.  1.  567.  3.    127.345.  7   127 p           Spliced                                                E3d 74/693
+1197 Brampton Bob                367.  1.  567.  3.    127.5.    7   127 p           Spliced                                                E1d 74/693
+1198 Cleveland Bob               367.  1.  567.  3.    7.  12345.7   127 p           Spliced                                                B3d 74/693
+1199 Kench Hill Bob              367.  1.  567.  3.    7.  125.  7   127 p           Spliced                                                B1d 74/693
+1200 Saltburn Bob                367.  1.  567.  3.    7.  345.  7   127 p           Spliced                                                A3d 74/693
+1201 Beresford Bob               367.  1.  567.  3.    7.  5.    7   127 p           Spliced                                                A1d 74/693 670 750
+1202 Cringleford Bob             5.    1.  5.    1.    347.125.  7   127 p        14.12.1962 Hethersett                                         62/875
+1203 Dereham Bob                 5.    1.  5.    1.    347.5.    7   127 p        24.10.1962 Dereham                                            62/754
+1204 Carshalton Bob              5.    1.  5.    1.    7.  5.    7   127 p        11. 2.1953 Salle                                       16     53/130
+1205 St Ethelflaeda Bob          5.    1.  5.    3.    127.3.    7   127 q        17. 2.1990 Salisbury, St Thomas                               90/301
+1206 Aquarius Bob                5.    1.  5.    3.    7.  123.  7   127 q           Spliced                                                    97/510
+1207 St Edmundsbury Bob          5.    1.  5.    3.    7.  3.    7   127 q         4. 2.1953 Hethersett                                  13     53/115
+1208 Middlesex Bob               5.    1.  7.    1.    7.  1.    7   125 1372645  21. 1.1733 Twickenham                                         58/767
+1209 Hawkhurst Bob               5.    1.  7.    1.    7.  3.    7   127 p        15.11.1955 Aldermaston                                        55/755 800
+1210 Pennings Bob                5.    147.5.    3.    147.3.    7   127 p        13. 4.1907 Stansted                                    19     58/767
+1211 Aluminium Bob               5.    147.5.    3.    7.  123.  7   127 q           Spliced                                                    97/510
+1212 Clavis Bob                  5.    147.5.    3.    7.  3.    7   127 q        11. 2.1978 Hayes                                              78/188
+1213 Banstead Bob                567.  1.  7.    1.    7.  1.    7   125 1362754   8. 5.1999 Banstead                                           99/553
+1214 Hunslet Bob                 567.  1.  7.    1.    7.  1.    7   127 1362475   4. 8.1966 Leeds, St Peter                                    66/548
+1215 St Mary's Bob               567.  1.  7.    1.    7.  3.    7   127 p         9.11.1997 Acton (Middx)                                      97/1220 98/123
+1216 Owl Bob                     567.  1.  7.    123.  7.  345.  7   127 q           Spliced                                                    97/510
+1217 Robin Bob                   567.  1.  7.    3.    127.345.  7   127 q           Spliced                                                    97/510
+1218 Blackbird Bob               567.  1.  7.    3.    7.  125.  7   127 q           Spliced                                                    97/510
+1219 Albatross Bob               567.  1.  7.    3.    7.  5.    7   127 q           Spliced                                                    97/510
+1220 Hammersmith Bob             7.    1.  5.    123.  7.  345.  7   127 q           Spliced                                                    97/510
+1221 Baker Street Bob            7.    1.  5.    3.    7.  125.  7   127 q           Spliced                                                    97/510
+1222 Kings Cross Bob             7.    1.  5.    3.    7.  345.  7   127 q           Spliced                                                    97/510
+1223 St Pancras Bob              7.    1.  5.    3.    7.  5.    7   127 q        22. 6.1980 Windsor, St John-the-Baptist                       80/492 633
+1224 Brue Bob                    7.    1.  567.  3.    7.  125.  7   127 q           Spliced                                                    97/510
+1225 Axe Bob                     7.    1.  567.  3.    7.  5.    7   127 q           Spliced                                                    97/510
+1226 Plain Bob                   7.    1.  7.    1.    7.  1.    7   127 p         2. 5.1715 Norwich, St Peter Mancroft      18. 1.1889         58/767
+1227 St Martin's Bob             7.    1.  7.    123.  7.  123.  7   127 q        21.12.1968 East Ardsley                                       69/71
+1228 St Andrew Bob               7.    1.  7.    123.  7.  3.    7   127 q        12. 2.1983 Pershore, St Andrew                                67/308 83/185
+1229 St Alkmund Bob              7.    1.  7.    3.    127.3.    7   127 q        23.11.1995 Aberdeen, St Machar's Cathedral                    67/308 96/130
+1230 St Peter Bob                7.    1.  7.    3.    7.  123.  7   127 q        25.11.1992 Aberdeen, St Machar's Cathedral                    67/308 93/122
+1231 Royal Holloway College Bob  7.    1.  7.    3.    7.  3.    7   125 1426753   3.10.1981 Frodsham                                           81/1080
+1232 St Simon's Bob              7.    1.  7.    3.    7.  3.    7   127 q        12. 4.1732 St Bride, Fleet Street, EC                         58/767
+1233 Diamond Bob                 7.    145.7.    3.    7.  123.  7   127 q           Spliced                                                    97/510
+1234 Amethyst Bob                7.    145.7.    3.    7.  3.    7   127 q           Spliced                                                    97/510
+
+Single-hunt Little Triples methods (treble to 5ths)
+
+ No. Name                        Notation  hl le  lh Tower bells RW ref
+
+1235 Hever Little Bob            7.1.  5.3.5  127 q      Spliced 97/510
+1236 Sherborne Abbey Little Bob  7.145.5.3.5  127 q      Spliced 97/510
+
+Twin-hunt Triples methods (a)
+
+ No. Name                      Notation      hl lh      Tower bells Place                      Handbells  CCC RW ref
+
+1237 Single Oxford Bob         3.1.5.1.7.1.7.1  b        14. 5.1788 Wakefield                               5 58/767
+1238 Hereward Bob              3.1.5.1.7.3.7.1  e         5.10.1935 Chester, Old St Mary                    8 35/648
+1239 Double Oxford Bob         3.1.5.1.7.3.7.5  f        20.11.1908 Chester, Old St Mary                    7 58/767
+1240 Grandsire                 3.1.7.1.7.1.7.1  a        26. 8.1718 Norwich, St Peter Mancroft  1. 8.1828   1 58/767
+1241 London New Bob            3.1.7.1.7.1.7.3  1253674     Spliced                                           93/855
+1242 Double Grandsire          3.1.7.1.7.1.7.5  b        31.12.1779 Wakefield                               3 58/767
+1243 Aldington Pleasure Bob    3.1.7.1.7.3.7.1  1276435     Spliced                                           93/855
+1244 St Clement's College Bob  3.1.7.1.7.3.7.3  f        24. 2.1911 Handbridge                  2.11.1946  10 46/540 58/767
+1245 Single Darlaston Bob      5.1.5.1.7.1.7.1  1273645  10.10.1891 Darlaston                  16.11.1896     58/767
+1246 London Delight Bob        5.1.7.1.7.1.7.5  1273645     Spliced                                           93/855
+1247 Single Court Bob          7.1.5.1.7.1.7.1  g        18. 9.1886 Warnham                                 4 58/767
+1248 Double Court Bob          7.1.5.1.7.3.7.1  h         2.10.1933 Ealing, Christ Church                   6 33/643
+1249 London Bob                7.1.5.1.7.3.7.5  l         5. 3.1927 Bridgend                                9 27/147
+1250 Reverse Grandsire         7.1.7.1.7.1.7.5  g         9. 3.1782 Hackney                                 2 58/767
+1251 College Bob               7.1.7.1.7.3.7.3  l        24. 2.1911 Chester, Old St Mary       13. 7.1955  11 55/452 58/767
+
+Asymmetric twin-hunt Triples methods
+
+ No. Name          Notation                    lh      Tower bells Place             RW ref
+
+1252 Union         3.1.7.1.7.1.7.1.7.1.7.1.5.1 1256734  17. 2.1728 St Lawrence Jewry 58/767
+1253 Double Union  3.1.7.1.7.3.7.5.7.1.7.1.5.1 1273456   1. 3.1771 Leeds (Yorks)     58/767

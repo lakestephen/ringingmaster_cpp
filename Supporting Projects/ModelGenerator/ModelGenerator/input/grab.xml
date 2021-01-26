@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<!DOCTYPE model SYSTEM "model.dtd">
+
+<model classname="Grab">
+  <field type="COleDateTime">
+    <variableName>GrabDate</variableName>
+  </field>
+  <field type="enum">
+    <variableName>BellsGo</variableName>
+    <enumName>BellsGo</enumName>
+  </field>
+  <field type="enum">
+    <variableName>BellsSound</variableName>
+    <enumName>BellsSound</enumName>
+  </field>
+  <field type="CString">
+    <variableName>Comments</variableName>
+  </field>
+  <field type="Info">
+    <variableName>ParentTower</variableName>
+    <infoName>Tower</infoName>
+  </field>
+
+</model>

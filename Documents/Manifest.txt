@@ -1,0 +1,17 @@
+RingingMaster Manifest
+
+Files:
+
+	RingingMaster.exe          - The main Application.
+	Methods.dat		   - The method explorer data file
+	RingingMaster.chm	   - RingingMaster help file
+	Bells.????		   - bell sounds (dir???)
+
+	little bob thirty in.tch   - example file
+	cambridge peal.tch         - example file
+	bristol.tch                - example file
+	plain bob.tch              - example file
+	spliced???
+
+	Manifest.txt               - This file.
+

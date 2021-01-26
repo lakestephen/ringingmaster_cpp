@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="Shift_JIS"?>
+
+<GRAMMAR>
+	<RULE NAME="MAIN" TOPLEVEL="ACTIVE" DYNAMIC="TRUE">
+		<L>
+			<P>bob</P>
+			<P>single</P>
+		</L>
+	</RULE>
+</GRAMMAR>

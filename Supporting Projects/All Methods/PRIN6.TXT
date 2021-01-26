@@ -1,0 +1,62 @@
+Copyright Central Council of Church Bell Ringers, September 2001
+Minor principles (2 changes per lead)
+
+ No. Name      Notation lh     Tower bells Place   Handbells  RW ref
+
+  84 Original  - 16     241635   6. 9.1969 Trowell  5. 9.1969 69/815 818
+
+Minor principles (4 changes per lead)
+
+ No. Name     Notation   lh     RW ref
+
+  85 Forward  34 - 34.16 241635 79/744
+
+Minor principles (6 changes per lead)
+
+ No. Name          Notation          lh     RW ref
+
+  86 Canis         -  16 -  16 -  12 642513 93/215
+  87 Ursa          34.16 -  16.34.12 635214 93/215
+  88 Double Eire   34.16.34.16.34 -  315264 91/1123
+
+Minor principles (8 changes per lead)
+
+ No. Name           Notation             lh     RW ref
+
+  89 Kidderminster  34 - 34.16 - 34 - 16 412563 90/88
+
+Minor principles (12 changes per lead)
+
+ No. Name                  Notation                           lh     RW ref
+
+  90 Brussels Sprout       -  16.34.12.34 - 34.12.34.16 -  12 642513 84/388
+  91 Hekaton               -  36.12.34.12 - 12.34.12.36 -  16 251364 86/270
+  92 St Thomas the Martyr  14 -  16.34.12 - 12.34.16 -  14.36 654132 86/675
+  93 Priors Dean           34.16 -  16.34 - 34.16 -  16.34.12 451632 92/936
+  94 Clotherholme          34.16.34.16.34 - 34.16.34.16.34.12 356142 91/184
+  95 St Maurice            56.12.36 -  14 - 14 -  36.12.56.14 316524 92/1128
+
+Minor principles (16 changes per lead)
+
+ No. Name     Notation                                 lh     RW ref
+
+  96 Shipway  - 36.14 - 14 - 14 - 14.36 - 14 - 14 - 14 615243 93/683
+
+Minor principles (20 changes per lead)
+
+ No. Name      Notation                                                 lh     RW ref
+
+  97 Pitman    - 14 - 36.14 -  14.36.14 -  14.36.14 -  14.36 -  14 - 16 456312 70/514 614
+  98 Striking  - 36 - 14 -  36.14 -  14.36.14 -  14.36.14 -  14.36 - 14 561324 85/42
+
+Minor principles (24 changes per lead)
+
+ No. Name    Notation                                                           lh     RW ref
+
+  99 Eureka  34.16.34.16 - 16.34.16.34.16 - 36 - 16.34.16.34.16 - 16.34.16.34 - 235164 86/752
+
+Minor principles (40 changes per lead)
+
+ No. Name        Notation                                                                                                   lh     RW ref
+
+ 100 St Francis  - 12 - 14 - 36.14 - 34 - 16 - 16.34.12.36.12.34.12 - 12.34.12.36.12.34.16 - 16 - 34 - 14.36 - 14 - 12 - 16 564123 95/51

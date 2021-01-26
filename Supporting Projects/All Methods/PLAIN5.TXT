@@ -1,0 +1,327 @@
+Copyright Central Council of Church Bell Ringers, September 2001
+Single-hunt Doubles methods
+
+ No. Name                               Notation        hl  le  lh    Tower bells Place               Handbells  CCC RW ref
+
+  12 Ancaster Bob                       3.  1.  125.1.  345 1   13452  29. 4.1994 Heveningham                     89 70/13  94/561
+  13 Quirister Bob                      3.  1.  125.1.  5   123 14532  24. 9.1994 Acton (Suffolk)                 97 94/1072
+  14 Camelion Bob                       3.  1.  125.1.  5   125 q                                                 76 
+  15 Blaisdon Bob                       3.  1.  125.123.5   125 p                                                 78 66/125
+  16 St Alphage Bob                     3.  1.  125.3.  145 1   13452                                             90 
+  17 St Vedast Bob                      3.  1.  125.3.  5   125 p                                                 80 
+  18 Uffington Bob                      3.  1.  5.  1.  125 1   r      28. 1.1994 Heveningham                     84 94/209
+  19 Reverse St Simon's Bob             3.  1.  5.  1.  145 1   13452                                             85 
+  20 Union Bob                          3.  1.  5.  1.  345 1   s       2. 2.1963 Penhow                          86 63/116
+  21 St Augustine Bob                   3.  1.  5.  1.  5   123 15423  26. 9.1957 Brampford Speke     22.12.1974  91 53/283 57/653 75/81
+  22 Chase Bob                          3.  1.  5.  1.  5   145 14532  10. 6.1960 Little Houghton                    55/811 60/428
+  23 Reverse St Nicholas Bob            3.  1.  5.  123.145 1   13452                                             87 
+  24 Huntspill Bob                      3.  1.  5.  123.5   125 p      29. 8.1953 Stanwell                        69 53/608
+  25 Reverse New Bob                    3.  1.  5.  3.  145 1   s                                                 88 
+  26 New Bob                            3.  1.  5.  3.  5   125 p      15.11.1958 Silchester                      73 58/789
+  27 Helpringham Bob                    3.  145.125.1.  345 1   r                                                120 70/13
+  28 Morning Star Bob                   3.  145.125.1.  5   123 15423                                            128 
+  29 Dragon Place                       3.  145.125.123.5   125 p       9. 5.1986 Skillington                    110 66/125 86/564
+  30 St Gregory Bob                     3.  145.125.3.  145 1   r                                                121 
+  31 St Hilary Bob                      3.  145.125.3.  5   125 p                                      4. 9.1958 112 58/622
+  32 Datchet Bob                        3.  145.5.  1.  125 1   13452                                            115 
+  33 Reverse St Osmund Bob              3.  145.5.  1.  145 1   r                                                116 
+  34 St Julian Bob                      3.  145.5.  1.  345 1   15234                                            117 
+  35 St James Bob                       3.  145.5.  1.  5   123 14532   9. 3.1963 Isham               14.12.1974 122 63/203 75/81
+  36 Shipway Place                      3.  145.5.  1.  5   125 q      29. 7.1954 Midgham             31. 8.1958 100 54/517 58/621
+  37 Reverse St Remigius Bob            3.  145.5.  123.145 1   r                                                118 
+  38 Blackburn Place                    3.  145.5.  123.5   125 p      22. 4.1989 Heveningham          2. 9.1958 103 52/752 58/622 89/462
+  39 Reverse St Vedast Bob              3.  145.5.  3.  145 1   15234                                            119 
+  40 Westminster II Bob                 3.  145.5.  3.  5   125 p                                      3. 9.1958 106 58/622
+  41 Newton Place                       345.1.  125.1.  345 1   r                                                151 70/13
+  42 Evening Star Place                 345.1.  125.1.  5   123 15423                                            159 70/199
+  43 Bradford-on-Tone Place             345.1.  125.1.  5   145 14532                                                86/719
+  44 Huntley Place                      345.1.  125.123.5   125 p      30.12.1988 Wetheringsett                  141 66/125 89/107
+  45 St Andrew Place                    345.1.  125.3.  145 1   r       3.12.1960 Cotterstock                    152 60/830
+  46 St Remigius Bob                    345.1.  125.3.  5   125 p       4. 5.1963 North Stoneham       5. 9.1958 143 58/622 63/341
+  47 Stowe Place                        345.1.  5.  1.  125 1   13452                                            146 
+  48 Reverse St Martin's Bob            345.1.  5.  1.  145 1   r                                                147 
+  49 St Faith Place                     345.1.  5.  1.  345 1   15234                                            148 
+  50 All Saints Place                   345.1.  5.  1.  5   123 14532   6.12.1952 Sutton Coldfield    14.12.1974 153 52/820 75/81
+  51 Reverse Canterbury Pleasure Place  345.1.  5.  1.  5   125 q      11. 7.1954 Goodworth Clatford  22. 6.1958 131 58/461
+  52 Brigstock Place                    345.1.  5.  1.  5   145 15423                                                69/110
+  53 Reverse Winchendon Place           345.1.  5.  123.145 1   r                                                149 
+  54 Winchendon Place                   345.1.  5.  123.5   125 p       8.11.1958 Abbots Ann          31.12.1958 134 58/754 59/74
+  55 Reverse Huntspill Bob              345.1.  5.  3.  145 1   15234                                            150 
+  56 St Nicholas Bob                    345.1.  5.  3.  5   125 p       4.11.1955 Hatherop             1. 9.1958 137 55/740 58/622
+  57 Braceborough Place                 345.145.125.1.  345 1   13452                                            167 70/13
+  58 Cathedral Place                    345.145.125.1.  5   123 14532  18.12.1993 Little Glemham                 175 70/199 94/61
+  59 Honington Place                    345.145.125.3.  145 1   13452                                            168 70/13
+  60 Tallington Place                   345.145.5.  1.  125 1   r                                                162 
+  61 Chapel-en-le-Frith Bob             345.145.5.  1.  145 1   13452                                            163 69/548
+  62 Rouen Place                        345.145.5.  1.  345 1   s      15.12.1995 Badingham                      164 96/69 187
+  63 Minster Place                      345.145.5.  1.  5   123 15423   8. 3.1975 Leck                15.12.1974 169 75/81 320
+  64 Sempringham Place                  345.145.5.  123.145 1   13452                                            165 69/548
+  65 Thurlby Bob                        345.145.5.  3.  145 1   s                                                166 70/13
+  66 Wellington Place                   5.  1.  125.1.  345 1   r                                                 22 70/276
+  67 Cippenham Place                    5.  1.  125.1.  5   123 15423                                             35 70/659
+  68 Oake Place                         5.  1.  125.1.  5   145 14532                                                86/724
+  69 Abbey Place                        5.  1.  125.123.345 1   13452                                             23 
+  70 St Ouen Place                      5.  1.  125.123.5   123 14532                                             37 
+  71 Eynesbury Bob                      5.  1.  125.123.5   125 q                                                 11 66/125
+  72 St Botolph Place                   5.  1.  125.3.  125 1   15234                                             24 
+  73 Reverse Shipway Place              5.  1.  125.3.  145 1   r                                                 25 
+  74 St Sebastian Bob                   5.  1.  125.3.  345 1   13452                                             26 
+  75 Fifield Bob                        5.  1.  125.3.  5   123 14532                                             39 
+  76 St Osmund Bob                      5.  1.  125.3.  5   125 q       8. 9.1962 Warmley              2. 9.1958  13 58/622 62/652
+  77 Reverse Bob                        5.  1.  5.  1.  145 1   r                                     29. 8.1958  16 58/621
+  78 Plain Bob                          5.  1.  5.  1.  5   125 p       2. 2.1885 Rushden (Northants) 30. 7.1944   1 44/334
+  79 Coxwell Place                      5.  1.  5.  123.125 1   15234                                  2. 7.1959  17 59/463
+  80 Canterbury Place                   5.  1.  5.  123.145 1   r                                      2. 9.1958  18 58/622
+  81 All Hallows Place                  5.  1.  5.  123.345 1   13452                                             19 
+  82 Bampton Place                      5.  1.  5.  123.5   123 14532                                             28 53/417
+  83 St Martin's Bob                    5.  1.  5.  123.5   125 q       5. 2.1955 Pentrich             8.12.1957   4 55/101 57/834
+  84 Stedman Bob                        5.  1.  5.  3.  125 1   15234   3. 4.1964 Croft (Leics)       22. 6.1964  20 64/282 488
+  85 St Bartholomew's Bob               5.  1.  5.  3.  345 1   13452  13. 1.1979 Church Minshull                 21 79/99
+  86 Twineham Bob                       5.  1.  5.  3.  5   123 14532  18.11.1994 Heveningham                     32 94/1275
+  87 St Simon's Bob                     5.  1.  5.  3.  5   125 q       6. 3.1911 Bramfield           20. 7.1951   7 51/487
+  88 Gedney Hill Place                  5.  145.125.123.345 1   13452                                             50 70/418
+  89 Montgomeryshire Place              5.  145.125.123.5   123 14532  22. 3.1996 Badingham                       63 96/444
+  90 Middlesex Place                    5.  145.125.3.  125 1   15234                                             51 69/715
+  91 Swinderby Bob                      5.  145.125.3.  345 1   13452                                             52 70/418
+  92 Callender Bob                      5.  145.125.3.  5   123 14532                                             65 66/135
+  93 Dunston Place                      5.  145.5.  1.  125 1   r                                                 43 70/418
+  94 Hordle Place                       5.  145.5.  1.  345 1   s                                                 44 69/80
+  95 Wainfleet Place                    5.  145.5.  1.  5   123 15423  12. 3.1989 Earl Stonham        21.12.1974  53 66/135 75/81 89/347
+  96 Anglesey Place                     5.  145.5.  123.125 1   15234                                             45 69/715
+  97 North Rauceby Place                5.  145.5.  123.345 1   13452  25. 8.1995 Heveningham                     46 70/418 95/1054
+  98 Chevasse Place                     5.  145.5.  123.5   123 14532                                             56 66/135
+  99 Carmarthen Bob                     5.  145.5.  3.  125 1   15234                                             47 69/715
+ 100 Barrowby Bob                       5.  145.5.  3.  145 1   s                                                 48 70/418
+ 101 Irnham Bob                         5.  145.5.  3.  345 1   13452  22. 7.1994 Heveningham                     49 70/418 94/809 868
+ 102 Maltby Bob                         5.  145.5.  3.  5   123 14532                                             59 66/135
+
+Single-hunt Little Doubles methods (treble to 2nds)
+
+ No. Name               Notation hl  le lh RW ref
+
+ 103 Bistow Little Bob  5.       125 1  s  00/159
+
+Single-hunt Little Doubles methods (treble to 3rds)
+
+ No. Name                   Notation hl  le  lh    CCC RW ref
+
+ 104 Stanwell Little Bob    3.  1.   3   125 p     267 58/755
+ 105 Clewer Little Place    3.  145. 3   125 p     270 58/755
+ 106 Hampton Little Bob     345.1.   3   125 p     273 58/755
+ 107 Littleton Little Bob   5.  1.   123 1   15234 275 59/215
+ 108 Ashford Little Bob     5.  1.   3   125 q     277 58/755
+ 109 Laleham Little Place   5.  1.   345 1   13452 278 59/215
+ 110 Lathbury Little Place  5.  145. 123 1   15234 280 59/215
+
+Single-hunt Little Doubles methods (treble to 4ths)
+
+ No. Name                                                                      Notation hl  le lh RW ref
+
+ 111 Little Little Little Little Little Little Little Penultimus Little Place  5.1.5.   145 1  r  01/829
+
+Twin-hunt Doubles methods (a)
+
+ No. Name                    Notation      hl lh Tower bells Place         Handbells  CCC RW ref
+
+ 112 Breaston Bob            3.1.  5.1.125.3  f                                           65/624
+ 113 Grandsire               3.1.  5.1.5.  1  a    7. 3.1777 Alton (Hants)  5. 8.1912 178 V3/88
+ 114 Double Grandsire        3.1.  5.1.5.  3  f    5. 7.1958 Neath                        58/492
+ 115 Double Antelope Place   3.145.5.1.125.3  a     
+ 116 Antelope Place          3.145.5.1.5.  1  f    9.11.1964 Barton Stacey 11. 1.1961 180 61/110 64/808
+ 117 Spondon Bob             3.145.5.1.5.  3  a                                           65/624
+ 118 Reverse Antelope Place  5.1.  5.1.125.3  g                                       181 
+ 119 Reverse Grandsire       5.1.  5.1.5.  3  g                                       179 
+
+Twin-hunt Doubles methods (b)
+
+ No. Name                               Notation        hl  le  lh    Tower bells Place           Handbells  CCC RW ref
+
+ 120 Castlewood Bob                     3.  1.  125.1.  345 123 14352                                         98 70/199
+ 121 Ditton Bob                         3.  1.  125.1.  345 125 14235                                         77 70/659
+ 122 Screveton Bob                      3.  1.  125.123.345 125 13425                                         79 
+ 123 Chipstead Slow Course              3.  1.  125.3.  125 125 12534                                         81 
+ 124 Kiln Green Bob                     3.  1.  125.3.  145 123 14352  26. 4.1991 Heveningham                 99 69/715 91/474
+ 125 Bethnal Bob                        3.  1.  125.3.  145 125 14235                                         82 
+ 126 Bedingham Bob                      3.  1.  125.3.  345 125 13425                                         83 
+ 127 Bedfordshire Bob                   3.  1.  5.  1.  125 123 15324                                         92 
+ 128 Cumberland Bob                     3.  1.  5.  1.  125 145 13542                                            69/243
+ 129 Bag Enderby Bob                    3.  1.  5.  1.  145 123 14352                                         93 69/489
+ 130 St Edward Bob                      3.  1.  5.  1.  145 125 14235                                         68 
+ 131 Poyle Slow Course                  3.  1.  5.  1.  345 123 12453                                         94 53/123
+ 132 Derbyshire Bob                     3.  1.  5.  1.  345 145 14235                                            69/243
+ 133 Oakley Slow Course                 3.  1.  5.  123.125 125 12534                                         70 
+ 134 Hagworthingham Bob                 3.  1.  5.  123.145 123 14352                                         95 69/489
+ 135 Perry Oaks Bob                     3.  1.  5.  123.145 125 14235                                         71 
+ 136 Ellingham Bob                      3.  1.  5.  123.345 125 13425                                         72 
+ 137 Itchingfield Slow Course           3.  1.  5.  3.  125 125 12534  15. 2.1975 Itchingfield                74 50/122 75/218
+ 138 Yeoveney Slow Course               3.  1.  5.  3.  145 123 12453  25. 1.1991 Heveningham                 96 53/123 91/197
+ 139 Forncett Bob                       3.  1.  5.  3.  345 125 13425                                         75 
+ 140 Hambledon Bob                      3.  145.125.1.  345 123 15324                                        129 70/199
+ 141 Strelley Place                     3.  145.125.123.345 125 13425                                        111 
+ 142 Ockham Slow Course                 3.  145.125.3.  125 125 12534                                        113 
+ 143 Woughton-on-the-Green Bob          3.  145.125.3.  145 123 15324                                        130 69/715
+ 144 Intwood Bob                        3.  145.125.3.  345 125 13425                                        114 
+ 145 Bristol Bob                        3.  145.5.  1.  125 123 14352   9.11.1990 Heveningham                123 90/1171
+ 146 Tandridge Place                    3.  145.5.  1.  125 125 14235                                        101 
+ 147 Claypole Bob                       3.  145.5.  1.  145 123 15324                                        124 69/489
+ 148 Colne Slow Course                  3.  145.5.  1.  345 123 12534                                        125 53/123
+ 149 Colnbrook Slow Course              3.  145.5.  1.  345 125 12453                                        102 53/123
+ 150 Broughton Slow Course              3.  145.5.  123.125 125 12534                                        104 
+ 151 Bracebridge Heath Bob              3.  145.5.  123.145 123 15324                                        126 69/489
+ 152 Lyng Place                         3.  145.5.  123.345 125 13425  17. 2.1995 Heveningham                105 95/300
+ 153 Chesham Slow Course                3.  145.5.  3.  125 125 12534                                        107 53/123
+ 154 Crane Slow Course                  3.  145.5.  3.  145 123 12534                                        127 53/123
+ 155 Cranford Slow Course               3.  145.5.  3.  145 125 12453                                        108 53/123
+ 156 Knapton Bob                        3.  145.5.  3.  345 125 13425                                        109 
+ 157 Biddesden Place                    345.1.  125.1.  345 123 15324                                        160 70/199
+ 158 Ossington Place                    345.1.  125.123.345 125 13425  24. 3.1995 Badingham                  142 95/473
+ 159 Hascombe Slow Course               345.1.  125.3.  125 125 12534                                        144 
+ 160 Wisborough Green Place             345.1.  125.3.  145 123 15324                                        161 69/715
+ 161 Harpley Bob                        345.1.  125.3.  345 125 13425                                        145 
+ 162 Berkshire Place                    345.1.  5.  1.  125 123 14352                                        154 
+ 163 Dorton Place                       345.1.  5.  1.  125 125 14235   5. 7.1989 Needwood                   132 89/690
+ 164 Great Dalby Bob                    345.1.  5.  1.  145 123 15324                                        155 69/489
+ 165 Runemede Slow Course               345.1.  5.  1.  345 123 12534                                        156 53/123
+ 166 Raveningham Slow Course            345.1.  5.  1.  345 125 12453                                        133 50/170
+ 167 Thornborough Slow Course           345.1.  5.  123.125 125 12534                                        135 
+ 168 Long Clawson Place                 345.1.  5.  123.145 123 15324                                        157 69/489
+ 169 Haddiscoe Place                    345.1.  5.  123.345 125 13425                                        136 
+ 170 Longford Slow Course               345.1.  5.  3.  125 125 12534                                        138 53/123
+ 171 Harmondsworth Slow Course          345.1.  5.  3.  145 123 12534                                        158 53/123
+ 172 Heathrow Slow Course               345.1.  5.  3.  145 125 12453                                        139 53/123
+ 173 Fundenhall Bob                     345.1.  5.  3.  345 125 13425   7.10.1994 Ashbocking                 140 94/1145
+ 174 Broadhalfpenny Place               345.145.125.1.  345 123 14352                                        176 70/199
+ 175 Weston-on-the-Green Place          345.145.125.3.  145 123 14352                                        177 69/715
+ 176 Buckinghamshire Place              345.145.5.  1.  125 123 15324                                        170 
+ 177 Frithville Bob                     345.145.5.  1.  145 123 14352                                        171 69/489
+ 178 Cambridgeshire Slow Course         345.145.5.  1.  345 123 12453                                        172 
+ 179 Yaddlethorpe Place                 345.145.5.  123.145 123 14352                                        173 69/489
+ 180 Scarletts Slow Course              345.145.5.  3.  145 123 12453                                        174 69/715
+ 181 Cowthorpe Place                    5.  1.  125.1.  345 123 15324                                         36 
+ 182 Nunthorpe Place                    5.  1.  125.123.345 123 14352                                         38 
+ 183 Sutton-upon-Trent Bob              5.  1.  125.123.345 125 14235                                         12 
+ 184 Eton Slow Course                   5.  1.  125.3.  125 123 12534                                         40 55/811
+ 185 Merton Slow Course                 5.  1.  125.3.  125 125 12453  11. 1.1958 Merton (Surrey)             14 58/90
+ 186 Kelleythorpe Place                 5.  1.  125.3.  145 123 15324                                         41 
+ 187 Manthorpe Bob                      5.  1.  125.3.  345 123 14352                                         42 
+ 188 Longworth Bob                      5.  1.  125.3.  345 125 14235                                         15 
+ 189 Boxford Bob                        5.  1.  5.  1.  125 125 13425                                          2 
+ 190 Pensthorpe Bob                     5.  1.  5.  1.  145 123 15324                                         27 
+ 191 Candlesby Slow Course              5.  1.  5.  1.  345 125 12534                                          3 53/75
+ 192 Boveney Slow Course                5.  1.  5.  123.125 123 12534                                         29 55/811
+ 193 Slapton Slow Course                5.  1.  5.  123.125 125 12453                                          5 
+ 194 Freethorpe Place                   5.  1.  5.  123.145 123 15324                                         30 
+ 195 Casthorpe Place                    5.  1.  5.  123.345 123 14352                                         31 
+ 196 Welford Bob                        5.  1.  5.  123.345 125 14235                                          6 
+ 197 Bedfont Slow Course                5.  1.  5.  3.  125 123 12534                                         33 53/123
+ 198 Rugby Slow Course                  5.  1.  5.  3.  125 125 12453                                          8 53/6
+ 199 St Edmund Slow Course              5.  1.  5.  3.  145 125 12534                             21. 6.1964   9 64/488
+ 200 Londonthorpe Bob                   5.  1.  5.  3.  345 123 14352                                         34 
+ 201 Braywood Bob                       5.  1.  5.  3.  345 125 14235                                         10 
+ 202 Radnorshire Place                  5.  145.125.123.345 123 14352                                         64 
+ 203 Glamorgan Slow Course              5.  145.125.3.  125 123 12534                                         66 
+ 204 Merionethshire Bob                 5.  145.125.3.  345 123 14352                                         67 
+ 205 Cheshire Place                     5.  145.5.  1.  125 123 15324                                         54 
+ 206 Cornwall Slow Course               5.  145.5.  1.  345 123 12453                                         55 
+ 207 Denbighshire Slow Course           5.  145.5.  123.125 123 12534                                         57 
+ 208 Flintshire Place                   5.  145.5.  123.345 123 14352                                         58 
+ 209 Cardiganshire Slow Course          5.  145.5.  3.  125 123 12534                                         60 
+ 210 Pinchbeck Slow Course              5.  145.5.  3.  145 123 12453                                         61 70/418
+ 211 Caernarvonshire Bob                5.  145.5.  3.  345 123 14352                                         62 
+
+Twin-hunt Doubles methods (c)
+
+ No. Name                               Notation                        lh    CCC RW ref
+
+ 212 Bedfont Place                      345.1.  5.1.345.1.  5.  1.5.1   14235 187 55/763
+ 213 Double Portington Place            345.1.  5.1.345.123.5.  1.5.123 13425     90/657
+ 214 Cranbourne Place                   5.  1.  5.1.5.  123.5.  1.5.123 14235 186 55/763
+
+Twin-hunt Little Doubles methods (a) (hunt bells to 3rds)
+
+ No. Name               Notation hl lh CCC
+
+ 215 Bastow Little Bob  5.1.3.   1  m  265
+
+Twin-hunt Little Doubles methods (b) (treble to 3rds)
+
+ No. Name                         Notation hl  le  lh    CCC RW ref
+
+ 216 Kempton Little Slow Course   3.  1.   123 125 12534 266 58/755
+ 217 Hanworth Little Bob          3.  1.   345 125 13425 268 58/755
+ 218 Spital Little Slow Course    3.  145. 123 125 12534 269 58/755
+ 219 Dedworth Little Place        3.  145. 345 125 13425 271 58/755
+ 220 Ickenham Little Slow Course  345.1.   123 125 12534 272 58/755
+ 221 Northolt Little Place        345.1.   345 125 13425 274 58/755
+ 222 Twyford Little Slow Course   5.  1.   123 125 12453 276 58/755
+ 223 Greenford Little Bob         5.  1.   345 125 14235 279 58/755
+
+Asymmetric single-hunt Doubles methods
+
+ No. Name                      Notation                                lh    Tower bells Place       RW ref
+
+ 224 Culworth Bob              3.  1.  125.123.5.  3.  5.  1.  3.  125 p                             99/946
+ 225 Wilbarston Bob            3.  1.  125.3.  125.3.  5.  1.  3.  125 p                             76/248
+ 226 Gretton Bob               3.  1.  125.3.  5.  123.5.  1.  3.  125 p                             76/248
+ 227 St Hugh Bob               3.  1.  5.  1.  5.  1.  5.  1.  5.  123 15234                         66/135
+ 228 Jack of Both Sides Bob    3.  1.  5.  1.  5.  3.  5.  1.  3.  125 14532                         66/135
+ 229 Jack a Napes Bob          3.  1.  5.  1.  5.  3.  5.  1.  3.  145 13452                         66/167
+ 230 Bishops Caundle Bob       3.  1.  5.  123.125.3.  5.  1.  3.  125 p                             76/248
+ 231 Caldecote Bob             3.  1.  5.  123.5.  3.  125.1.  3.  125 p                             76/248
+ 232 Bledlow Bob               3.  1.  5.  3.  125.123.5.  1.  3.  125 p                             76/248
+ 233 Dingley Bob               3.  1.  5.  3.  125.3.  125.1.  3.  125 p                             76/248
+ 234 Guilsborough Bob          3.  1.  5.  3.  5.  123.125.1.  3.  125 p                             99/946
+ 235 Rutland Branch Bob        3.  145.125.123.5.  3.  5.  145.3.  125 p                             99/946
+ 236 Aldwinkle Bob             3.  145.125.3.  125.3.  5.  145.3.  125 p                             76/248
+ 237 Barrowden Bob             3.  145.125.3.  5.  123.5.  145.3.  125 p                             76/248
+ 238 Melvin Place              3.  145.5.  1.  5.  1.  5.  1.  345.125 q                             66/135
+ 239 Thrussington Bob          3.  145.5.  123.125.3.  5.  145.3.  125 p                             76/248
+ 240 Wappenham Bob             3.  145.5.  123.5.  3.  125.145.3.  125 p                             76/248
+ 241 Beviow Bob                3.  145.5.  3.  125.123.5.  145.3.  125 p                             76/248
+ 242 Stanford-on-Avon Bob      3.  145.5.  3.  125.3.  125.1.  345.125 p   
+ 243 Sudborough Bob            3.  145.5.  3.  125.3.  125.145.3.  125 p                             76/248
+ 244 Great Oxendon Bob         3.  145.5.  3.  5.  123.125.1.  345.125 p   
+ 245 Thrapston Bob             3.  145.5.  3.  5.  123.125.145.3.  125 p                             99/946
+ 246 Wellingborough Bob        345.1.  125.123.5.  3.  5.  1.  345.125 p                             99/946
+ 247 Bulwick Bob               345.1.  125.3.  125.3.  5.  1.  345.125 p      18. 6.2001 Bulwick     75/113 01/686
+ 248 Barnack Bob               345.1.  125.3.  5.  123.5.  1.  345.125 p                             75/113
+ 249 Nowell Place              345.1.  5.  1.  5.  1.  5.  145.3.  125 q                             66/167
+ 250 Arnesby Bob               345.1.  5.  123.125.3.  5.  1.  345.125 p                             75/113
+ 251 Thornaugh Bob             345.1.  5.  123.5.  3.  125.1.  345.125 p                             75/113
+ 252 Great Easton Bob          345.1.  5.  3.  125.123.5.  1.  345.125 p                             75/113
+ 253 Nassington Bob            345.1.  5.  3.  125.3.  125.1.  345.125 p                             75/113
+ 254 Upper Dean Bob            345.1.  5.  3.  5.  123.125.1.  345.125 p                             99/1214
+ 255 Northampton Bob           5.  1.  125.123.5.  3.  5.  1.  5.  125 q                             99/946
+ 256 Litchborough Bob          5.  1.  125.3.  125.3.  5.  1.  5.  123 14532                         76/248
+ 257 Cotterstock Bob           5.  1.  125.3.  125.3.  5.  1.  5.  125 q                             75/113
+ 258 Pytchley Bob              5.  1.  125.3.  5.  123.5.  1.  5.  123 14532                         76/248
+ 259 Market Overton Bob        5.  1.  125.3.  5.  123.5.  1.  5.  125 q                             75/113
+ 260 Blaby Bob                 5.  1.  5.  123.125.3.  5.  1.  5.  123 14532                         76/248
+ 261 Hose Bob                  5.  1.  5.  123.125.3.  5.  1.  5.  125 q                             75/113
+ 262 Cottingham Bob            5.  1.  5.  123.5.  3.  125.1.  5.  123 14532                         76/248
+ 263 Peterborough Bob          5.  1.  5.  123.5.  3.  125.1.  5.  125 q       6. 5.1999 Stoke Doyle 75/113 99/555 653
+ 264 Fenny Drayton Bob         5.  1.  5.  3.  125.123.5.  1.  5.  123 14532                         76/248
+ 265 Kirby Muxloe Bob          5.  1.  5.  3.  125.123.5.  1.  5.  125 q                             75/113
+ 266 Arthingworth Bob          5.  1.  5.  3.  125.3.  125.1.  5.  123 14532                         76/248
+ 267 Polebrook Bob             5.  1.  5.  3.  125.3.  125.1.  5.  125 q                             75/113
+ 268 Kettering Bob             5.  1.  5.  3.  5.  123.125.1.  5.  125 q                             99/946
+ 269 Daventry Bob              5.  145.125.123.5.  3.  5.  145.5.  123 14532                         99/946
+ 270 Ely St Mary's Bob         5.  145.125.3.  345.3.  125.145.345.123 14253                         94/1278
+ 271 Towcester Bob             5.  145.5.  3.  5.  123.125.145.5.  123 14532                         99/946
+
+Asymmetric twin-hunt Doubles methods
+
+ No. Name                       Notation                                lh    Tower bells Place      CCC RW ref
+
+ 272 St Sepulcre's Slow Course  3.  1.  5.  1.  345.1.  5.  1.  5.  125 12453                            98/763
+ 273 Clewer Bob                 3.  1.  5.  123.5.  123.5.  1.  5.  1   14352    
+ 274 Swanton Bob                3.  1.  5.  3.  5.  3.  5.  1.  5.  1   14352                            50/671
+ 275 Double Newark Place        345.1.  5.  1.  125.123.5.  1.  5.  145 12534    
+ 276 Single Portington Place    345.1.  5.  1.  5.  1.  5.  1.  5.  123 14235                            90/95
+ 277 Newark Place               345.1.  5.  1.  5.  1.  5.  1.  5.  145 12453                        182 66/135
+ 278 Wollaton Place             345.145.5.  1.  5.  1.  5.  1.  5.  1   12534  30.12.1975 Hammerwood 184 66/135 76/96
+ 279 Double Wollaton Place      345.145.5.  1.  5.  123.125.1.  5.  1   12453    
+ 280 Reverse Newark Place       5.  1.  5.  1.  125.123.5.  1.  5.  1   12534                        183 
+ 281 Reverse Portington Place   5.  1.  5.  1.  345.123.5.  1.  5.  1   13425                            90/221
+ 282 Reverse Wollaton Place     5.  1.  5.  1.  5.  123.125.1.  5.  1   12534                        185 
+ 283 Solihull Bob               5.  1.  5.  3.  5.  3.  5.  1.  3.  1   12453    

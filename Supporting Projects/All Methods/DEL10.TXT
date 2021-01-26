@@ -1,0 +1,174 @@
+Copyright Central Council of Church Bell Ringers, September 2001
+Delight Royal methods
+
+ No. Name                     Notation                                                                             hl le lh         Tower bells Place                        Handbells  RW ref
+
+1368 Old Trafford             -  34   -  14   -  12   -  10   -    12   -    1250 -  14   -  50     -    14   -    50 10 l           31. 5.1993 Wilton                                  93/626
+1369 Sowerby                  -  34   -  14   -  12   -  10   -    12   -    10   -  12   -  10     -    12   -    10 10 1523749608   9. 2.1986 Chesterfield                  4.11.1981 81/1062 86/221
+1370 Bishopstoke              -  34   -  14   -  12   -  10   -    34   -    1250 -  16   -  70     -    16   -    70 10 k1          15. 2.2000 Bishopstoke                             00/223
+1371 Osterley                 -  34   -  14   -  12   -  10   -    34   -    10   -  34   -  10     -    34   -    10 10 m           25. 4.1979 Isleworth                               79/703
+1372 Octavian                 -  34   -  14   -  12   -  10   -    78   -    58   -  56   -  10     -    78   -    90 10 k1          23. 2.1997 Reading                                 97/316
+1373 Braintree                -  34   -  14   -  12   -  10.  34   -    34.  10.  34 -    34.10.    34   -    34.  10 10 h            1. 1.1999 Braintree                     2. 4.1985 85/395 99/119
+1374 Bolton                   -  34   -  1450 -  12   -  36   -    34   -    10   -  14   -  1470   -    58   -    70 12 f           27. 9.1981 Bolton                                  81/930
+1375 College Youths Pleasure  -  34   -  10   -  12   -  10   -    14   -    30   -  14   -  30     -    14   -    30 10 1346285079  13. 2.1972 Daventry                                72/201
+1376 Newbury                  -  36   -  14   -  50   -  16   -    34   -    10   -  36   -  30     -    36   -    30 12 f           27.11.1987 Thatcham                                87/1143
+1377 Derwent                  -  30   -  14   -  12   -  10   -    14   -    10   -  12   -  10     -    12   -    90 12 b            2.12.1988 Thatcham                                89/82
+1378 Faerie                   -  30   -  14   -  12   -  10   -    14   -    10   -  16   -  1470.  38.  16   -    90 12 b           27.11.1992 Thatcham                                93/126
+1379 Elthorne                 -  30   -  14   -  12   -  10   -    14   -    30   -  14   -  30     -    78   -    90 12 b           25. 2.1967 Hillingdon                              67/189
+1380 Dunham Massey            -  30   -  14   -  12   -  10   -    14   -    50   -  16   -  10     -    78   -    90 12 b           22. 5.1999 Dunham Massey                           99/603
+1381 Forty                    -  30   -  14   -  12   -  10   -    34   -    1258 -  36   -  70     -    16   -    90 12 c1           6.12.1998 Bristol, St Stephen                     99/68 447
+1382 Ipswich                  -  30   -  14   -  12   -  30   -    14   -    10   -  14   -  10     -    14   -    10 12 f            3. 4.1982 Grundisburgh                  1. 6.1999 82/383 99/734
+1383 Hirst                    -  30   -  14   -  12   -  30   -    34   -    10   -  1236 -  1470   -    12   -    70 12 c1           2.10.1991 Ashton-under-Lyne                       91/1064
+1384 Exeenda                  -  30   -  14   -  12   -  30.  14   -    34.  10.  56 -    56.10.    78   -    78.  90 12 b           28.10.1996 Oxford, St Thomas the Martyr            96/1177
+1385 Duffield                 -  30   -  14   -  1250 -  36   -    1470 -    58   -  16   -  10.    56   -    58.  90 12 b           14.11.1981 Duffield                                81/1108
+1386 Stanley                  -  30   -  14   -  1250 -  36   -    1470 -    58   -  16   -  10.    78   -    58.  90 12 b           25.10.1981 Accrington                              81/1040
+1387 Maidstone                -  30   -  14   -  1250 -  36.  14.  70.  14.  38   -  12   -  10     -    12   -    90 12 b            6. 2.1990 Maidstone                               90/250
+1388 Hayfield                 -  30   -  14   -  56   -  16   -    34   -    10.  56.14   -  50     -    34.  16.  50 12 e           14. 3.1993 Ashton-under-Lyne                       93/399
+1389 Adderbury                -  30   -  14   -  56   -  36   -    34   -    30   -  16   -  10     -    36   -    10 12 a           31. 8.1982 Maidstone                               82/798
+1390 Saltley                  -  30   -  14   -  50   -  16   -    12   -    10   -  14   -  50     -    36   -    90 12 b           12. 6.1952 Birmingham Cathedral                    52/402 512
+1391 Knottingley              -  30   -  14   -  50   -  16   -    12   -    30   -  14   -  10     -    18   -    70 10 m            3. 8.1996 Knottingley                             96/960
+1392 Jenner                   -  30   -  14   -  50   -  16   -    12   -    30   -  14   -  10     -    78   -    90 12 b           16. 6.1996 Berkeley                                96/731
+1393 Benson                   -  30   -  14   -  50   -  16   -    34   -    10   -  36.  14.30     -    38.  14.  90 12 b            6. 9.1989 Thatcham                                89/928
+1394 Isleworth                -  30   -  14   -  50   -  16   -    3470 -    38   -  16   -  10     -    18   -    30 12 f           17.10.1979 Isleworth                               79/954
+1395 Grandthorpe              -  30   -  14   -  50   -  16   -    70   -    1258 -  36   -  10     -    36   -    50 12 a           29. 5.1992 Thatcham                                92/699
+1396 Christmas                -  30   -  14   -  50   -  16   -    70   -    18   -  12   -  10.    34   -    14.  90 12 b           30.12.1989 Swindon                      31.12.1997 90/73 98/109
+1397 Bishop of Portsmouth     -  30   -  14   -  50   -  16   -    70   -    18   -  12   -  10.    34.  56.  14.  90 12 b           16.12.1995 Portsmouth Cathedral                    96/69
+1398 Jasmine                  -  30   -  14   -  50   -  16   -    70   -    18   -  14   -  10     -    14   -    30 12 a           27. 3.1992 Thatcham                                92/432
+1399 Amazon                   -  30   -  14   -  50   -  16   -    70   -    18   -  36   -  10     -    34   -    50 12 f           25. 2.1988 Isleworth                               88/351
+1400 Edenham                  -  30   -  14   -  50   -  16   -    70   -    18.  34 -    34.10     -    78   -    90 12 b           26. 4.1987 Edenham                                 87/474
+1401 Mather                   -  30   -  14   -  50   -  16   -    70   -    38   -  14   -  10     -    56   -    90 12 b           29.10.1988 Portsmouth Cathedral                    88/1117
+1402 Lydney                   -  30   -  14   -  70   -  18   -    34   -    10   -  16   -  70     -    12   -    70 12 c1           5. 4.1997 Lydney                                  97/480
+1403 Concorde                 -  30   -  14.  50.12   -  10   -    12   -    50.  16 -    16.70.    16   -    16.  70 10 k1          25. 5.1996 Washington, Old Post Office             96/656 97/500
+1404 Hardinge                 -  30   -  1456 -  1256 -  10   -    34   -    50   -  1456 -  70     -    16   -    70 12 c1           2. 7.1996 Maidstone                               96/856 995
+1405 Rickmansworth            -  30   -  1450 -  56   -  16   -    12   -    10   -  16   -  70     -    58   -    90 12 b           20. 4.1992 Portsmouth Cathedral                    92/478
+1406 Stortford                -  56   -  14   -  1256 -  30   -    12   -    10   -  16   -  1670   -    16   -    70 10 k1          21. 2.1998 Bishops Stortford                       98/260
+1407 Baskerville              -  56   -  14   -  56   -  1230 -    12   -    10   -  16   -  1670   -    16   -    70 10 k1           7. 8.2001 Bishopstoke                             01/852
+1408 Nottinghamshire          -  56   -  14   -  56   -  10   -    14   -    50.  14 -    14.50.    14   -    14.  50 10 l           21. 2.1984 Lockington                              84/323
+1409 Blackburn with Darwen    -  56   -  14   -  56   -  10   -    14   -    50.  34 -    14.50     -    14   -    50 10 l            1. 4.1998 Blackburn Cathedral                     98/434
+1410 Stamford Bridge          -  56   -  14   -  56   -  10   -    14   -    50.  34 -    34.50.    14   -    14.  50 10 l            4. 6.1997 Blackburn Cathedral                     97/707
+1411 Emjay                    -  56   -  14   -  56   -  10   -    34   -    10   -  34   -  30     -    34   -    10 10 m            1. 6.1987 North Stoneham                          87/584
+1412 November                 -  56   -  14   -  56   -  10   -    34   -    10   -  34   -  30.    14   -    12.  30 10 m           14.11.1987 Thatcham                                87/1074
+1413 Port Jackson             -  56   -  14   -  56   -  10   -    34   -    30   -  34   -  10     -    34   -    10 10 m           13. 5.1987 Portsmouth Cathedral                    87/584
+1414 Roanoke                  -  56   -  14   -  56   -  30   -    34   -    10   -  34   -  10     -    34   -    10 10 m           22. 7.1987 Portsmouth Cathedral                    87/733
+1415 Lancashire               -  50   -  14   -  12   -  36   -    14   -    10   -  34   -  10     -    12   -    30 12 a           17. 1.1982 Accrington                              82/113
+1416 St Mary Abbots           -  50   -  14.  50 -    12.30   -    12   -    10   -  16   -  50     -    16   -    50 12 b           19. 6.1999 Portsmouth Cathedral                    99/678
+1417 Kensington               -  50   -  14.  50 -    50.36   -    14   -    50   -  36   -  10     -    3678 -    70 10 m           22.10.1994 Kensington, St Mary Abbots              94/1168 1251
+1418 Cologne                  -  50   -  14.  50 -    50.36   -    14.  70.  58   -  14.  56.10     -    1458 -    90 10 h           27. 1.2001 Northallerton                           01/192 352
+1419 Colorado                 -  50   -  14.  50 -    50.36.  14   -    14.  50   -  14   -  10     -    18   -    70 10 k1          19. 3.1988 Duffield                                88/463
+1420 Nova                     -  50   -  14.  50 -    50.38.  14   -    78.  10.  36 -    12.30.    18   -    12.  30 10 m           20. 7.1982 Lockington                              82/699
+1421 All Saints               -  50   -  16   -  12   -  10   -    14   -    1450 -  16   -  70     -    16   -    70 12 c1          10. 7.1990 Maidstone                               90/996
+1422 Barton Hall              -  50   -  16   -  12   -  10   -    70   -    1458 -  16   -  50     -    16   -    90 12 b           27. 8.1999 Thatcham                                99/1042
+1423 Evermore                 -  50   -  16   -  12   -  36   -    14   -    50   -  14   -  10     -    14   -    90 12 c1          22.11.1997 Northallerton                           97/1245
+1424 East Riding              -  50   -  16   -  1270 -  18   -    70   -    1458 -  16   -  10     -    12   -    90 12 b           11.10.1999 Oxford, St Thomas the Martyr            99/1042
+1425 Daventry                 -  50   -  16   -  70   -  18   -    12   -    10   -  14   -  30     -    34   -    90 12 b           28.12.1991 Daventry                                92/135
+1426 Carey                    -  70   -  18   -  12   -  10   -    70   -    18   -  36   -  1450   -    18   -    70 10 m           24.10.1992 Moulton                                 92/1157
+1427 Trinity Sunday           34 -    34.10   -  12   -  10   -    34   -    30   -  34   -  30     -    34   -    30 12 e            6. 6.1971 Accrington                              71/573
+1428 Wrath                    34 -    34.10   -  12   -  30   -    14   -    50   -  14   -  50     -    14   -    50 10 k1           5. 5.1973 Derby Cathedral                         73/457
+1429 Barham                   34 -    34.10   -  12   -  30   -    14   -    50   -  16   -  70     -    18   -    90 12 b           20. 3.1976 Whitby                                  76/329
+1430 Oswald                   34 -    34.10   -  12   -  30   -    14   -    50   -  16   -  70     -    18   -    90 10 g           21. 4.1970 Nottingham, St Peter          3. 1.2001 70/420 01/117
+1431 Auxerre                  34 -    34.10   -  56   -  36   -    3470 -    1458 -  14   -  50     -    56   -    50 12 f           27.11.1997 Bishopstoke                             98/37
+1432 Laon                     34 -    34.10   -  56   -  36.  14.  70.  14.  58.  34.56.  14.70.    1458 -    58.  70 12 f            8. 4.1997 Bishopstoke                             97/484
+1433 Chartres                 34 -    34.10   -  56   -  36.  14.  70.  14.  58.  34.56.  14.70.    1458 -    78.  50 12 f           26. 4.1997 Lyme Regis                              97/657
+1434 Bayeux                   34 -    34.10   -  56.  12.36.  12.  3470 -    1458 -  14   -  50     -    56   -    50 12 f           26.11.1998 Bishopstoke                             98/1243
+1435 Beverlea                 34 -    34.10.  56.12.  56.30   -    14   -    50   -  16   -  70     -    18   -    90 12 b           28. 4.2001 Beverley, St Mary                       01/511
+1436 Paean                    34 -    36.10.  58 -    78.36.  1470 -    1470.58.  34 -    36.10.    58   -    78.  10 10 m           29. 2.1992 Moulton                                 92/381
+1437 Charleston               34 -    50.14   -  12   -  10   -    14   -    50.  14 -    14.50.    14   -    14.  50 12 a           17. 3.2000 Charleston, SC                          00/501
+1438 Twickenham               34 -    50.14   -  12   -  10   -    14   -    50.  14 -    14.70.    58.  36.  18.  30 10 m            5. 6.1999 Twickenham                              99/632
+1439 MM                       34 -    50.14   -  50   -  10   -    14.  70.  38   -  16   -  1670   -    78   -    90 10 l            3. 2.1995 Worsley                                 95/326
+1440 Deira                    34 -    50.14   -  50   -  36.  14   -    12.  30   -  12.  36.10     -    12.  36.  10 10 m            4. 5.1992 Rotherham, All Saints                   92/529 632
+1441 Folly                    36 -    56.14.  50 -    50.16   -    14   -    30.  16 -    34.10.    38.  56   -    10 10 g            6. 2.1999 Oxford, St Thomas the Martyr            99/315
+1442 Penenden Heath           30 -    30.14   -  12   -  10   -    12   -    1450 -  36   -  10     -    12   -    90 12 f            7.10.1997 Maidstone                               97/1149
+1443 London Exercise          30 -    30.14   -  12   -  10   -    12   -    10   -  12   -  70     -    18   -    90 12 f           14. 5.1955 Southampton, St Michael                 55/322 336
+1444 Shoreditch               30 -    30.14   -  12   -  10   -    12   -    50   -  16   -  70     -    18   -    90 12 f           12.11.1970 Shoreditch                              70/1021 71/566
+1445 Triton                   30 -    30.14   -  12   -  10   -    12   -    50.  14 -    14.70.    16   -    18.  90 12 f           24. 5.1999 Knottingley                  29.12.1999 99/556 00/88
+1446 Xylem                    30 -    30.14   -  12   -  10   -    34   -    30.  56.34.  16.70.    16.  58.  14.  90 12 f           26. 5.1989 Thatcham                                89/650
+1447 Oldborough               30 -    30.14   -  12   -  10   -    34   -    50   -  14   -  123670 -    16   -    70 12 a           15.10.1996 Maidstone                               96/1149
+1448 Blackmore                30 -    30.14   -  12   -  30   -    12   -    10   -  14   -  10     -    12   -    90 12 f           10. 1.1998 Selby                                   98/166 347
+1449 Brahmaputra              30 -    30.14   -  12   -  30.  14   -    14.  30.  16.34   -  10.    36.  12   -    10 12 b            3. 3.1988 Greenwich                               88/352
+1450 Hingham                  30 -    30.16   -  56   -  10   -    34   -    10   -  16   -  70.    14.  58.  14.  90 12 f            3. 7.1992 Hingham, Mass.                          92/843
+1451 Hampshire                30 -    56.14   -  56   -  10   -    14   -    1450 -  14   -  1670   -    16   -    70 12 f           24. 5.1980 Portsmouth Cathedral                    80/534
+1452 Lindisfarne              30 -    56.14   -  56   -  10   -    14   -    50.  12 -    16.50.    18   -    16.  50 12 e           19. 1.1989 Thatcham                                89/255
+1453 Spitalfields             30 -    56.14   -  56   -  10   -    14   -    50.  14 -    14.50.    14   -    14.  50 12 a            6. 6.1982 Shoreditch                              82/574
+1454 Arran                    30 -    56.14   -  56   -  10   -    14   -    50.  14 -    14.70.    16   -    34.  70 12 f           26. 3.1987 Thatcham                                87/405
+1455 Scottlethorpe            30 -    50.14   -  50   -  10   -    14   -    50   -  14   -  50.    14   -    12.  50 12 a           23. 5.1998 Edenham                                 98/579 763
+1456 Chandos                  30 -    50.14   -  50   -  10   -    34   -    50   -  14   -  70     -    16   -    70 12 f           14. 3.1992 Long Crendon                            92/457
+1457 Lahinch                  30 -    50.14   -  50   -  30   -    12   -    10   -  14   -  70.    16   -    36.  70 12 f           29. 8.1992 Moulton                                 92/1157
+1458 Wear                     30 -    78.14   -  78   -  10   -    14   -    50   -  12   -  1450   -    14   -    50 12 a            7. 6.1994 Maidstone                               94/710
+1459 Anniversary              56 -    56.10   -  12   -  30   -    14   -    50   -  16   -  70     -    18   -    90 12 b           15.11.1997 Southampton, St Mary                    97/1277
+1460 Spark Bottom             56 -    56.10.  56 -    56.10   -    14   -    30   -  14   -  30     -    14   -    30 10 m                                                   18. 9.1997 97/1218
+1461 Battlemend               56 -    56.10.  78.12.  78.30.  78.  14.  78.  50   -  56   -  1470   -    36   -    70 12 c1           9. 7.1998 South Croydon                           98/799
+1462 Moulton                  50 -    50.14   -  50   -  10   -    14   -    50   -  34   -  50.    14   -    34.  50 12 a            1.12.1990 Moulton                                 91/116
+1463 MacKillop                50.36   -  14   -  1256 -  10.  34   -    14.  50.  14 -    14.50.    14   -    14.  50 12 a           19. 1.1995 Sydney, St Mary's Cathedral             95/192
+1464 Battlemented             78 -    78.10.  78.12.  78.30.  78.  14.  78.  3450 -  1234 -  3470   -    58   -    70 10 k1          18. 2.1999 South Croydon                           99/269 447
+
+Little Delight Royal methods (treble to 6ths)
+
+ No. Name           Notation                     hl le lh         Tower bells Place                RW ref
+
+1465 Tirley Little  - 34 - 10 - 12 - 1230 - 14 - 36 12 1098673524  19. 1.1971 Nottingham, St Peter 71/269
+
+Delight Maximus methods
+
+ No. Name                     Notation                                                                                     hl le lh           Tower bells Place                      Handbells  RW ref
+
+1466 Sowerby                  -  34 -  14   -  12   -  1T -    12   -    1T   -    12   -    1T   -  12   -  1T   -  12 -  1T 1T 15237496E8T0  25. 7.1987 Rotherham, All Saints      18. 5.1987 87/607 730
+1467 King Lud                 -  34 -  14.  5T.12   -  3T.12   -    14.  5T.  14   -    9T.  1450 -  14   -  1T.  56.12.36.5T 1T h                Spliced                                       96/9
+1468 College Youths Pleasure  -  34 -  1T   -  12   -  1T -    14   -    3T   -    14   -    3T   -  14   -  3T   -  14 -  3T 1T 134628507T9E   9.12.1993 Reading                               94/60
+1469 Baltic                   -  3T -  14   -  12   -  1T -    34   -    125T -    36   -    7T   -  16   -  7T   -  34 -  7T 12 d2             7. 9.1991 Bradford Cathedral                    91/1016
+1470 Ipswich                  -  3T -  14   -  12   -  3T -    14   -    1T   -    14   -    1T   -  14   -  1T   -  14 -  1T 12 f              3. 4.1982 Ipswich                               82/383
+1471 Restoration              -  3T -  14   -  125T -  36.14.  7T.  14.  38   -    129T -    30   -  14   -  1T   -  12 -  ET 12 b             24. 6.1990 High Wycombe                          90/731
+1472 Leicester                -  3T -  14   -  5T   -  16 -    147T -    38   -    34   -    1T   -  1456 -  5T   -  58 -  1T 12 f             27.11.1971 Leicester, St Margaret                71/1125
+1473 Chesterfield             -  3T -  14   -  5T   -  16 -    147T -    58.  14.  9T.  14.  30   -  34   -  1T   -  34 -  1T 12 e                Spliced                                       92/309
+1474 Olympic                  -  3T -  14   -  5T   -  16 -    70   -    1890 -    9T   -    1T   -  16   -  5T   -  56 -  ET 12 b             30. 8.1993 Manchester Town Hall                  93/977
+1475 Belshazzar               -  3T -  14   -  5T   -  16 -    7T   -    18   -    9T   -    10   -  12   -  1T   -  30 -  1T 12 f              9.11.1996 St Mary-le-Bow, London, EC            96/1196
+1476 Christmas                -  3T -  14   -  5T   -  16 -    7T   -    18   -    9T   -    10   -  12   -  1T.  34 -  14.ET 12 b             22.12.1989 Luton                                 90/73
+1477 Nottingham               -  3T -  14   -  5T   -  16 -    7T   -    18   -    9T   -    10.  34 -    34.1T   -  90 -  ET 12 b             25. 6.1983 Nottingham, St Peter                  83/628
+1478 Southdown                -  3T -  14   -  5T   -  16 -    7T   -    18   -    9T   -    30   -  14   -  1T   -  12 -  ET 12 b             18.11.1989 Leicester Cathedral        14. 2.1990 89/1131 90/328
+1479 Chester                  -  3T -  14   -  5T   -  16 -    7T   -    18   -    9T   -    30   -  14   -  1T   -  34 -  ET 12 b             30. 5.1994 Chester Cathedral                     94/658
+1480 Shrewsbury               -  3T -  14   -  5T   -  16 -    7T   -    18   -    9T   -    30   -  14   -  1T   -  56 -  ET 12 b              9.11.1996 Shrewsbury                            96/1246
+1481 Chilterns                -  3T -  14   -  5T   -  16 -    7T   -    18   -    9T   -    30   -  14   -  1T   -  78 -  ET 12 b              1. 4.1995 Amersham                              95/472
+1482 Piggottshill             -  3T -  14   -  5T   -  16 -    7T   -    18   -    9T   -    30   -  14   -  1T   -  90 -  ET 12 b              3. 2.1990 Croydon                               90/277
+1483 Churchfields             -  3T -  14   -  5T   -  36 -    147T -    18   -    129T -    30   -  14   -  1T   -  12 -  ET 12 b             23.11.1991 Leicester Cathedral                   91/1229
+1484 Miranda                  -  5T -  14.  5T -    5T.36.14   -    7T.  58.  16   -    9T.  70.  18 -    38.1T.  38.14 -  9T 1T k2            11. 6.1992 Birmingham Cathedral                  92/680 712
+1485 Avon                     -  5T -  14.  5T -    5T.30.14   -    70.  1T.  36   -    9T.  30.  18 -    18.9T   -  18 -  1T 1T m             15.11.1979 Birmingham Cathedral       21. 5.1980 79/1087 80/535
+1486 Holywell                 -  5T -  14.  5T.12   -  1T -    14   -    3T   -    12   -    1T   -  12   -  1T   -  12 -  1T 12 b             24.10.1978 Shoreditch                            78/983
+1487 Vax                      -  5T -  14.  5T.12   -  1T -    14   -    5T.  14.  36.  9T.  10.  58 -    16.7T.  16.70.16.ET 1T k1            15. 5.1993 St Mary-le-Bow, London, EC            92/309 93/625
+1488 Shardeloes               -  5T -  16   -  7T   -  18 -    9T   -    30   -    14   -    1T   -  12   -  167T -  58 -  ET 12 b             29. 4.1989 Rotherham, All Saints                 89/462
+1489 Oswald                   34 -  34.1T   -  12   -  3T -    14   -    5T   -    16   -    7T   -  18   -  9T   -  10 -  ET 1T g             13. 7.1982 Nottingham, St Peter                  82/679
+1490 Charleston               34 -  5T.14   -  12   -  1T -    14   -    5T.  14   -    14.  5T.  14 -    14.5T.  14 -  14.5T 12 a              4. 1.2000 Shoreditch                            00/63
+1491 Hemel Hempstead          34 -  5T.14   -  125T -  1T -    90   -    18   -    16   -    70.  16 -    16.9T.  16.70.16.ET 12 d             10. 2.2001 Worcester, All Saints                 01/273
+1492 Selly Oak                34 -  5T.14   -  5T   -  1T -    14   -    3T.  16   -    16.  7T.  16 -    16.7T.  16 -  16.7T 1T k1            13. 5.1993 Birmingham Cathedral                  93/652
+1493 Deira                    34 -  5T.14   -  5T   -  36.14   -    12.  3T   -    12.  36.  1T -    12.  36.1T   -  12.36.1T 1T m             30. 9.2000 Ossett                                00/1068
+1494 Rising Sun               36 -  7T.18   -  9T.  50.36.12   -    1270.5T.  16.  34.  9T.  10.  38.14.  38.1T.  90 -  10.9T 1T k1               Spliced                                       92/309
+1495 Edna                     36 -  7T.18   -  9T.  50.3T.14   -    147T.50.  9T.  14.  36.  1T.  58.34.  18.3T.  70 -  56.1T 1T m             11. 2.1993 Birmingham Cathedral                  93/450
+1496 Angel                    30.9T -  1T.  50 -    9T.38.147T -    12.  3T.  16   -    36.  147T -  16.  38.9T.  30 -  10.3T 1T j2               Spliced                                       92/309
+1497 The Borough              3T -  3T.14   -  12   -  1T -    12   -    5T   -    1456 -    147T -  58   -  189T -  18 -  9T 12 f             30.11.1996 Southwark Cathedral                   97/35
+1498 Shoreditch               3T -  3T.14   -  12   -  1T -    12   -    5T   -    16   -    7T   -  18   -  9T   -  10 -  ET 12 d              1. 5.1979 Shoreditch                            79/524
+1499 Tritone                  3T -  3T.14   -  12   -  1T -    12   -    5T.  14   -    14.  7T.  16 -    18.9T.  14 -  14.9T 12 f             20.11.2000 Escrick                               01/135
+1500 Newport                  3T -  3T.14   -  12   -  3T -    14   -    3T   -    36   -    1T   -  16   -  149T -  34 -  9T 12 f             17. 3.1990 Newport, Gwent                        90/440
+1501 Smithfield               3T -  3T.14   -  12   -  3T.14   -    14.  3T.  16   -    36.  1T   -  14   -  5T.  14 -  14.5T 12 c                Spliced                                       92/309
+1502 Kingsland                3T -  56.14   -  56   -  1T -    14   -    145T -    14   -    7T   -  16   -  7T   -  16 -  7T 12 f              3. 5.1977 Shoreditch                            77/553
+1503 Spitalfields             3T -  56.14   -  56   -  1T -    14   -    5T.  14   -    14.  5T.  14 -    14.5T.  14 -  14.5T 12 a              3. 3.1981 Shoreditch                            81/343
+1504 Luxembourg               3T -  5T.14   -  5T   -  1T -    14.  7T.  1458.9T.  14   -    1T   -  18   -  9T.  18 -  10.ET 12 a                Spliced                                       92/309
+1505 Snow Tiger               3T -  5T.14   -  5T   -  3T -    12   -    1T   -    ET   -    10   -  18   -  9T.  18 -  10.ET 12 f              9. 1.1999 Ipswich                               99/145
+1506 Barnwell                 56 -  56.1T   -  12   -  3T -    14   -    5T   -    14   -    5T   -  14   -  5T.  14 -  14.5T 12 d             19.12.1981 Kettering                             82/155
+1507 Gypsy                    70.9T.36.18.  5T.12   -  10.9T   -    147T.50.  16.  9T   -    1T.  58 -    38.7T   -  36.50.1T 1T m                Spliced                                       92/309
+1508 Nemesis                  7T -  36.189T.50 -    50.1T.70.  14   -    50.  149T -    169T.50   -  34   -  123T -  12.30.1T 12 b             30. 6.1991 St Mary-le-Bow, London, EC            91/115 744
+
+Little Delight Maximus methods (treble to 6ths)
+
+ No. Name              Notation                   hl le lh Tower bells Place                 RW ref
+
+1509 Catherine Little  - 3T - 14 - 12 - 1T - 14 - 36 12 d1   8. 3.1997 Worcester, All Saints 97/370
+
+Asymmetric Delight Maximus methods
+
+ No. Name          Notation                                                                                                                        lh Tower bells Place               RW ref
+
+1510 Temple Meads  - 5T - 14.5T - 5T.30.14 - 70.1T.36 - 9T.30.18 - 18.9T - 18 - 1T - 18 - 9T.18 - 18.70.9T - 16.58.7T - 14.36.5T - 5T.14 - 5T - 1T g    6.12.1998 Bristol, St Stephen 99/68
+
+Delight Sixteen methods
+
+ No. Name       Notation                                                                             hl le lh Handbells RW ref
+
+1511 Melbourne  3D - 3D.14.56 - 56.1D.34 - 14.5D.16 - 16.7D.16 - 16.7D.16 - 16.7D.16 - 16.7D.16 - 16.7D 12 a    Spliced 95/578

@@ -1,0 +1,9 @@
+SCC = This is a Source Code Control file
+
+[Key Create.sln]
+SCC_Aux_Path = "\\server\sourcesafe\"
+SCC_Project_Name = "$/Supporting Projects/Key Create", LTBAAAAA
+
+[Key Create.vcproj]
+SCC_Aux_Path = "\\server\sourcesafe\"
+SCC_Project_Name = "$/Supporting Projects/Key Create", LTBAAAAA

@@ -1,0 +1,56 @@
+Copyright Central Council of Church Bell Ringers, September 2001
+Alliance Doubles methods (treble dodging in 4-5)
+
+ No. Name           Notation                hl le  lh RW ref
+
+   1 Durnford       3.  1.  125.123.3.  123.5  125 p  95/1308
+   2 Fovant         3.  1.  125.3.  123.3.  5  125 p  95/1308
+   3 Liddington     3.  1.  5.  123.3.  123.5  125 p  95/1308 96/111
+   4 Bedfont        3.  1.  5.  3.  1.  3.  5  125 q 
+   5 Ampney Crucis  3.  1.  5.  3.  123.3.  5  125 p  95/1273
+   6 Boynton        3.  145.125.123.3.  123.5  125 p  95/1308
+   7 Mentmore       3.  145.125.3.  1.  3.  5  125 q 
+   8 Burbage        3.  145.125.3.  123.3.  5  125 p  95/1308
+   9 Chitterne      3.  145.5.  123.3.  123.5  125 p  95/1308
+  10 Cricklade      3.  145.5.  3.  123.3.  5  125 p  95/1273
+  11 Alderton       345.1.  125.123.3.  123.5  125 p  95/1308
+  12 Claydon        345.1.  125.3.  1.  3.  5  125 q 
+  13 All Cannings   345.1.  125.3.  123.3.  5  125 p  95/1308
+  14 Zeals          345.1.  5.  123.3.  123.5  125 p  95/1308
+  15 Latton         345.1.  5.  3.  123.3.  5  125 p  95/1273
+  16 Sedgehill      5.  1.  125.123.3.  123.5  125 q  95/1308
+  17 Tyringham      5.  1.  125.3.  1.  3.  5  125 p 
+  18 Shalbourne     5.  1.  125.3.  123.3.  5  125 q  95/1308
+  19 Sutton Benger  5.  1.  5.  123.3.  123.5  125 q  95/1308
+  20 Ashton Keynes  5.  1.  5.  3.  123.3.  5  125 q  95/1273
+
+Alliance Doubles methods (treble double dodging in 4-5)
+
+ No. Name        Notation              hl  le  lh    RW ref
+
+  21 Staines     3.  1.  125.3.1.3.1.3.5   125 q     60/604
+  22 Shepperton  3.  1.  5.  1.3.1.3.1.5   125 p     58/755
+  23 Chalvey     3.  145.5.  1.3.1.3.1.5   125 p     58/755
+  24 Quainton    3.  145.5.  3.1.3.1.3.5   125 q     60/604
+  25 Barkham     345.1.  125.3.1.3.1.3.125 1   s     59/215
+  26 Horton      345.1.  5.  1.3.1.3.1.5   125 p     58/755
+  27 Langley     345.1.  5.  3.1.3.1.3.125 1   13452 59/215
+  28 Lavendon    345.1.  5.  3.1.3.1.3.5   125 q     60/604
+  29 Dorney      5.  1.  125.3.1.3.1.3.125 1   s     59/215
+  30 Perivale    5.  1.  5.  1.3.1.3.1.125 1   15234 59/215
+  31 Bisham      5.  1.  5.  1.3.1.3.1.345 1   13452 59/215
+  32 Astleham    5.  1.  5.  1.3.1.3.1.5   125 q     58/755
+  33 Amersham    5.  1.  5.  3.1.3.1.3.5   125 p     59/215
+
+Twin-hunt Alliance Doubles methods (b) (treble double dodging in 4-5)
+
+ No. Name       Notation            hl  le  lh    RW ref
+
+  34 Taplow     3.  1.  5.1.3.1.3.1.125 125 12534 59/266
+  35 Thorpe     3.  145.5.1.3.1.3.1.125 125 12534 59/266
+  36 Moreton    3.  145.5.1.3.1.3.1.345 125 13425 59/266
+  37 Hinksey    345.1.  5.1.3.1.3.1.125 125 12534 59/266
+  38 Bledlow    345.1.  5.1.3.1.3.1.345 125 13425 59/266
+  39 Coulsdon   345.1.  5.3.1.3.1.3.125 125 14235 59/215
+  40 Lockinge   5.  1.  5.1.3.1.3.1.125 125 12453 59/215
+  41 Marsworth  5.  1.  5.1.3.1.3.1.345 125 14235 59/215

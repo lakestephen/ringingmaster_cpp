@@ -1,0 +1,16 @@
+Copyright Central Council of Church Bell Ringers, September 2001
+Single-hunt Minimus methods
+
+ No. Name                      Notation hl le lh Tower bells Place            RW ref
+
+   1 Plain Bob                 -  14 -  14 12 a   21. 1.1961 North Aston      61/91
+   2 Double Bob                -  14 -  34 12 f    1. 1.1980 Addington (Kent) 80/119
+   3 Reverse Bob               -  14 -  34 14 g   14. 3.1981 Stanford Dingley 81/325
+   4 Reverse Court Place       -  14.12.14 14 m    6. 6.1981 Margaret Marsh   81/581
+   5 Reverse St Nicholas Bob   -  14.12.34 12 f   22.11.1980 Breamore         80/1104
+   6 Canterbury Place          -  14.12.34 14 g    3. 1.1981 Aldwick          81/125
+   7 Reverse Canterbury Place  34.14 -  14 12 f   16. 8.1980 Spofforth        80/813
+   8 Single Court Place        34.14 -  14 14 g    2. 3.1968 Barbon           68/229
+   9 St Nicholas Bob           34.14 -  34 12 a   28. 2.1981 Yapton           81/264
+  10 Double Court Place        34.14.12.14 14 m   31. 1.1981 Trotton          81/165
+  11 Double Canterbury Place   34.14.12.34 12 a   25. 4.1981 Graffham         81/451

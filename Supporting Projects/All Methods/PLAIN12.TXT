@@ -1,0 +1,70 @@
+Copyright Central Council of Church Bell Ringers, September 2001
+Single-hunt Maximus methods
+
+ No. Name                                   Notation                             hl le lh           Tower bells Place                      Handbells  RW ref
+
+3020 Double Norwich Court Bob               -  14 -  3T -    1T -    10 -  9T -  1T 1T j1            20. 1.1817 Norwich, St Peter Mancroft            59/202
+3021 Double Birmingham European Summit Bob  -  14.5T.36.14.  58.9T.  70.18.9T -  1T 1T g             15.10.1992 Birmingham Cathedral                  92/1180 93/240
+3022 Double Coslany Court Bob               -  14.5T.36.147T.58.169T.70.18.9T -  1T 1T j              5. 2.1980 Shoreditch                            80/272
+3023 Plain Bob                              -  1T -  1T -    1T -    1T -  1T -  1T 12 a             26. 2.1726 St Bride, Fleet Street, EC 12. 3.1888 59/202
+3024 Double Bob                             -  1T -  1T -    1T -    1T -  1T -  ET 12 b             24. 3.1740 Southwark, St Saviour                 59/202
+3025 Reverse Bob                            -  1T -  1T -    1T -    1T -  1T -  ET 1T g             15. 5.1769 St Bride, Fleet Street, EC            59/202
+3026 Single Canterbury Pleasure Bob         34.1T -  1T -    1T -    1T -  1T -  1T 12 14257396E8T0  24. 5.1930 Canterbury                            30/342
+3027 Liverpool Bob                          3T.14 -  1T -    5T.14.  5T.14.5T.14.5T 12 a             28. 9.1991 St Albans                             91/1039
+
+Single-hunt Little Maximus methods (treble to 2nds)
+
+ No. Name               Notation hl le lh Tower bells RW ref
+
+3028 Bastow Little Bob  -        12 1T m      Spliced 53/590
+3029 Kent Little Bob    34.      12 1T m      Spliced 
+
+Single-hunt Little Maximus methods (treble to 4ths)
+
+ No. Name                 Notation  hl le lh           Tower bells Place                         Handbells  RW ref
+
+3030 Little Bob           -  1T   - 14 12 e             26. 5.1923 Newcastle-upon-Tyne Cathedral 21. 3.1968 23/338 68/291
+3031 Crayford Little Bob  -  1T   - 14 1T k                Spliced                                          53/590
+3032 Blink Little Bob     36.145T - 14 1T 13528T0E4967     Spliced                                          98/57
+
+Single-hunt Little Maximus methods (treble to 6ths)
+
+ No. Name                     Notation       hl le lh           Tower bells RW ref
+
+3033 Clink Little Bob         - 10 - 30.149T.36 1T 196E4T230587     Spliced 98/163
+3034 Gainsborough Little Bob  - 1T - 1T -    16 12 d1               Spliced 
+3035 Wellington Little Bob    - 1T - 1T -    16 1T k2               Spliced 53/590
+
+Single-hunt Little Maximus methods (treble to 8ths)
+
+ No. Name                  Notation         hl le lh Tower bells Place           RW ref
+
+3036 Wakefield Little Bob  - 14 - 36 - 5T - 18 1T k   28. 7.1974 Wakefield       74/716
+3037 Burford Little Bob    - 1T - 1T - 1T - 18 12 c2     Spliced                 53/590
+3038 Churchill Little Bob  - 1T - 1T - 1T - 18 1T j1     Spliced                 53/590
+
+Single-hunt Little Maximus methods (treble to 10ths)
+
+ No. Name                   Notation              hl le lh Tower bells RW ref
+
+3039 Bampton Little Bob     - 1T - 1T - 1T - 1T - 10 12 c      Spliced 53/590
+3040 Cassington Little Bob  - 1T - 1T - 1T - 1T - 10 1T h      Spliced 53/590
+
+Single-hunt Little Maximus methods (treble to 11ths)
+
+ No. Name                     Notation                 hl le lh Tower bells Place        RW ref
+
+3041 Penultimus Little Place  - 1T - 1T - 1T - 1T - 1T.ET 1T g    5.11.1994 Grundisburgh 94/1244 95/103
+
+Twin-hunt Maximus methods (a)
+
+ No. Name       Notation                       hl lh Tower bells Place                 RW ref
+
+3042 Grandsire  3T.1T - 1T - 1T - 1T - 1T - 1T -  p    7. 5.1792 Southwark, St Saviour 59/202
+
+Twin-hunt Little Maximus methods (b) (treble to 2nds)
+
+ No. Name                         Notation hl   le lh           Tower bells RW ref
+
+3043 Slinkier Little Slow Course  36.      125T 12 124583607T9E     Spliced 01/755
+3044 Slink Little Slow Course     56.      123T 12 124583607T9E     Spliced 00/251

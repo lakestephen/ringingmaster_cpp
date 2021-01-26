@@ -1,0 +1,801 @@
+Copyright Central Council of Church Bell Ringers, September 2001
+Delight Major methods
+
+ No. Name                     Notation                                                                   hl le lh       Tower bells Place                            Handbells  RW ref
+
+ 584 Caterham Hill            -    34   -    14   -    12   -    16   -    14   -    18.  36.  14   -    38 18 m         11.10.1998 Uxbridge, St Margaret-of-Antioch            98/1109
+ 585 Merchants Return         -    34   -    14   -    12   -    18   -    12   -    18   -    12   -    18 14 15278364  19. 3.1859 Glossop  
+ 586 Sowerby                  -    34   -    14   -    12   -    18   -    12   -    18   -    12   -    18 18 15237486  24. 2.1877 Denholme Gate                    24.10.1978 78/1052
+ 587 Barkers                  -    34   -    14   -    12   -    18   -    12   -    18   -    16   -    18 12 a         23.11.1976 Highclere                                   77/9
+ 588 Yorkshire                -    34   -    14   -    12   -    18   -    1234 -    18   -    1234 -    18 18 m          7. 2.1808 Ranmoor  
+ 589 St Stephen's             -    34   -    14   -    12   -    18   -    34   -    18   -    34   -    38 18 m         24. 2.1900 Westminster, St Stephen  
+ 590 Pendragon                -    34   -    14   -    56   -    16   -    34   -    18   -    3456 -    18 18 m         15.11.1997 Todmorden, St Mary                          97/1245
+ 591 Moondance                -    34   -    14   -    56   -    16   -    34   -    18.  56   -    14.  38 18 m         27. 9.1997 Whittle-le-Woods                            97/1052
+ 592 Ivernis                  -    34   -    14.  58   -    12.  38   -    34   -    18.  36.  12   -    18 18 m          6. 3.1982 Greasley                                    82/257
+ 593 Velox                    -    34   -    1458 -    12   -    18   -    34   -    58.  16   -    14.  38 18 m          1. 5.1993 Pontefract, All Saints                      93/522
+ 594 Kingsbury                -    34   -    16   -    58   -    16.  78   -    34.  18.  56   -    16.  78 12 f         20.10.1983 Hungerford                                  83/951
+ 595 College Youths Pleasure  -    34   -    18   -    12   -    18   -    14   -    38   -    14   -    38 18 13462857  14. 3.1973 Highclere                                   73/292
+ 596 Morning Exercise         -    34   -    18   -    12   -    38   -    14   -    58   -    16   -    78 18 17524386  28.12.1737 St Bride, Fleet Street, EC  
+ 597 Evening Star             -    34   -    18   -    1256 -    38   -    12   -    18   -    12   -    18 12 b         15. 4.1985 Swindon, St Mark                            85/435
+ 598 Peterborough             -    34   -    18   -    56   -    16   -    14   -    1458 -    34   -    58 18 l         19. 2.2001 Bushey                                      01/298
+ 599 Ryhope                   -    34   -    18   -    56   -    16   -    14   -    18   -    56.  14.  78 12 d         19. 7.2001 Whickham                                    01/827
+ 600 Sarah, Duchess of York   -    34   -    18   -    56   -    16   -    14   -    58   -    14   -    58 12 f         23. 7.1986 Westhoughton                                86/785
+ 601 Lincoln                  -    34   -    18   -    56   -    16.  12   -    12.  3458 -    12   -    58 18 l         18. 9.2000 Bushey                                      00/1014
+ 602 October                  -    34   -    18   -    56   -    18   -    14   -    58   -    14   -    18 18 m         27. 1.1997 Bushey                                      97/218 415
+ 603 Rochester                -    34   -    18   -    56   -    36.  14   -    14.  38   -    12.  36.  18 18 k         12. 3.2001 Bushey                                      01/457
+ 604 Quebec                   -    34.  58.  14   -    58   -    18   -    12.  34.  18   -    34   -    18 18 m          5. 3.2001 Turners Hill                                91/174 96/276 01/350
+ 605 Newlands Pass            -    36   -    14   -    12   -    38.  14.  78   -    18.  36   -    16.  38 18 m         14. 8.1997 Highclere                                   97/953
+ 606 British Queen            -    36   -    14   -    56   -    18   -    14   -    18   -    34   -    18 18 m         15. 3.1993 Meldreth                                    93/398 1156
+ 607 Little Sodbury End       -    36   -    14   -    56   -    18   -    34   -    58   -    56   -    18 18 k         13. 2.1982 Witley                                      82/193
+ 608 Newbury                  -    36   -    14   -    58   -    16   -    34   -    18   -    36   -    38 12 f         21. 4.1974 Bourn                                       74/409
+ 609 Double Lincolnshire      -    36   -    14   -    58   -    18   -    14   -    58   -    36   -    78 12 13827546   6. 7.1999 Loughborough Bellfoundry                    99/732
+ 610 Bedwellty                -    36   -    1456 -    58   -    18   -    12   -    1238 -    14   -    78 12 b         18.10.1997 Bedwellty                                   98/34
+ 611 Walmington-on-Sea        -    36   -    1456 -    58   -    18   -    12   -    18   -    12   -    78 12 b          3. 8.1998 Chalfont St Giles                           98/824
+ 612 Hereford                 -    36   -    1456 -    58   -    18   -    12   -    18.  14   -    14.  78 12 b         21. 8.2000 Bushey                                      00/919
+ 613 Great Uncle Bulgaria     -    36   -    1456 -    58   -    18   -    12   -    38   -    14   -    38 12 a         28.11.1974 Cholsey                                     75/8
+ 614 Fevrier                  -    36   -    1456 -    58   -    18.  34   -    14.  38.  14.  56.  14.  78 12 b          3. 3.1997 Bledlow                                     97/292 98/275 01/516
+ 615 Maidens                  -    36   -    1458 -    12   -    18   -    34   -    38   -    12   -    38 12 f         14. 2.1976 East Tytherley                              76/226
+ 616 Orinoco                  -    36   -    1458 -    58   -    16   -    34   -    18   -    14   -    78 12 d         17. 1.1975 Cholsey                                     75/217
+ 617 Rothwell                 -    38   -    14   -    12   -    1238 -    12   -    18   -    16   -    18 12 f         28.11.1998 Rothwell (Yorks)                            99/16
+ 618 Stratfield Mortimer      -    38   -    14   -    12   -    1238 -    14   -    18   -    14   -    78 12 b         14. 5.1996 Stratfield Mortimer                         96/611
+ 619 May                      -    38   -    14   -    12   -    16   -    14   -    18   -    12   -    38 12 b          9. 6.1995 Thatcham                                    95/817
+ 620 Irwell                   -    38   -    14   -    12   -    16   -    34   -    18   -    14   -    58 12 f         25. 1.1982 Walkden                                     82/153
+ 621 Walsall                  -    38   -    14   -    12   -    18   -    12   -    1258 -    1456 -    38 12 c         11. 5.1999 Kingsbury (Warks)                           99/631
+ 622 Pringle                  -    38   -    14   -    12   -    18   -    12   -    1258 -    36   -    58 12 f         30.11.1989 Leicester, St Mary-de-Castro                90/127
+ 623 August                   -    38   -    14   -    12   -    18   -    12   -    1458 -    16   -    78 12 b          5. 8.1994 Thatcham                                    94/976
+ 624 Elston                   -    38   -    14   -    12   -    18   -    12   -    38   -    12   -    38 12 f         23.10.1976 Over (Cambs)                                76/990
+ 625 Causey Arch              -    38   -    14   -    12   -    18   -    12   -    58   -    14   -    58 12 d         24. 8.1999 Oxford, St Mary Magdalen                    99/1042
+ 626 Coria                    -    38   -    14   -    12   -    18   -    12   -    58   -    36   -    58 12 f         25. 8.1990 Creswell                                    90/939
+ 627 Hartfield Castle         -    38   -    14   -    12   -    18   -    14   -    1238 -    14   -    78 12 b          2. 6.2001 Petworth                                    01/634
+ 628 Harthill                 -    38   -    14   -    12   -    18   -    14   -    1258.36.  14.  36.  58 12 f         25. 9.1999 Harthill                                    99/1020
+ 629 Ashbourne Royal Shrovetide Football
+                              -    38   -    14   -    12   -    18   -    14   -    1458 -    36   -    78 12 b         11. 2.1997 Ashbourne                                   97/266
+ 630 Esau                     -    38   -    14   -    12   -    18   -    14   -    18   -    12   -    18 12 a         14. 5.1983 Warsop                                      83/516
+ 631 Dingley                  -    38   -    14   -    12   -    18   -    14   -    18   -    12   -    78 12 b         23. 2.1980 Desborough                                  80/254
+ 632 Friendly                 -    38   -    14   -    12   -    18   -    14   -    18   -    1234 -    78 12 b         31. 1.1996 Thorverton                                  96/227
+ 633 Brocklesby               -    38   -    14   -    12   -    18   -    14   -    18   -    1256 -    78 12 b          1. 5.1984 Billingborough                              84/515
+ 634 Fiskerton                -    38   -    14   -    12   -    18   -    14   -    18   -    34   -    78 12 b          5.11.1983 Scunthorpe                                  83/1015
+ 635 West Bridgford           -    38   -    14   -    12   -    18   -    14   -    18   -    56   -    78 12 b          3. 9.1983 West Bridgford                              83/905
+ 636 Avril                    -    38   -    14   -    12   -    18   -    14   -    18.  56   -    56.  78 12 b          2. 4.1997 Dartmouth                                   97/480
+ 637 Northfield               -    38   -    14   -    12   -    18   -    14   -    18.  56.  12.  56.  78 12 b         16. 3.1996 Northfield                                  96/394
+ 638 Novembre                 -    38   -    14   -    12   -    18   -    14   -    3458 -    14   -    58 12 d          6.11.1996 Aston Clinton                               96/1225
+ 639 Zacatecas                -    38   -    14   -    12   -    18   -    14   -    58.  12   -    14.  58 12 d         17. 1.1985 Beeston                                     85/199
+ 640 Westhoughton             -    38   -    14   -    12   -    18   -    34   -    38   -    16   -    78 12 b         27.12.1970 Westhoughton                                71/77
+ 641 Mavesyn Victory          -    38   -    14   -    12   -    18   -    34   -    38   -    34   -    18 12 e         25. 5.1999 Kingsbury (Warks)                           99/631
+ 642 Hicks                    -    38   -    14   -    12   -    18   -    34   -    58   -    14   -    58 12 d         15.11.1998 Melbourn                                    98/1207
+ 643 New Burslem              -    38   -    14   -    12   -    18.  34   -    14.  58.  14   -    14.  58 12 d         23.11.1963 Attenborough                                63/835 65/228
+ 644 Alford                   -    38   -    14   -    12   -    36   -    14   -    18   -    16   -    18 12 b         20.12.1969 Barnes                                      70/37
+ 645 Harcourt Arms            -    38   -    14   -    12   -    36   -    34   -    18   -    34   -    58 12 f         13. 4.1999 Oxford, St Mary Magdalen                    99/409
+ 646 Ipswich                  -    38   -    14   -    12   -    38   -    14   -    18   -    14   -    18 12 f          5. 1.1982 Ipswich, St Mary-le-Tower                   82/135
+ 647 Upham                    -    38   -    14   -    12   -    38.  14   -    34.  18.  34   -    34.  18 12 a          7.11.1981 Upham                                       81/1118
+ 648 January                  -    38   -    14   -    12   -    38.  14   -    34.  18.  56   -    56.  18 12 a         28. 6.1996 Hughenden                                   96/758
+ 649 Exeenda                  -    38   -    14   -    12   -    38.  14   -    34.  18.  56   -    56.  78 12 b         13. 5.1996 Chalfont St Giles                           96/611
+ 650 Wedding                  -    38   -    14   -    1256 -    16   -    34   -    18   -    12   -    78 12 d         15. 9.1999 Barrow Gurney                               99/1087
+ 651 Heptonstall              -    38   -    14   -    1256 -    16   -    34   -    18   -    12.  36.  18 12 e          4. 1.2001 Heptonstall                                 01/113
+ 652 Kilburn                  -    38   -    14   -    1256 -    16   -    34   -    18   -    1256 -    78 12 d         15. 7.1998 Salford                                     98/799
+ 653 Ketteringham             -    38   -    14   -    1256 -    16   -    34   -    18   -    16   -    58 12 b          3.11.1973 Worcester, St John-the-Baptist              73/982
+ 654 Bevan's                  -    38   -    14   -    1256 -    16   -    34   -    18   -    34   -    78 12 d         28. 6.1998 Westhoughton                                98/773
+ 655 Rochdale Canal           -    38   -    14   -    1256 -    16   -    34   -    18.  36.  12   -    18 12 e         24. 8.1998 Heptonstall                                 98/944
+ 656 David's                  -    38   -    14   -    1256 -    16   -    34   -    18.  56   -    56.  18 12 c         11. 9.1997 Burnley                                     97/1026
+ 657 Garnet                   -    38   -    14   -    1256 -    18   -    12   -    58   -    16   -    18 12 b         18. 6.2001 Willesden                                   01/687
+ 658 Cooktown Orchid          -    38   -    14   -    1256 -    18   -    12   -    58   -    16   -    78 12 a         31.12.1992 Maryborough, Queensland                     93/198 93/336
+ 659 Earnley Castle           -    38   -    14   -    1256 -    18   -    12   -    58.  16   -    16.  78 12 a         18.12.2000 Fairwarp                                    01/63
+ 660 Romanby Green            -    38   -    14   -    1256 -    18   -    3478 -    58   -    16   -    78 12 d          1. 9.2001 Romanby                                     01/953
+ 661 Jefford                  -    38   -    14   -    1258 -    1236 -    14   -    18   -    12   -    78 12 b         16. 5.1992 Thorverton                                  92/641
+ 662 Elvestone                -    38   -    14   -    1258 -    1236 -    14   -    18   -    12.  34.  78 12 b         15. 6.1995 South Wigston                               95/767 851
+ 663 St James-the-Great       -    38   -    14   -    1258 -    1236 -    14   -    18   -    12.  56.  78 12 b         29. 7.1995 Birstall (Leics)                            95/935
+ 664 Brindley                 -    38   -    14   -    1258 -    1236 -    14   -    18   -    1234 -    78 12 b         20.10.1992 Newton Abbot                                92/1178
+ 665 Bishop Thomas            -    38   -    14   -    1258 -    1236 -    14   -    18   -    1256 -    78 12 b         10. 3.1993 South Wigston                               93/374
+ 666 Lye                      -    38   -    14   -    1258 -    1236 -    14   -    18   -    34   -    78 12 b         25. 8.1982 Lye                                         82/802
+ 667 Wicestan                 -    38   -    14   -    1258 -    1236 -    14   -    18   -    34.  12.  78 12 b          4. 4.1996 South Wigston                               96/492
+ 668 Rowley Regis             -    38   -    14   -    1258 -    1236 -    14   -    18   -    34.  56.  78 12 b         18.12.1993 Rowley Regis                                94/85
+ 669 Parklands                -    38   -    14   -    1258 -    1236 -    14   -    18   -    3456 -    78 12 b         24. 2.1993 South Wigston                               93/322
+ 670 Alamein                  -    38   -    14   -    1258 -    1236 -    14   -    18   -    56   -    78 12 b         26.10.1992 Countesthorpe                               92/1156
+ 671 Daffern                  -    38   -    14   -    1258 -    1236 -    14   -    18   -    56.  12.  78 12 b          6.11.1995 Claybrooke                                  95/1252
+ 672 Countess Judith          -    38   -    14   -    1258 -    1236 -    14   -    18   -    56.  34.  78 12 b          9. 5.1995 Countesthorpe                               95/605
+ 673 Osferdebie               -    38   -    14   -    1258 -    1236 -    14   -    18.  34   -    12.  78 12 b          1. 4.1996 Loughborough Bellfoundry                    96/492
+ 674 Shere                    -    38   -    14   -    1258 -    1236 -    14   -    18.  34   -    1234.78 12 b         23. 4.1994 South Wigston                               94/536
+ 675 Jupiter                  -    38   -    14   -    1258 -    1236 -    14   -    18.  34   -    1256.78 12 b         17. 3.1997 Countesthorpe                               97/399
+ 676 Sproxton                 -    38   -    14   -    1258 -    1236 -    14   -    18.  34   -    34.  78 12 b         17.11.1992 Sproxton                                    92/1235
+ 677 Ronaldsway               -    38   -    14   -    1258 -    1236 -    14   -    18.  34   -    3456.78 12 b         29. 7.1993 South Wigston                               93/856
+ 678 Coston                   -    38   -    14   -    1258 -    1236 -    14   -    18.  34   -    56.  78 12 b          1. 3.1995 South Wigston                               95/383
+ 679 Bristans                 -    38   -    14   -    1258 -    1236 -    14   -    18.  34.  12   -    78 12 b         31. 3.1994 South Wigston                               94/464
+ 680 Jerubbaal                -    38   -    14   -    1258 -    1236 -    14   -    18.  34.  12.  34.  78 12 b         20.10.1993 Loughborough Bellfoundry                    93/1119
+ 681 Malaita                  -    38   -    14   -    1258 -    1236 -    14   -    18.  34.  12.  56.  78 12 b          9. 8.1994 Countesthorpe                               94/904
+ 682 Ironbridge               -    38   -    14   -    1258 -    1236 -    14   -    18.  34.  56   -    78 12 b         12.12.1994 Loughborough Bellfoundry                    95/90
+ 683 Janus                    -    38   -    14   -    1258 -    1236 -    14   -    18.  34.  56.  12.  78 12 b          6. 1.1997 South Wigston                               97/170
+ 684 Chandler                 -    38   -    14   -    1258 -    1236 -    14   -    18.  34.  56.  34.  78 12 b         11. 1.1993 Gilmorton                                   93/152
+ 685 Hoy                      -    38   -    14   -    1258 -    1236 -    14   -    18.  3456 -    12.  78 12 b         24. 6.1995 South Wigston                               95/790
+ 686 Epiphany                 -    38   -    14   -    1258 -    1236 -    14   -    18.  3456 -    1234.78 12 b          6. 1.1995 South Wigston                               95/167
+ 687 Kilby                    -    38   -    14   -    1258 -    1236 -    14   -    18.  3456 -    1256.78 12 b         14. 7.1995 Countesthorpe                               95/885
+ 688 Xoros                    -    38   -    14   -    1258 -    1236 -    14   -    18.  3456 -    34.  78 12 b         20. 6.1994 Loughborough Bellfoundry                    94/735
+ 689 Tungurahua               -    38   -    14   -    1258 -    1236 -    14   -    18.  3456 -    3456.78 12 b         12. 7.1993 South Wigston                               93/807
+ 690 Ash                      -    38   -    14   -    1258 -    1236 -    14   -    18.  3456 -    56.  78 12 b         16. 2.1994 South Wigston                               94/282
+ 691 Seagrave                 -    38   -    14   -    1258 -    1236 -    14   -    18.  56   -    12.  78 12 b         23. 2.1996 Aspley, Nottingham                          96/299
+ 692 Sannat                   -    38   -    14   -    1258 -    1236 -    14   -    18.  56   -    1234.78 12 b         28. 7.1997 South Wigston                               97/874
+ 693 Maundy                   -    38   -    14   -    1258 -    1236 -    14   -    18.  56   -    1256.78 12 b          8. 4.1993 South Wigston                               93/448
+ 694 Odstone                  -    38   -    14   -    1258 -    1236 -    14   -    18.  56   -    34.  78 12 b          4. 9.1995 South Wigston                               95/1058
+ 695 Dalmuir                  -    38   -    14   -    1258 -    1236 -    14   -    18.  56   -    3456.78 12 b         31. 8.1993 South Wigston                               93/976
+ 696 Vikingtun                -    38   -    14   -    1258 -    1236 -    14   -    18.  56   -    56.  78 12 b          2. 2.1995 South Wigston                               95/251 487
+ 697 Sansum                   -    38   -    14   -    1258 -    1236 -    14   -    18.  56.  12   -    78 12 b         23.10.1995 Loughborough Bellfoundry                    95/1203
+ 698 Diamond                  -    38   -    14   -    1258 -    1236 -    14   -    18.  56.  12.  34.  78 12 b         13.12.1997 East Budleigh                               98/61
+ 699 Imogen                   -    38   -    14   -    1258 -    1236 -    14   -    18.  56.  12.  56.  78 12 b         29.11.1993 Loughborough Bellfoundry                    94/10
+ 700 Xarro                    -    38   -    14   -    1258 -    1236 -    14   -    18.  56.  34   -    78 12 b         28. 9.1994 Loughborough Bellfoundry                    94/1092
+ 701 Tahiche                  -    38   -    14   -    1258 -    1236 -    14   -    18.  56.  34.  12.  78 12 b          8. 7.1996 South Wigston                               96/830
+ 702 St Michael's             -    38   -    14   -    1258 -    1236 -    14   -    18.  56.  34.  56.  78 12 b         29. 9.1979 Brierley Hill                               79/889
+ 703 Hales Owen               -    38   -    14   -    1258 -    1236 -    34   -    18   -    16   -    18 12 a         15.12.1984 Halesowen                                   85/131
+ 704 Colombo                  -    38   -    14   -    1258 -    16   -    12   -    18   -    34   -    18 12 f          2.12.1978 Windsor, St John-the-Baptist                79/83
+ 705 Allendale                -    38   -    14   -    1258 -    16   -    12   -    18   -    56   -    58 12 c         26. 3.1974 Trumpington                                 74/390
+ 706 Essef                    -    38   -    14   -    1258 -    16   -    1234 -    18   -    16   -    78 12 b          9. 1.1993 Bishopstoke                                 93/176
+ 707 Aldwickbury              -    38   -    14   -    1258 -    16   -    14   -    18   -    14   -    78 12 b         31. 8.1970 Hyde                                        70/802
+ 708 St Brannock's            -    38   -    14   -    1258 -    16   -    14   -    18   -    1456 -    78 12 b         17. 7.1993 Tawstock                                    93/830
+ 709 Kirkstall                -    38   -    14   -    1258 -    16   -    34   -    18   -    56   -    18 12 c         25. 8.1971 Crowle                                      71/873
+ 710 New Deane                -    38   -    14   -    1258 -    36   -    34   -    18   -    36   -    58 12 f         29. 8.1983 Deane (Hants)                               83/886 84/209
+ 711 Janvier                  -    38   -    14   -    1258 -    36.  14   -    34.  18.  34   -    14.  78 12 b          2. 4.1997 Buckfastleigh, Holy Trinity                 97/480
+ 712 Partington               -    38   -    14   -    1258 -    36.  14   -    34.  18.  34   -    1456.78 12 b         24. 1.2001 Heywood                                     01/190
+ 713 Prince Edward            -    38   -    14   -    1258 -    36.  14   -    34.  18.  34.  56.  14.  78 12 b         26. 5.1999 Heywood                                     99/554
+ 714 Deorham                  -    38   -    14   -    56   -    1236 -    14   -    18.  34   -    12.  38 18 m         25. 3.1995 Swillington                                 95/449
+ 715 Cherry Hinton            -    38   -    14   -    56   -    16   -    12   -    18.  56   -    56.  18 12 b          9. 1.1976 Meldreth                                    76/204
+ 716 Gressenhall              -    38   -    14   -    56   -    16   -    34   -    18   -    14   -    78 12 d         18. 1.1956 Gressenhall                                 56/68
+ 717 Weston super Mare        -    38   -    14   -    56   -    16   -    34   -    18   -    1456 -    78 12 d          6. 6.2000 Weston-super-Mare                           00/767
+ 718 Arundel Castle           -    38   -    14   -    56   -    16   -    34   -    18   -    56.  14.  78 12 d          1. 2.1999 Buxted                                      99/216
+ 719 Swindon                  -    38   -    14   -    56   -    18   -    12   -    58   -    36   -    38 12 d          1. 4.1997 Swindon, St Mark                            97/483 1159
+ 720 Corda                    -    38   -    14   -    56   -    18   -    14   -    1458 -    34   -    18 18 m          7. 5.1990 Birstall (Yorks)                            90/538
+ 721 Cornovii                 -    38   -    14   -    56   -    18   -    14   -    18.  36   -    14.  58 12 f         29. 1.1994 Creswell                                    94/210
+ 722 Farnworth                -    38   -    14   -    56   -    18   -    14   -    18.  36   -    56.  18 18 m          3. 8.1981 Farnworth-with-Kearsley                     81/831
+ 723 Dumnonii                 -    38   -    14   -    56   -    18   -    14   -    38.  16   -    34.  58 12 f          7. 5.1994 Birstall (Yorks)                            94/590
+ 724 Ruby                     -    38   -    14   -    56   -    18   -    34   -    1458 -    16   -    18 12 b         28. 9.1998 Bushey                                      98/1015
+ 725 Bowes-Lyon               -    38   -    14   -    56   -    18   -    34   -    1458 -    16   -    78 12 a          4. 8.1998 Broughton                                   98/894
+ 726 Pig-le-Tower             -    38   -    14   -    56   -    18   -    34   -    38   -    1456 -    18 12 f          4. 8.1998 Marston Bigot, Pig-le-Tower                 98/821
+ 727 Shedfield                -    38   -    14   -    56   -    18   -    34   -    58   -    14   -    18 18 m         28.10.1972 Shedfield                                   73/32
+ 728 Sear                     -    38   -    14   -    56   -    36   -    12   -    18   -    12   -    38 12 a         15. 7.1997 Aldermaston                                 97/851
+ 729 Reedley Hallows          -    38   -    14   -    56   -    36   -    34   -    18   -    12   -    78 12 d         26. 3.1994 Burnley                                     94/407
+ 730 St Chads                 -    38   -    14   -    56   -    36   -    34   -    18   -    34   -    78 12 d          9. 9.2000 Burton-upon-Trent, St Chad                  00/1214
+ 731 Irnham                   -    38   -    14   -    56   -    36   -    34   -    18   -    3456 -    18 12 e         28. 7.1983 Billingborough                              83/707
+ 732 Kingsbury500             -    38   -    14   -    56   -    36   -    34   -    18   -    56   -    78 12 d          4. 7.2000 Kingsbury (Warks)                           00/1012
+ 733 Arkle                    -    38   -    14   -    56   -    38   -    34   -    18.  36   -    14.  58 12 f         23.12.1995 Harthill                                    96/127
+ 734 Ullscarf                 -    38   -    14   -    56.  12.  36.  14   -    34.  18.  56   -    16.  78 12 d         19.11.1992 Highclere                                   93/15
+ 735 Lyddington               -    38   -    14   -    58   -    1236 -    14   -    18   -    1234 -    18 12 f         22. 7.1989 Totternhoe                                  89/754 936
+ 736 Buckhurst                -    38   -    14   -    58   -    1236 -    14   -    18   -    16   -    18 12 a         25. 3.2000 Hadlow                                      00/573
+ 737 Barrow-upon-Soar         -    38   -    14   -    58   -    1236 -    34   -    18   -    1236 -    58 12 f         28. 2.1978 Trumpington                                 78/249 326
+ 738 Stapleford               -    38   -    14   -    58   -    1236 -    34   -    18   -    36   -    58 12 f          8. 7.1973 Cambridge, St Andrew-the-Great              73/596
+ 739 Bradford                 -    38   -    14   -    58   -    16   -    12   -    18   -    12   -    38 12 a          7. 2.1970 Bradford Cathedral                          70/197
+ 740 Christmas                -    38   -    14   -    58   -    16   -    12   -    18.  34   -    14.  78 12 b         24.12.1988 Amersham                         20.12.2000 89/82 01/91
+ 741 Wallingford              -    38   -    14   -    58   -    16   -    12   -    18.  34   -    1456.78 12 b         11.11.1989 Wallingford                                 89/1090
+ 742 Portsmouth               -    38   -    14   -    58   -    16   -    12   -    18.  34.  56.  14.  78 12 b         13.12.1979 Overton                                     80/49
+ 743 Porchester               -    38   -    14   -    58   -    16   -    12   -    18.  3456 -    1456.78 12 b         15.12.1989 Highclere                                   90/72
+ 744 Captain's                -    38   -    14   -    58   -    16   -    12   -    18.  56   -    56.  38 12 a         13. 5.1989 Leckhampton                                 89/507
+ 745 Toseland                 -    38   -    14   -    58   -    16   -    12   -    18.  56.  12.  56.  38 12 a         12. 3.1976 Meldreth                                    76/351
+ 746 Bampton                  -    38   -    14   -    58   -    16   -    14   -    18   -    12.  34.  18 12 f          6. 6.1987 Bampton (Oxon)                              87/628
+ 747 West Sussex              -    38   -    14   -    58   -    16   -    14   -    18   -    1234 -    18 12 f          2. 6.1989 Chichester Cathedral                        89/575
+ 748 Rockwood                 -    38   -    14   -    58   -    16   -    14   -    18   -    56   -    58 12 c         11. 3.1972 Dewsbury                                    72/299
+ 749 Rutland                  -    38   -    14   -    58   -    16   -    14   -    18.  34.  12   -    18 12 f         24. 8.1972 Castle Cary                                 72/885
+ 750 Effingham                -    38   -    14   -    58   -    16   -    14   -    18.  56   -    16.  78 12 b          7. 1.1967 Harlington                                  67/86
+ 751 Luppitt                  -    38   -    14   -    58   -    16   -    34   -    18   -    1236 -    58 12 f          8.12.1988 Luppitt                                     89/78
+ 752 Blackdown                -    38   -    14   -    58   -    16   -    34   -    18   -    14   -    58 12 d          3. 6.1961 Wellington (Somerset)                       61/414
+ 753 Eardisland               -    38   -    14   -    58   -    16   -    34   -    18   -    36   -    58 12 f         26.12.1953 Eardisland                                  54/34 64
+ 754 Jenny                    -    38   -    14   -    58   -    16   -    34   -    18   -    36.  12.  58 12 f         19. 4.1996 Heywood                                     96/539
+ 755 Yelling                  -    38   -    14   -    58   -    16.  34   -    34.  18   -    12   -    78 12 b         10. 7.1977 Bourn                                       77/761
+ 756 Gnilley                  -    38   -    14   -    58   -    16.  34   -    34.  18   -    12   -    78 18 g         10.10.1990 Loughborough Bellfoundry                    90/1104
+ 757 Psara                    -    38   -    14   -    58   -    16.  34   -    34.  18   -    12.  34.  78 12 b         23. 4.1990 Loughborough Bellfoundry                    89/103 90/487
+ 758 Pasadena                 -    38   -    14   -    58   -    16.  34   -    34.  18   -    12.  56.  78 12 b         23. 8.1989 Thatcham                                    89/103 928
+ 759 Anedasap                 -    38   -    14   -    58   -    16.  34   -    34.  18   -    12.  56.  78 18 g         20. 5.1992 Loughborough Bellfoundry                    92/600
+ 760 Oaxaca                   -    38   -    14   -    58   -    16.  34   -    34.  18   -    1234 -    78 12 b         22. 2.1993 Loughborough Bellfoundry                    93/322
+ 761 Acaxao                   -    38   -    14   -    58   -    16.  34   -    34.  18   -    1234 -    78 18 g         27. 8.1997 Loughborough Bellfoundry                    97/951
+ 762 Sunderland               -    38   -    14   -    58   -    16.  34   -    34.  18   -    1256 -    78 12 b          8. 5.1980 Welbourn                                    80/533
+ 763 Landersund               -    38   -    14   -    58   -    16.  34   -    34.  18   -    1256 -    78 18 g         10. 8.1992 Countesthorpe                               92/893
+ 764 Winchester               -    38   -    14   -    58   -    16.  34   -    34.  18   -    34   -    78 12 b          7. 8.1977 Bourn                                       77/798
+ 765 Tercheswin               -    38   -    14   -    58   -    16.  34   -    34.  18   -    34   -    78 18 g          4.11.1991 Countesthorpe                               91/1183
+ 766 Sparta                   -    38   -    14   -    58   -    16.  34   -    34.  18   -    34.  12.  78 12 b          1. 5.1990 Countesthorpe                               89/103 90/512
+ 767 Atraps                   -    38   -    14   -    58   -    16.  34   -    34.  18   -    34.  12.  78 18 g         29. 9.1997 Countesthorpe                               97/1074
+ 768 Apsley                   -    38   -    14   -    58   -    16.  34   -    34.  18   -    34.  56.  78 12 b         18. 4.1990 Ashby Folville                              89/103 90/487
+ 769 Leyspa                   -    38   -    14   -    58   -    16.  34   -    34.  18   -    34.  56.  78 18 g          4. 3.1992 South Wigston                               92/330 420
+ 770 Sleaford                 -    38   -    14   -    58   -    16.  34   -    34.  18   -    3456 -    78 12 b         25. 8.1979 Sleaford                                    79/845
+ 771 Drofaels                 -    38   -    14   -    58   -    16.  34   -    34.  18   -    3456 -    78 18 g          7.11.1990 Loughborough Bellfoundry                    90/1170 91/24
+ 772 Ian's                    -    38   -    14   -    58   -    16.  34   -    34.  18   -    56   -    78 12 b          8. 1.1983 Norton (Yorks)                              83/163
+ 773 Snai                     -    38   -    14   -    58   -    16.  34   -    34.  18   -    56   -    78 18 g          1. 6.1994 Loughborough Bellfoundry                    94/711
+ 774 Sapello                  -    38   -    14   -    58   -    16.  34   -    34.  18   -    56.  12.  78 12 b         24. 5.1990 South Wigston                               89/103 90/609
+ 775 Aspen                    -    38   -    14   -    58   -    16.  34   -    34.  18   -    56.  34.  78 12 b          5. 6.1990 Countesthorpe                               89/103 90/652
+ 776 Nepsa                    -    38   -    14   -    58   -    16.  34   -    34.  18   -    56.  34.  78 18 g          9. 6.1997 Loughborough Bellfoundry                    97/707
+ 777 Siam                     -    38   -    14   -    58   -    16.  34   -    34.  18.  34   -    12.  78 12 b         15. 5.1990 Loughborough Bellfoundry                    89/103 90/560
+ 778 Mais                     -    38   -    14   -    58   -    16.  34   -    34.  18.  34   -    12.  78 18 g          3. 7.1991 Sproxton                                    91/720
+ 779 Beechwood                -    38   -    14   -    58   -    16.  34   -    34.  18.  34   -    1234.78 12 b          9. 4.1993 Countesthorpe                               93/448
+ 780 Woodbeech                -    38   -    14   -    58   -    16.  34   -    34.  18.  34   -    1234.78 18 g         13. 7.1994 Loughborough Bellfoundry                    94/782
+ 781 Sisland                  -    38   -    14   -    58   -    16.  34   -    34.  18.  34   -    1256.78 12 b          6. 6.1990 South Wigston                               89/103 90/652
+ 782 Islands                  -    38   -    14   -    58   -    16.  34   -    34.  18.  34   -    1256.78 18 g         14. 4.1997 Countesthorpe                               97/510
+ 783 Hunsdon                  -    38   -    14   -    58   -    16.  34   -    34.  18.  34   -    34.  78 12 b         21. 4.1984 Hunsdon                                     84/411
+ 784 Nevilholt                -    38   -    14   -    58   -    16.  34   -    34.  18.  34   -    34.  78 18 g         21.11.1990 South Wigston                               91/11
+ 785 Kashmir                  -    38   -    14   -    58   -    16.  34   -    34.  18.  34   -    3456.78 12 b         27. 7.1993 Loughborough Bellfoundry                    93/856
+ 786 Shmirka                  -    38   -    14   -    58   -    16.  34   -    34.  18.  34   -    3456.78 18 g         13. 4.1994 Loughborough Bellfoundry                    94/487
+ 787 Aistersheim              -    38   -    14   -    58   -    16.  34   -    34.  18.  34   -    56.  78 12 b         11. 6.1990 Loughborough Bellfoundry                    89/103 90/730
+ 788 Miehsretsia              -    38   -    14   -    58   -    16.  34   -    34.  18.  34   -    56.  78 18 g         10.11.1997 Loughborough Bellfoundry                    97/1243
+ 789 Piacenza                 -    38   -    14   -    58   -    16.  34   -    34.  18.  34.  12   -    78 12 b          7. 8.1990 Kingsbury (Warks)                           89/103 90/890
+ 790 Aznecaip                 -    38   -    14   -    58   -    16.  34   -    34.  18.  34.  12   -    78 18 g          9. 4.1998 South Wigston                               98/482
+ 791 Plaistow                 -    38   -    14   -    58   -    16.  34   -    34.  18.  34.  12.  34.  78 12 b         25. 6.1990 Loughborough Bellfoundry                    89/103 90/730
+ 792 Wotsialp                 -    38   -    14   -    58   -    16.  34   -    34.  18.  34.  12.  34.  78 18 g         26. 4.2000 Loughborough Bellfoundry                    00/502
+ 793 Pisa                     -    38   -    14   -    58   -    16.  34   -    34.  18.  34.  12.  56.  78 12 b         29. 6.1990 Sproxton                                    89/103 90/730
+ 794 Aipe                     -    38   -    14   -    58   -    16.  34   -    34.  18.  34.  56   -    78 12 b         16. 7.1990 Countesthorpe                               89/103 90/777
+ 795 Epia                     -    38   -    14   -    58   -    16.  34   -    34.  18.  34.  56   -    78 18 g         26.10.1994 Loughborough Bellfoundry                    94/1214
+ 796 Sipora                   -    38   -    14   -    58   -    16.  34   -    34.  18.  34.  56.  12.  78 12 b          5. 3.1990 Loughborough Bellfoundry                    89/103 90/348
+ 797 Arosip                   -    38   -    14   -    58   -    16.  34   -    34.  18.  34.  56.  12.  78 18 g         28. 7.1993 Loughborough Bellfoundry                    93/856
+ 798 Alpine                   -    38   -    14   -    58   -    16.  34   -    34.  18.  34.  56.  34.  78 12 b         19. 3.1990 Countesthorpe                               89/103 90/398
+ 799 Enipla                   -    38   -    14   -    58   -    16.  34   -    34.  18.  34.  56.  34.  78 18 g          6. 8.1991 Loughborough Bellfoundry                    91/881
+ 800 Kiriath                  -    38   -    14   -    58   -    16.  34   -    34.  18.  3456 -    12.  78 12 b          2. 6.1994 South Wigston                               94/711
+ 801 Glenne                   -    38   -    14   -    58   -    16.  34   -    34.  18.  3456 -    1234.78 12 b         21.12.1993 Great Glen                                  94/107
+ 802 Dingli                   -    38   -    14   -    58   -    16.  34   -    34.  18.  3456 -    1256.78 12 b         23.12.1993 South Wigston                               94/107
+ 803 Ilgnid                   -    38   -    14   -    58   -    16.  34   -    34.  18.  3456 -    1256.78 18 g          5. 7.1995 Loughborough Bellfoundry                    95/816
+ 804 Malcolmmas               -    38   -    14   -    58   -    16.  34   -    34.  18.  3456 -    34.  78 12 b         29. 9.1993 Loughborough Bellfoundry                    93/1095
+ 805 Sammloclam               -    38   -    14   -    58   -    16.  34   -    34.  18.  3456 -    34.  78 18 g         25.11.1996 Loughborough Bellfoundry                    97/35
+ 806 Leysland                 -    38   -    14   -    58   -    16.  34   -    34.  18.  3456 -    3456.78 12 b         15. 3.1993 Countesthorpe                               93/399
+ 807 Landleys                 -    38   -    14   -    58   -    16.  34   -    34.  18.  3456 -    3456.78 18 g         27.10.1993 Loughborough Bellfoundry                    93/1143
+ 808 Mosta                    -    38   -    14   -    58   -    16.  34   -    34.  18.  3456 -    56.  78 12 b          6.12.1993 Loughborough Bellfoundry                    94/34 119
+ 809 St Helena                -    38   -    14   -    58   -    16.  34   -    34.  18.  56   -    12.  78 12 b         23. 7.1990 Loughborough Bellfoundry                    89/103 90/842
+ 810 Asyut                    -    38   -    14   -    58   -    16.  34   -    34.  18.  56   -    1234.78 12 b          7. 2.1994 Loughborough Bellfoundry                    94/232
+ 811 Salvador                 -    38   -    14   -    58   -    16.  34   -    34.  18.  56   -    1256.78 12 b          6. 8.1990 Earl Shilton                                89/103 90/890
+ 812 Asia                     -    38   -    14   -    58   -    16.  34   -    34.  18.  56   -    34.  78 12 b          1. 8.1990 Loughborough Bellfoundry                    89/103 90/842
+ 813 Aisa                     -    38   -    14   -    58   -    16.  34   -    34.  18.  56   -    34.  78 18 g          4. 5.1994 Loughborough Bellfoundry                    94/559
+ 814 Scalborough              -    38   -    14   -    58   -    16.  34   -    34.  18.  56   -    3456.78 12 b         22. 6.1993 Countesthorpe                               93/699
+ 815 Calboroughs              -    38   -    14   -    58   -    16.  34   -    34.  18.  56   -    3456.78 18 g         30. 8.1994 Countesthorpe                               94/999
+ 816 Huancayo                 -    38   -    14   -    58   -    16.  34   -    34.  18.  56   -    56.  78 12 b          1. 2.1993 Loughborough Bellfoundry                    93/251
+ 817 Oyacnauh                 -    38   -    14   -    58   -    16.  34   -    34.  18.  56   -    56.  78 18 g          7.12.1994 Loughborough Bellfoundry                    95/90 155
+ 818 Paisley                  -    38   -    14   -    58   -    16.  34   -    34.  18.  56.  12   -    78 12 b         20. 8.1990 Countesthorpe                               89/103 90/937
+ 819 Yelsiap                  -    38   -    14   -    58   -    16.  34   -    34.  18.  56.  12   -    78 18 g          8. 3.1993 Anstey                                      93/374
+ 820 Lucteburga               -    38   -    14   -    58   -    16.  34   -    34.  18.  56.  12.  34.  78 12 b         14. 3.1994 Loughborough Bellfoundry                    94/377
+ 821 Palermo                  -    38   -    14   -    58   -    16.  34   -    34.  18.  56.  12.  56.  78 12 b          8. 1.1991 Quorndon                                    89/103 91/171
+ 822 Omrelap                  -    38   -    14   -    58   -    16.  34   -    34.  18.  56.  12.  56.  78 18 g         29. 4.1992 Loughborough Bellfoundry                    92/504
+ 823 Apiro                    -    38   -    14   -    58   -    16.  34   -    34.  18.  56.  34   -    78 12 b          5. 2.1991 Loughborough Bellfoundry                    89/103 91/242
+ 824 Or                       -    38   -    14   -    58   -    16.  34   -    34.  18.  56.  34   -    78 18 g          6. 1.1992 Quorndon                                    92/162
+ 825 Spitsbergen              -    38   -    14   -    58   -    16.  34   -    34.  18.  56.  34.  12.  78 12 b         19. 2.1991 Loughborough Bellfoundry                    89/103 91/282
+ 826 Aplinskiy                -    38   -    14   -    58   -    16.  34   -    34.  18.  56.  34.  56.  78 12 b         13. 2.1991 South Wigston                               89/103 91/282
+ 827 Willey                   -    38   -    14   -    58   -    16.  34   -    34.  18.  56.  34.  56.  78 18 g         10. 4.1991 South Wigston                               91/419
+ 828 Faringdon Standard       -    38   -    14   -    58   -    16.  34.  12.  34.  18.  34   -    14.  78 12 b         19. 5.2001 Faringdon                                   01/585
+ 829 Tregear                  -    38   -    14   -    58   -    1678 -    78   -    18   -    1256 -    78 12 b         28.12.1996 Kenwyn                                      97/122 183
+ 830 Bewnans Meryasyk         -    38   -    14   -    58   -    1678 -    78   -    18   -    34   -    78 12 b         14.12.1996 Towednack                                   97/122 183
+ 831 Dumna                    -    38   -    14   -    58   -    18   -    14   -    1258 -    12   -    18 12 f         27. 1.1990 Birstall (Yorks)                            90/253
+ 832 Noble                    -    38   -    14   -    58   -    18   -    14   -    58   -    36   -    38 12 b          1. 1.1998 Darling Point, NSW                          98/109
+ 833 Cassi                    -    38   -    14   -    58   -    36   -    12   -    18   -    12   -    18 18 m          1. 9.1990 Birstall (Yorks)                            90/939
+ 834 Trumpington              -    38   -    14   -    58   -    36   -    12   -    18.  34   -    36.  58 12 c         23. 9.1999 Trumpington                                 99/968
+ 835 Longstanton              -    38   -    14   -    58   -    36   -    14   -    18   -    12   -    78 12 b         12. 2.1977 Longstanton                                 77/248
+ 836 Cassandra                -    38   -    14   -    58   -    36   -    14   -    18   -    12.  34.  78 12 b          5. 9.1990 South Wigston                               90/984
+ 837 Ulverscroft              -    38   -    14   -    58   -    36   -    14   -    18   -    12.  56.  78 12 b         18. 9.1990 Countesthorpe                               90/1008
+ 838 Oldebi                   -    38   -    14   -    58   -    36   -    14   -    18   -    1234 -    78 12 b         22.12.1993 Oadby                                       94/107
+ 839 Over                     -    38   -    14   -    58   -    36   -    14   -    18   -    1256 -    78 12 b         29.12.1977 Over (Cambs)                                78/76
+ 840 Uttlesford               -    38   -    14   -    58   -    36   -    14   -    18   -    34   -    78 12 b         15.10.1977 Ashdon                                      77/1040
+ 841 Tilton                   -    38   -    14   -    58   -    36   -    14   -    18   -    34.  12.  78 12 b         19. 9.1990 South Wigston                               90/1008
+ 842 Ecuador                  -    38   -    14   -    58   -    36   -    14   -    18   -    34.  56.  78 12 b          5.11.1990 Loughborough Bellfoundry                    90/1170
+ 843 Fishponds                -    38   -    14   -    58   -    36   -    14   -    18   -    3456 -    78 12 b         21. 9.1992 Loughborough Bellfoundry                    92/1060
+ 844 Knotty Ash               -    38   -    14   -    58   -    36   -    14   -    18   -    56   -    78 12 b         28. 2.1970 Southport, Emmanuel                         70/214
+ 845 Willoughby               -    38   -    14   -    58   -    36   -    14   -    18   -    56.  12.  78 12 b          9. 3.1991 Countesthorpe                               91/373
+ 846 Hamer                    -    38   -    14   -    58   -    36   -    14   -    18   -    56.  34.  78 12 b         10. 6.1991 Loughborough Bellfoundry                    91/648
+ 847 Foston                   -    38   -    14   -    58   -    36   -    14   -    18.  34   -    12.  78 12 b         13. 5.1991 Loughborough Bellfoundry                    91/567
+ 848 Sproxcheston             -    38   -    14   -    58   -    36   -    14   -    18.  34   -    1234.78 12 b         18. 4.1994 Sproxton                                    94/510
+ 849 Valerian                 -    38   -    14   -    58   -    36   -    14   -    18.  34   -    1256.78 12 b          9. 9.1991 Loughborough Bellfoundry                    91/995
+ 850 Hwange                   -    38   -    14   -    58   -    36   -    14   -    18.  34   -    34.  78 12 b          3. 8.1992 Loughborough Bellfoundry                    92/868
+ 851 Pennclose                -    38   -    14   -    58   -    36   -    14   -    18.  34   -    3456.78 12 b         16. 7.1994 Countesthorpe                               94/807
+ 852 Valparaiso               -    38   -    14   -    58   -    36   -    14   -    18.  34   -    56.  78 12 b          9. 5.1991 South Wigston                               91/567
+ 853 Quito                    -    38   -    14   -    58   -    36   -    14   -    18.  34.  12   -    78 12 b         26. 3.1991 Loughborough Bellfoundry                    91/395
+ 854 Guaratingueta            -    38   -    14   -    58   -    36   -    14   -    18.  34.  12.  34.  78 12 b         11. 3.1991 Loughborough Bellfoundry                    91/373 664
+ 855 Manaos                   -    38   -    14   -    58   -    36   -    14   -    18.  34.  12.  56.  78 12 b         17.12.1991 Loughborough Bellfoundry                    92/108
+ 856 Pindamonhangaba          -    38   -    14   -    58   -    36   -    14   -    18.  34.  56   -    78 12 b         28. 3.1991 South Wigston                               91/395
+ 857 Uckinghall               -    38   -    14   -    58   -    36   -    14   -    18.  34.  56.  12.  78 12 b         30. 3.1992 Loughborough Bellfoundry                    92/432
+ 858 Thurcaston               -    38   -    14   -    58   -    36   -    14   -    18.  34.  56.  34.  78 12 b          3. 1.1991 Thurcaston                                  91/171
+ 859 Glyncorrwg               -    38   -    14   -    58   -    36   -    14   -    18.  3456 -    12.  78 12 b         24. 6.1995 Anstey                                      95/790
+ 860 Munxar                   -    38   -    14   -    58   -    36   -    14   -    18.  3456 -    1234.78 12 b          2. 6.1997 Loughborough Bellfoundry                    97/687
+ 861 Pednathise               -    38   -    14   -    58   -    36   -    14   -    18.  3456 -    1256.78 12 b         25. 2.1998 South Wigston                               98/311
+ 862 Ansteyheights            -    38   -    14   -    58   -    36   -    14   -    18.  3456 -    34.  78 12 b          9. 1.1995 Anstey                                      95/223 487
+ 863 Daleacre                 -    38   -    14   -    58   -    36   -    14   -    18.  3456 -    3456.78 12 b         25.10.1993 Countesthorpe                               93/1143
+ 864 Tamia                    -    38   -    14   -    58   -    36   -    14   -    18.  3456 -    56.  78 12 b         30.10.1995 Loughborough Bellfoundry                    95/1227
+ 865 Volcanello               -    38   -    14   -    58   -    36   -    14   -    18.  36   -    36.  78 12 b         16. 7.1992 East Ilsley                                 92/821
+ 866 Old Dutch                -    38   -    14   -    58   -    36   -    14   -    18.  36.  12.  36.  78 12 b         13. 3.1994 Aldeburgh                                   94/344 351 1179
+ 867 Ascension                -    38   -    14   -    58   -    36   -    14   -    18.  56   -    12.  78 12 b         28. 5.1992 South Wigston                               92/642
+ 868 Tophall                  -    38   -    14   -    58   -    36   -    14   -    18.  56   -    1234.78 12 b         19. 2.1994 Countesthorpe                               94/282
+ 869 Xat                      -    38   -    14   -    58   -    36   -    14   -    18.  56   -    1256.78 12 b         13. 8.1991 Loughborough Bellfoundry                    91/881
+ 870 Nictheroy                -    38   -    14   -    58   -    36   -    14   -    18.  56   -    34.  78 12 b          2. 3.1992 Loughborough Bellfoundry                    92/330
+ 871 Etosha                   -    38   -    14   -    58   -    36   -    14   -    18.  56   -    3456.78 12 b          2. 9.1993 Sproxton                                    93/976
+ 872 Breamore                 -    38   -    14   -    58   -    36   -    14   -    18.  56   -    56.  78 12 b         20. 3.1971 East Tytherley                              71/337
+ 873 Fortaleza                -    38   -    14   -    58   -    36   -    14   -    18.  56.  12   -    78 12 b         15. 6.1992 Loughborough Bellfoundry                    92/725
+ 874 Etheldreda               -    38   -    14   -    58   -    36   -    14   -    18.  56.  12.  34.  78 12 b         23. 6.1997 Gaddesby                                    97/755
+ 875 Isle of Ely              -    38   -    14   -    58   -    36   -    14   -    18.  56.  12.  56.  78 12 b         13. 5.1978 Ely                                         78/500
+ 876 Estley                   -    38   -    14   -    58   -    36   -    14   -    18.  56.  34   -    78 12 b         26. 1.1993 Broughton Astley                            93/226
+ 877 Tinajo                   -    38   -    14   -    58   -    36   -    14   -    18.  56.  34.  12.  78 12 b          3. 6.1996 Loughborough Bellfoundry                    96/683
+ 878 Clifford                 -    38   -    14   -    58   -    36   -    14   -    18.  56.  34.  56.  78 12 b         27. 8.1983 Clifford                                    83/796
+ 879 Steveleigh               -    38   -    14   -    58   -    36   -    34   -    18   -    12   -    58 12 d          4. 8.1974 Dewsbury                                    74/716
+ 880 Shouldham                -    38   -    14   -    58   -    36   -    34   -    18   -    16   -    18 12 a         12. 8.1953 Hethersett                                  53/559 602
+ 881 Ashbourne                -    38   -    14   -    58   -    36   -    34   -    18   -    34   -    58 12 d         17. 7.1976 Ashbourne                                   76/719
+ 882 Ramblers                 -    38   -    14.  56.  12   -    16   -    34   -    18   -    16   -    58 12 b          9. 2.1980 Edenham                                     80/230
+ 883 Metaris                  -    38   -    14.  58   -    12.  38   -    14   -    18   -    34   -    38 18 m         30.10.1993 Belper                                      93/1170
+ 884 Woolley                  -    38   -    14.  58.  12   -    18   -    12   -    58.  14   -    14.  58 12 f         30. 3.1992 Bushey                                      92/455
+ 885 Spalding                 -    38   -    14.  58.  12   -    18   -    12   -    58.  16   -    12.  78 12 d          2. 6.1984 Spalding                                    84/624
+ 886 Agrippa                  -    38   -    14.  58.  12   -    18   -    14   -    18   -    12   -    18 12 b         13.10.1983 West Bridgford                              83/973
+ 887 Snodland                 -    38   -    1456 -    12   -    16   -    34   -    18   -    16   -    58 12 b         24. 8.1973 Malpas                                      73/864
+ 888 Queen Elizabeth II       -    38   -    1456 -    12   -    18   -    12   -    58.  34.  56.  34.  58 12 f         30. 8.1977 Pendlebury                                  77/871
+ 889 Worth Abbey              -    38   -    1456 -    1256 -    18   -    12   -    1458 -    12   -    58 12 d         14. 3.2000 Turners Hill                                00/378
+ 890 Vicki's                  -    38   -    1456 -    1256 -    18   -    12   -    1458 -    16   -    78 12 b         17. 2.2001 Terling                                     01/272
+ 891 Montana                  -    38   -    1456 -    1256 -    18   -    12   -    1458 -    34   -    58 12 d         12. 4.1998 Boston, Mass., Christ Church                98/438
+ 892 Japanese                 -    38   -    1456 -    1256 -    18   -    14   -    18   -    12   -    18 12 a          5. 1.1985 Scunthorpe                                  85/133
+ 893 Zebrina                  -    38   -    1456 -    1256 -    18   -    14   -    18   -    12   -    78 12 b         30.10.1984 Billingborough                              84/1023
+ 894 Harbury Festival         -    38   -    1456 -    1256 -    18   -    14   -    18   -    1234 -    78 12 b          2. 9.2000 Harbury                                     00/987
+ 895 Beerisa                  -    38   -    1456 -    1256 -    18   -    14   -    18   -    34   -    78 12 b          1. 9.2001 Harbury  
+ 896 Odyssey                  -    38   -    1456 -    1256 -    18   -    34   -    1458 -    12   -    58 12 d         31. 8.2001 Desborough                                  01/952
+ 897 Exeter                   -    38   -    1456 -    1256 -    18   -    34   -    18   -    16   -    58 12 a          2. 5.1999 Harpenden                                   99/578
+ 898 Harpenden                -    38   -    1456 -    1256 -    18   -    34   -    58   -    14   -    58 12 d         29. 4.1995 Bushey                                      95/550
+ 899 Gales                    -    38   -    1456 -    1256 -    18.  34   -    14.  58.  14   -    14.  58 12 d         27. 9.1997 Petersfield                                 97/1125
+ 900 Old Romney               -    38   -    1456 -    56   -    16   -    12   -    18   -    12   -    38 12 b         23. 8.1997 Speldhurst                                  97/951
+ 901 Haselbech                -    38   -    1456 -    56   -    16   -    34   -    18   -    12   -    58 12 f         15. 5.1998 Haselbech                                   98/579
+ 902 Birthday                 -    38   -    1456 -    56   -    16   -    34   -    18   -    34   -    58 12 f         16. 9.1989 Edenbridge                                  89/907
+ 903 Highworth                -    38   -    1456 -    56   -    16   -    34   -    18.  34   -    34.  58 12 f          9. 9.2000 Highworth                                   00/1035
+ 904 Lunar                    -    38   -    1456 -    56   -    18   -    12   -    1238 -    14   -    78 12 b         22. 7.1994 Bristol Cathedral                           94/854
+ 905 China                    -    38   -    1456 -    56   -    18   -    12   -    1458 -    14   -    58 12 d          1.11.1998 Burnley                                     98/1158
+ 906 Bowden                   -    38   -    1456 -    56   -    18   -    12   -    18   -    12   -    78 12 b         13. 4.2000 Barrow Gurney                               00/477
+ 907 Creones                  -    38   -    1456 -    56   -    18   -    12   -    18   -    16   -    58 18 m         30. 4.1994 Wath-on-Dearne                              94/589
+ 908 Scudamore                -    38   -    1456 -    56   -    18   -    12   -    18   -    34   -    78 12 b          7.10.1992 Barrow Gurney                               92/1084
+ 909 Vespasian                -    38   -    1456 -    56   -    18   -    12   -    18.  34   -    34.  18 12 a          3. 2.1984 Edenham                                     84/236
+ 910 Pendleton                -    38   -    1456 -    56   -    18   -    12   -    58.  14   -    14.  58 12 d         29.12.1998 Pendleton                                   99/141
+ 911 Xiphodon                 -    38   -    1456 -    56   -    18   -    34   -    1238 -    16   -    58 12 a         22. 6.1984 Edenham                                     84/624
+ 912 Horwich                  -    38   -    1456 -    56   -    18   -    34   -    1458 -    14   -    58 12 d          5. 8.2000 Westhoughton                                00/889
+ 913 Frensham                 -    38   -    1456 -    56   -    18   -    34   -    18   -    16.  34.  18 12 f          7. 9.1997 Frensham                                    97/1124
+ 914 Magantia                 -    38   -    1456 -    56   -    18   -    34   -    3458 -    16   -    18 12 a         30. 7.1994 Birstall (Yorks)                            94/855
+ 915 Ulceby                   -    38   -    1456 -    56   -    18   -    34.  12.  38   -    16   -    58 12 a          1. 3.1980 Sutterton                                   80/297
+ 916 Whimpton                 -    38   -    1456 -    56   -    18.  34   -    14.  58.  36   -    16.  58 18 m         11. 6.1994 Tuxford                                     94/738
+ 917 LeMarechal               -    38   -    1456 -    58   -    18   -    14   -    38   -    34   -    18 12 f         19. 5.1987 Bishopstoke                                 87/565
+ 918 Spitfire                 -    38   -    1458 -    56   -    16   -    12   -    18   -    12   -    78 12 b         15. 9.1990 Wheathampstead                              90/1103
+ 919 Salwarpe                 -    38   -    1458 -    56   -    16   -    12   -    18   -    12.  34.  78 12 b         28. 4.1992 Hanbury (Worcs)                             92/601
+ 920 Tornado                  -    38   -    1458 -    56   -    16   -    12   -    18   -    12.  56.  78 12 b         26. 4.1999 Loughborough Bellfoundry                    99/507
+ 921 Christingle              -    38   -    1458 -    56   -    16   -    12   -    18   -    1234 -    78 12 b         24.12.1995 South Wigston                               96/94
+ 922 Hanbury                  -    38   -    1458 -    56   -    16   -    12   -    18   -    1256 -    78 12 b         19. 3.1991 Hanbury (Worcs)                             91/374
+ 923 Harford                  -    38   -    1458 -    56   -    16   -    12   -    18   -    16   -    58 18 m                                                     19. 5.1991 91/591
+ 924 Jellicoe                 -    38   -    1458 -    56   -    16   -    12   -    18   -    34   -    78 12 b         13. 1.1992 Loughborough Bellfoundry                    92/162
+ 925 Pelistry                 -    38   -    1458 -    56   -    16   -    12   -    18   -    34.  12.  78 12 b         29. 3.1999 Loughborough Bellfoundry                    99/432
+ 926 Vittorioso               -    38   -    1458 -    56   -    16   -    12   -    18   -    34.  56.  78 12 b         18. 8.1997 Loughborough Bellfoundry                    97/951
+ 927 Zalicat                  -    38   -    1458 -    56   -    16   -    12   -    18   -    3456 -    78 12 b          9.11.1994 Loughborough Bellfoundry                    94/1242
+ 928 Iguassu                  -    38   -    1458 -    56   -    16   -    12   -    18   -    56   -    78 12 b         20. 1.1992 Loughborough Bellfoundry                    92/186
+ 929 Gladiator                -    38   -    1458 -    56   -    16   -    12   -    18   -    56.  12.  78 12 b         15.12.1999 Loughborough Bellfoundry                    00/85 679
+ 930 Aspley Park              -    38   -    1458 -    56   -    16   -    12   -    18   -    56.  34.  78 12 b         29. 3.1996 Aspley, Nottingham                          96/464 623
+ 931 Ememem                   -    38   -    1458 -    56   -    16   -    12   -    18.  34   -    12.  78 12 b          3. 3.2001 South Wigston                               01/321
+ 932 Brothers                 -    38   -    1458 -    56   -    16   -    12   -    18.  34   -    1234.78 12 b         19. 1.1998 Loughborough Bellfoundry                    98/164
+ 933 Cobden                   -    38   -    1458 -    56   -    16   -    12   -    18.  34   -    34.  78 12 b         18. 5.1992 Loughborough Bellfoundry                    92/600
+ 934 Typhoon                  -    38   -    1458 -    56   -    16   -    12   -    18.  34   -    3456.78 12 b         14.10.1998 Loughborough Bellfoundry                    98/1088
+ 935 Tempest                  -    38   -    1458 -    56   -    16   -    12   -    18.  34.  12.  34.  78 12 b          1. 1.2001 Countesthorpe                               01/114 406
+ 936 Rosevear                 -    38   -    1458 -    56   -    16   -    12   -    18.  34.  56   -    78 12 b         20.10.1997 Loughborough Bellfoundry                    97/1170
+ 937 Zebbug                   -    38   -    1458 -    56   -    16   -    12   -    18.  34.  56.  12.  78 12 b         17. 2.1997 South Wigston                               97/291 415
+ 938 Elmesthorpe              -    38   -    1458 -    56   -    16   -    12   -    18.  34.  56.  34.  78 12 b         11. 8.1992 Earl Shilton                                92/893
+ 939 Redbridge Millennium     -    38   -    1458 -    56   -    16   -    12   -    18.  3456 -    12.  78 12 b          1. 1.2000 Wanstead                                    00/115
+ 940 Zurrieg                  -    38   -    1458 -    56   -    16   -    12   -    18.  3456 -    1234.78 12 b         15. 7.1996 Loughborough Bellfoundry                    96/856
+ 941 Muncoy                   -    38   -    1458 -    56   -    16   -    12   -    18.  3456 -    34.  78 12 b         20. 4.1998 Loughborough Bellfoundry                    98/507
+ 942 Allhallows               -    38   -    1458 -    56   -    16   -    12   -    18.  3456 -    3456.78 12 b          1.11.1993 Thurcaston                                  93/1168
+ 943 Carnithen                -    38   -    1458 -    56   -    16   -    12   -    18.  3456 -    56.  78 12 b         16. 3.1998 Loughborough Bellfoundry                    98/553
+ 944 Meteor                   -    38   -    1458 -    56   -    16   -    12   -    18.  56   -    12.  78 12 b         25. 7.2001 Loughborough Bellfoumdry                    01/829
+ 945 Guadalajara              -    38   -    1458 -    56   -    16   -    12   -    18.  56   -    1256.78 12 b         18. 1.1993 Loughborough Bellfoundry                    93/175
+ 946 Hurricane                -    38   -    1458 -    56   -    16   -    12   -    18.  56   -    34.  78 12 b          7. 9.1998 Loughborough Bellfoundry                    98/991
+ 947 Qawra                    -    38   -    1458 -    56   -    16   -    12   -    18.  56   -    3456.78 12 b         21. 4.1997 Loughborough Bellfoundry                    97/538
+ 948 Zephyr                   -    38   -    1458 -    56   -    16   -    12   -    18.  56   -    56.  78 12 b          3. 2.1992 Loughborough Bellfoundry                    92/261
+ 949 Cuntastorp               -    38   -    1458 -    56   -    16   -    12   -    18.  56.  12.  56.  78 12 b          7. 8.1995 Countesthorpe                               95/959
+ 950 Kilbesham                -    38   -    1458 -    56   -    16   -    12   -    18.  56.  34   -    78 12 b          9. 9.1996 Countesthorpe                               96/1034
+ 951 Birstall                 -    38   -    1458 -    56   -    16   -    12   -    18.  56.  34.  12.  78 12 b          8. 2.1993 Birstall (Leics)                            93/275
+ 952 Mennecy                  -    38   -    1458 -    56   -    16   -    12   -    18.  56.  34.  56.  78 12 b         17. 8.1993 Countesthorpe                               93/927
+ 953 Botcheston               -    38   -    1458 -    56   -    16.  34.  12.  34.  18   -    12   -    78 12 b         24. 2.1992 Loughborough Bellfoundry                    92/307
+ 954 Lammas                   -    38   -    1458 -    56   -    16.  34.  12.  34.  18   -    12.  56.  78 12 b         22. 5.1999 Countesthorpe                               99/603
+ 955 Crebawethan              -    38   -    1458 -    56   -    16.  34.  12.  34.  18   -    1234 -    78 12 b         22. 9.1997 Loughborough Bellfoundry                    97/1050
+ 956 Ragendale                -    38   -    1458 -    56   -    16.  34.  12.  34.  18   -    1256 -    78 12 b         12. 5.1994 South Wigston                               94/586
+ 957 Linden                   -    38   -    1458 -    56   -    16.  34.  12.  34.  18   -    34   -    78 12 b          1.12.1992 Countesthorpe                               93/52 436
+ 958 Harrier                  -    38   -    1458 -    56   -    16.  34.  12.  34.  18   -    34.  56.  78 12 b         27. 6.2001 Loughborough Bellfoundry                    01/732
+ 959 Tias                     -    38   -    1458 -    56   -    16.  34.  12.  34.  18   -    3456 -    78 12 b          6. 9.1995 Loughborough Bellfoundry                    95/1058
+ 960 Stoneystanton            -    38   -    1458 -    56   -    16.  34.  12.  34.  18   -    56   -    78 12 b          1. 1.1993 Stoney Stanton                              93/152
+ 961 Nutter                   -    38   -    1458 -    56   -    16.  34.  12.  34.  18   -    56.  34.  78 12 b         18. 5.1996 South Wigston                               96/636
+ 962 Gilstone                 -    38   -    1458 -    56   -    16.  34.  12.  34.  18.  34   -    1234.78 12 b          9. 2.1998 Loughborough Bellfoundry                    98/235
+ 963 Yosemite                 -    38   -    1458 -    56   -    16.  34.  12.  34.  18.  34   -    34.  78 12 b         30. 3.1993 Loughborough Bellfoundry                    93/423
+ 964 Quadraginta              -    38   -    1458 -    56   -    16.  34.  12.  34.  18.  34.  12.  34.  78 12 b         19. 4.1993 Thurcaston                                  93/472
+ 965 Kercem                   -    38   -    1458 -    56   -    16.  34.  12.  34.  18.  34.  56   -    78 12 b         30. 6.1997 Loughborough Bellfoundry                    97/778
+ 966 Canon Clayton            -    38   -    1458 -    56   -    16.  34.  12.  34.  18.  34.  56.  34.  78 12 b         14. 8.1992 Sproxton                                    92/893 93/436
+ 967 Peninnis                 -    38   -    1458 -    56   -    16.  34.  12.  34.  18.  3456 -    34.  78 12 b         27. 4.1998 Countesthorpe                               98/531
+ 968 Netherseale              -    38   -    1458 -    56   -    16.  34.  12.  34.  18.  3456 -    3456.78 12 b          6. 9.1993 Netherseale                                 93/1049
+ 969 Marsaxlokk               -    38   -    1458 -    56   -    16.  34.  12.  34.  18.  3456 -    56.  78 12 b          8.12.1993 South Wigston                               94/34
+ 970 Dunecht                  -    38   -    1458 -    56   -    16.  34.  12.  34.  18.  36   -    36.  78 12 b          7.12.1996 Aberdeen, St Machar's Cathedral             97/221
+ 971 Wichingestone            -    38   -    1458 -    56   -    16.  34.  12.  34.  18.  56   -    12.  78 12 b         21. 2.1996 South Wigston                               96/300
+ 972 Titicaca                 -    38   -    1458 -    56   -    16.  34.  12.  34.  18.  56   -    56.  78 12 b          1. 2.1992 South Wigston                               92/261
+ 973 Nortone                  -    38   -    1458 -    56   -    16.  34.  12.  34.  18.  56.  12   -    78 12 b          4.11.1995 Kings Norton (Leics)                        95/1252
+ 974 Fury                     -    38   -    1458 -    56   -    16.  34.  12.  34.  18.  56.  12.  56.  78 12 b         11. 9.2000 Countesthorpe                               00/1012
+ 975 Umtata                   -    38   -    1458 -    56   -    16.  34.  12.  34.  18.  56.  34   -    78 12 b         11.11.1996 Loughborough Bellfoundry                    96/1245
+ 976 Tiagua                   -    38   -    1458 -    56   -    16.  34.  12.  34.  18.  56.  34.  12.  78 12 b         10. 6.1996 Loughborough Bellfoundry                    96/706
+ 977 Xiri                     -    38   -    1458 -    56   -    16.  34.  12.  34.  18.  56.  34.  56.  78 12 b         19. 9.1994 Loughborough Bellfoundry                    94/1070
+ 978 Bisley                   -    38   -    1458 -    56   -    36   -    14   -    18   -    14   -    78 12 b          4. 7.1992 Bisley                                      92/747
+ 979 Barnet                   -    38   -    1458 -    56   -    36   -    14   -    18   -    1456 -    78 12 b         28. 3.1992 Barnet                                      92/478
+ 980 Nevada                   -    38   -    1478 -    78   -    18   -    12   -    18   -    12   -    78 12 b          4. 7.1998 Boston, Mass., Old North Church             98/699 763
+ 981 Votadini                 -    38   -    18   -    12   -    1236 -    14   -    18   -    1236 -    18 12 f          3. 1.1994 Ilkley                                      94/160
+ 982 Danbury                  -    38   -    18   -    12   -    1238 -    12   -    1238 -    12   -    78 18 k         28.11.1995 Danbury                                     96/39
+ 983 Campsall                 -    38   -    18   -    12   -    1238 -    14   -    3458.16   -    16.  58 12 f         20. 3.1993 Campsall                                    93/426
+ 984 Vedra                    -    38   -    18   -    12   -    16   -    12   -    1458.36   -    16.  38 12 f         12. 9.1992 Birstall (Yorks)                            92/1015
+ 985 Abissum                  -    38   -    18   -    12   -    16   -    12   -    1458.36   -    36.  18 12 f         28. 1.1989 Birstall (Yorks)                            89/189
+ 986 Tamarus                  -    38   -    18   -    12   -    16   -    12   -    38   -    14   -    38 12 f         26.11.1988 Birstall (Yorks)                            89/13
+ 987 Westmill                 -    38   -    18   -    12   -    16   -    14   -    38   -    14   -    78 12 b         14. 2.1970 Aspenden                                    70/174
+ 988 Celovion                 -    38   -    18   -    12   -    36   -    14   -    1238 -    12   -    18 12 f         29.10.1994 Swillington                                 94/1216
+ 989 Calunio                  -    38   -    18   -    12   -    36.  14   -    14.  58.  16   -    16.  38 12 f         22. 8.1992 Rothwell (Yorks)                            92/919 976 1000
+ 990 Bowdon                   -    38   -    18   -    12   -    38   -    34   -    58   -    36   -    78 12 e         18.10.1980 Bowdon                                      80/1007 81/363
+ 991 Thousand                 -    38   -    18   -    12.  58.  16   -    12   -    58   -    1456 -    18 12 e         12. 3.1997 Heywood                                     97/427
+ 992 Vienna                   -    38   -    18   -    12.  58.  16   -    12   -    58.  36   -    14.  58 12 e         31. 1.1997 Burnley                                     97/243
+ 993 Stybarrow Dodd           -    38   -    18   -    12.  58.  36.  14   -    12.  58   -    14   -    78 12 d         20. 1.1994 Highclere                                   94/208 395
+ 994 Longus                   -    38   -    18   -    56   -    1236 -    14   -    58   -    36   -    58 12 f         10.10.1992 Campsall                                    92/1134
+ 995 Deacons                  -    38   -    18   -    56   -    16   -    12   -    18   -    14   -    78 12 b          4. 7.1993 Aldenham                                    93/768
+ 996 Moorgate                 -    38   -    18   -    56   -    16   -    12   -    58   -    56   -    18 12 c         22.11.1969 Barnes                                      69/1011
+ 997 Uxela                    -    38   -    18   -    56   -    16   -    14   -    18   -    12   -    38 12 f         19.10.1985 Belper                                      85/1020
+ 998 Massachusetts            -    38   -    18   -    56   -    16   -    34   -    58   -    14   -    58 12 d                                                     19. 9.1990 90/1009
+ 999 Penta                    -    38   -    18   -    56   -    18   -    14   -    1458 -    12.  36.  78 12 f         22. 5.1993 Birstall (Yorks)                            93/653
+1000 Devona                   -    38   -    18   -    56   -    18   -    14   -    1458 -    1236 -    78 12 f          3.12.1994 Rothwell (Yorks)                            95/76
+1001 Basford                  -    38   -    18   -    56   -    36   -    14   -    38   -    14   -    78 12 b         18. 7.1964 Basford                                     64/535
+1002 Netherton                -    38   -    18   -    56   -    36   -    14   -    38   -    14.  56.  78 12 b          9. 8.1994 Netherton                                   94/978
+1003 Carvetii                 -    38   -    18   -    56   -    36.  14   -    12.  58.  14.  36   -    58 12 f         12. 3.1994 Warsop                                      94/352
+1004 Wharfe                   -    38   -    18.  56   -    12.  36   -    14   -    1238 -    12   -    38 12 f          2. 3.1996 Ilkley                                      96/327
+1005 Gayle                    -    38   -    18.  56   -    12.  36   -    14   -    58   -    36   -    58 12 f         20. 1.1996 Creswell                                    96/178
+1006 Clent                    -    38   -    18.  56   -    12.  36.  14   -    14.  58.  14   -    14.  58 14 17682543  28. 3.1985 Highclere                                   85/415 98/1075
+1007 Midhopestones            -    38   -    18.  56   -    12.  38   -    14   -    3458 -    12.  36.  78 12 f         25. 1.1997 Bolsterstone                                97/245
+1008 Pilais                   -    38   -    18.  56   -    56.  1238 -    12   -    18   -    36   -    18 12 f          5.12.1992 Birstall (Yorks)                            93/77
+1009 Puddingstone             -    38.  56.  14.  56   -    58.  16   -    14   -    18   -    34   -    58 12 a         23. 6.1984 Aldenham                                    84/624
+1010 Kelstedge                -    38.  56.  18   -    56   -    16   -    34   -    18   -    12   -    78 12 a         29.10.1994 Burnley                                     94/1245
+1011 Uprington                -    56   -    14   -    12   -    18   -    14   -    1258 -    34   -    18 18 g         17. 6.1995 Bushey                                      95/790 971
+1012 Bodiam Castle            -    56   -    14   -    1256 -    18   -    14   -    38   -    12   -    18 18 g         21. 6.1999 Turners Hill                                99/679
+1013 Luigi                    -    56   -    14   -    56   -    18   -    12   -    38   -    36   -    58 18 m          5. 3.1987 Newton St Cyres                             87/287
+1014 Prince Andrew            -    56   -    14   -    56   -    18   -    12   -    58   -    16   -    78 12 d         22. 7.1986 Heywood                                     86/785
+1015 Whitchurch               -    56   -    14   -    56   -    18   -    12   -    58   -    16   -    78 18 j         23. 2.1990 Bristol Cathedral                           90/299
+1016 Theo                     -    56   -    14   -    56   -    18   -    14   -    1258 -    12   -    58 18 l         11.12.1988 Upham                                       89/59
+1017 Fulking Castle           -    56   -    14   -    56   -    18   -    14   -    1458 -    1236 -    18 18 h         21. 5.2001 Turners Hill                                01/634
+1018 Sussex                   -    56   -    14   -    56   -    18   -    14   -    1458 -    14   -    58 18 l         11. 7.1998 Arundel                                     98/776
+1019 Bushy Leaze              -    56   -    14   -    56   -    18   -    14   -    58   -    12   -    58 12 f          2. 3.1996 Alton (Hants)                               96/326
+1020 Darracott                -    56   -    14   -    56   -    18   -    14   -    58   -    12   -    58 18 l          1.10.1985 Bishopstoke                                 85/916
+1021 Downton                  -    56   -    14   -    56   -    18   -    14   -    58   -    34   -    58 12 f         12.12.1970 Downton                                     71/55
+1022 Ramsden                  -    56   -    14   -    56   -    18   -    14   -    58   -    34   -    58 18 l         27.11.1999 Skipton                                     00/8
+1023 Nottinghamshire          -    56   -    14   -    56   -    18   -    14   -    58.  14   -    14.  58 18 l         29.12.1983 West Bridgford                              84/78
+1024 Knepp Castle             -    56   -    14   -    56   -    18   -    14   -    58.  14.  36.  14.  78 18 j         29.11.1999 Buxted                                      00/62
+1025 Chew Valley              -    56   -    14   -    56   -    18   -    34   -    1258 -    14   -    58 18 l         21. 9.2000 Barrow Gurney                               00/1040
+1026 Gheluvelt                -    56   -    14   -    56   -    18   -    34   -    18   -    34   -    18 18 m         29. 6.1984 Kirton Lindsey                              84/644
+1027 Westminster              -    56   -    14   -    56   -    18   -    34   -    38   -    34   -    38 18 m         16. 5.1898 Brighton, St Peter  
+1028 Shadwell                 -    56   -    14   -    56   -    38   -    14   -    18.  56   -    56.  18 12 b         23.10.1973 Trumpington                                 73/960
+1029 Grimoldby                -    56   -    14   -    56   -    38   -    14   -    18.  56   -    56.  18 18 g         25. 1.1990 West Bridgford                              90/229
+1030 Meldreth                 -    56   -    14   -    56   -    38   -    34   -    18   -    34   -    38 18 m         12.10.1973 Meldreth                                    73/900
+1031 Iona                     -    56   -    14   -    56   -    38.  14   -    34.  18   -    56   -    58 12 e          6.11.1993 Brockenhurst                                93/1169
+1032 Amberley Castle          -    56   -    14.  56   -    58.  16   -    14   -    18   -    14   -    58 18 h         18. 1.1999 Lower Beeding                               99/145
+1033 Hastings Castle          -    56   -    14.  56   -    58.  36   -    14   -    18   -    12   -    18 18 j          1. 5.2000 Rudgwick                                    00/527
+1034 Rye Castle               -    56   -    14.  56   -    58.  36   -    14   -    18   -    36   -    38 18 h         15. 3.1999 Lower Beeding                               99/364
+1035 Clapham Common           -    56   -    14.  56   -    58.  36   -    14   -    18.  36.  14.  56.  38 18 m         16. 1.1999 Wimbledon                                   99/168
+1036 Juillet                  -    56   -    1456 -    56   -    38   -    34   -    18   -    34   -    38 18 m          5. 4.1998 Shoreditch                                  98/415
+1037 St Marylebone            -    56   -    1458 -    56   -    18   -    34   -    1458 -    34   -    18 18 m         28. 4.1985 Hackney, St John-at-Hackney                 85/504
+1038 Freddykins               -    56   -    16   -    56   -    16   -    34   -    18   -    1236 -    58 12 b         12. 9.1982 Cambridge, St Andrew-the-Great              82/862
+1039 Eros                     -    56   -    16   -    56   -    18   -    14   -    38.  14   -    14.  38 18 j          8. 4.2000 Bromley                                     00/447
+1040 Moorhouses               -    56   -    16.  58   -    12.  38   -    12   -    18   -    14   -    78 12 f         15.12.1996 Burnley                                     97/89
+1041 Nailsea                  -    56   -    18   -    12   -    36   -    14   -    58   -    14   -    18 12 17863542  28. 6.2001 Barrow Gurney                               01/731
+1042 Flax Bourton             -    56   -    18   -    12   -    38   -    14   -    58   -    16   -    78 12 16732854  24. 8.2000 Barrow Gurney                               00/939
+1043 Accrington               -    56   -    18   -    56   -    16   -    14   -    1458 -    56   -    58 12 a          5. 8.1981 Accrington                                  81/831
+1044 Double Beeston           -    56   -    18   -    56   -    36   -    34   -    18   -    34   -    78 12 18576423  22. 2.1969 Beeston                                     69/270
+1045 Eccleshall               -    56   -    18   -    58   -    16   -    14   -    58.  14   -    16.  58 12 f          9. 6.1990 Eccleshall                                  90/687
+1046 Beaumont                 -    56   -    18.  56   -    56.  1238 -    14   -    58   -    16   -    78 12 16732854  13. 7.2000 Barrow Gurney                               00/767
+1047 Eaves Wood               -    56.  38.  16.  58   -    12.  36.  14   -    34.  18.  36.  14.  36.  78 18 j         23.12.1996 Heptonstall                                 97/118
+1048 Okanagan                 -    58   -    14   -    12   -    18   -    34   -    58   -    34   -    38 12 a          7.11.1992 Sherfield English                           92/1206
+1049 December                 -    58   -    14   -    56   -    16   -    34   -    18   -    16   -    78 12 d         10. 1.1997 Bushey                                      97/171 255
+1050 Marshall                 -    58   -    14   -    56   -    16   -    34   -    18   -    34   -    18 18 m          9. 8.1970 Daventry                                    70/719
+1051 Durweston                -    58   -    14   -    56   -    36   -    14   -    18.  56   -    56.  18 12 b         25.10.1975 Trumpington                                 75/931
+1052 Potterton                -    58   -    14   -    56   -    36   -    34   -    18   -    34   -    38 18 m         22. 5.1994 Potterton, Grampian                         94/709
+1053 Cairngorm McWomble the Terrible
+                              -    58   -    14   -    56   -    36   -    34   -    18   -    36   -    18 12 b          7. 2.1975 Cholsey                                     75/317 76/311 349
+1054 Silver                   -    58   -    14   -    58   -    18   -    34   -    18   -    34   -    18 18 m         29. 2.1992 Claybrooke                                  92/353
+1055 Cherwell Valley          -    58   -    14   -    58   -    18   -    34   -    18   -    34   -    78 12 a         21. 1.1995 Somerton (Oxon)                             95/196 315
+1056 Holmes                   -    58   -    14   -    58   -    38   -    34   -    18   -    34   -    18 18 13462857   1. 9.1986 Staveley                                    86/851
+1057 Outerside                -    58   -    14.  58   -    12.  36   -    12   -    18   -    36   -    18 12 c         25. 7.1991 Hungerford                                  91/816
+1058 Kilkenny                 -    58   -    14.  58   -    12.  38   -    12   -    18   -    12   -    78 18 j          2. 8.1991 Kilkenny                                    91/877
+1059 The Judge's              -    58   -    14.  58   -    12.  38   -    12   -    18   -    1256 -    78 18 j         24. 4.1999 Wrotham                                     99/506
+1060 Watford                  -    58   -    14.  58   -    12.  38   -    12   -    18   -    16   -    58 18 g         21.11.1992 Aston Clinton                    14. 6.1992 92/701 93/73
+1061 Michelle Pfeiffer        -    58   -    14.  58   -    12.  38   -    12   -    18   -    34   -    78 18 j         30. 4.1997 Willesden                                   97/592
+1062 St Edmundsbury           -    58   -    14.  58   -    12.  38   -    12   -    18.  36.  12   -    18 12 e         22. 5.2001 Bushey                                      01/687
+1063 Swillington              -    58   -    14.  58   -    12.  38.  12   -    34.  18   -    34   -    38 18 m         23. 9.1995 Swillington                                 95/1107
+1064 Pevensey Castle          -    58   -    14.  58   -    56.  18   -    14   -    1258 -    1236   -  18 18 j          3. 4.2000 Turners Hill                                00/480
+1065 Selham Castle            -    58   -    14.  58   -    56.  18   -    14   -    18   -    12   -    18 18 j         16.10.2000 Fairwarp                                    00/1114
+1066 Decantae                 -    58   -    14.  58   -    56.  18   -    14   -    3458.16   -    16.  58 18 j          5. 2.1994 Birstall (Yorks)                            94/261
+1067 Aout                     -    58   -    14.  58   -    56.  18   -    14   -    38.  16   -    34.  58 12 a         23. 6.1998 Bushey                                      98/674
+1068 Golden                   -    58   -    14.  58   -    56.  18   -    14   -    58   -    1236 -    78 18 h         16.10.1991 Barrow Gurney                               91/1086
+1069 Bramber Castle           -    58   -    14.  58   -    56.  18   -    14   -    58   -    36   -    18 12 d         16. 8.1999 Turners Hill                                99/898
+1070 Fowlmere                 -    58   -    14.  58   -    56.  18   -    14   -    58   -    36   -    18 18 j          3. 5.1996 Meldreth                                    96/730
+1071 Barton Seagrave          -    58   -    14.  58   -    56.  18   -    14   -    58   -    36   -    78 18 h         20. 4.1996 Burton Latimer                              96/587
+1072 Vinion                   -    58   -    14.  58   -    56.  38   -    14   -    18   -    1236 -    18 18 j          4.12.1993 Birstall (Yorks)                            94/85
+1073 Mai                      -    58   -    14.  58   -    56.  38   -    14   -    18   -    14   -    38 12 e         23. 2.1998 Bushey                                      98/260
+1074 Herstmonceux Castle      -    58   -    14.  58   -    56.  38   -    14   -    18   -    14   -    38 18 k          5. 7.1999 Fairwarp                                    99/757
+1075 Spitalfields Festival    -    58   -    14.  58   -    56.  38   -    14   -    18   -    56   -    78 12 c         31. 5.1991 Spitalfields                                91/646
+1076 Thorney                  -    58   -    14.  58   -    56.  38   -    14   -    18.  36   -    36.  18 18 g         20. 4.1998 Warnham                                     98/510
+1077 Beeding                  -    58   -    14.  58   -    56.  38   -    14   -    18.  36.  12.  36.  78 12 c          8.12.1997 Steyning                                    98/62
+1078 Turners Hill             -    58   -    14.  58   -    56.  38   -    14   -    18.  36.  12.  36.  78 18 h          5. 1.1998 Turners Hill                                98/140
+1079 Albiniano                -    58   -    14.  58   -    56.  38   -    34   -    18   -    34   -    38 18 m         14. 7.1990 Eastwood (Yorks)                            90/780
+1080 Hopwood                  -    58   -    14.  58   -    56.  38.  14   -    34.  18.  34   -    34.  18 18 j         15. 9.1995 Heywood                                     95/1080
+1081 Little Rock              -    58   -    14.  58   -    56.  38.  14   -    34.  18.  56   -    56.  18 18 j         24. 6.1992 Little Rock, Arkansas                       92/843
+1082 LXXVII                   -    58   -    14.  58   -    58.  1236 -    12   -    18.  34.  16   -    18 18 m         25. 8.2000 Meldreth                                    01/84
+1083 Ventose                  -    58   -    14.  58   -    58.  1236 -    14   -    18   -    34   -    58 12 c          9. 3.2001 East Crompton                               01/321
+1084 Thermidor                -    58   -    14.  58   -    58.  1236 -    14   -    18   -    34   -    58 18 h         10. 8.2001 Middleton                                   01/877
+1085 Petworth Festival        -    58   -    14.  58   -    58.  1236 -    14   -    18.  36.  14.  56.  18 18 m          2. 7.1988 Petworth                                    88/730
+1086 Nivose                   -    58   -    14.  58   -    58.  1236 -    34   -    18   -    1236 -    78 12 a         12. 1.2001 Middleton                                   01/217 352
+1087 Edinburgh                -    58   -    14.  58   -    58.  16   -    14   -    18   -    14   -    58 12 c         20.11.1948 Wigston Magna                               48/535 578
+1088 Windsor                  -    58   -    14.  58   -    58.  16   -    14   -    18   -    14   -    58 18 h          7. 5.1960 Wigston Magna                               60/341 77/930
+1089 Pluviose                 -    58   -    14.  58   -    58.  16   -    14   -    18   -    3456 -    38 12 b          9. 2.2001 Middleton                                   01/376 434
+1090 Messidor                 -    58   -    14.  58   -    58.  16   -    14   -    18   -    3456 -    38 18 g         13. 7.2001 Middleton                                   01/828
+1091 Prairial                 -    58   -    14.  58   -    58.  16   -    34   -    18   -    14   -    18 12 f          8. 6.2001 Middleton                                   01/732
+1092 Burton Latimer           -    58   -    14.  58   -    58.  16   -    34   -    18   -    14   -    18 18 l         27. 7.1999 Burton Latimer                              99/801
+1093 Kenley                   -    58   -    14.  58   -    58.  16   -    34   -    18.  36   -    56.  18 18 m         17. 8.1998 Meldreth                                    98/965
+1094 Floreal                  -    58   -    14.  58   -    58.  36   -    12   -    18   -    14   -    38 12 e         11. 5.2001 Middleton                                   01/633
+1095 Torksey                  -    58   -    14.  58   -    58.  36   -    12   -    18   -    14   -    38 18 k         27.12.1984 West Bridgford                              85/85
+1096 Oswaldtwistle            -    58   -    14.  58   -    58.  36   -    12   -    18   -    56   -    58 12 b          6. 8.1981 Oswaldtwistle                               81/831
+1097 Calderdale               -    58   -    14.  58   -    58.  36   -    12   -    18   -    56   -    58 18 g          8. 5.1994 Staveley                                    94/613
+1098 Germinal                 -    58   -    14.  58   -    58.  36   -    14   -    18   -    12   -    18 12 d         30. 3.2001 Middleton                                   01/404
+1099 Ferriby                  -    58   -    14.  58   -    58.  36   -    14   -    18   -    12   -    18 18 j         22. 9.1988 West Bridgford                              88/1001
+1100 Maeatae                  -    58   -    14.  58   -    58.  36   -    14   -    18   -    1236 -    38 18 h          5. 3.1994 Birstall (Yorks)                            94/352
+1101 Eton                     -    58   -    14.  58   -    58.  36   -    14   -    18   -    36   -    38 12 c          1. 3.1986 Windsor, St John-the-Baptist                86/385
+1102 Greenjoint               -    58   -    14.  58   -    58.  36   -    14   -    18   -    36   -    38 18 h         12. 6.1993 Moulton                                     93/769
+1103 Lambeth                  -    58   -    14.  58   -    58.  36   -    14   -    18.  34.  16   -    58 18 m         23.12.1968 Lambeth, St Mary                            69/88
+1104 Biggleswade              -    58   -    14.  58   -    58.  36   -    14   -    18.  34.  16.  34.  58 18 m         31. 5.1997 Biggleswade                                 97/705 98/275
+1105 Bax Castle               -    58   -    14.  58   -    58.  36   -    14   -    18.  36   -    14.  38 18 g          1. 3.1999 Chiddingfold                                99/316
+1106 Antrum                   -    58   -    14.  58   -    58.  36   -    14   -    18.  36.  14.  36.  58 18 m          4. 3.1989 Birstall (Yorks)                            89/325 424
+1107 Babybush                 -    58   -    14.  58   -    58.  36   -    14   -    18.  36.  14.  56.  38 18 m         12. 4.1998 Trumpington                                 98/554
+1108 West Virginia            -    58   -    14.  58   -    58.  36   -    34   -    18   -    16   -    58 12 d         22.11.1998 Boston, Mass., Old North Church             99/95
+1109 SRCY                     -    58   -    14.  58   -    58.  36   -    34   -    18   -    16   -    58 18 j         29. 6.1997 Shoreditch                                  97/826
+1110 Callanish                -    58   -    14.  58   -    58.  36   -    34   -    18.  34.  16.  34.  18 18 m         17. 2.2001 Headingley                                  01/323
+1111 Bengeo                   -    58   -    14.  58   -    58.  36   -    34   -    18.  36   -    36.  58 18 m          4.12.1998 Meldreth                                    99/96
+1112 Chapel Hill              -    58   -    14.  58   -    58.  36   -    34   -    18.  36   -    56.  38 18 m         26.10.1999 Raleigh, NC                                 99/1256
+1113 LXXV                     -    58   -    14.  58   -    58.  36   -    34   -    18.  36.  14.  36.  18 18 m         25. 8.1998 Meldreth                                    98/965
+1114 Parbold                  -    58   -    14.  58   -    58.  36.  14   -    34.  18   -    3456 -    38 12 b          4. 8.1981 Parbold                                     81/831
+1115 St Paul's                -    58   -    14.  58   -    58.  36.  14   -    34.  18   -    3456 -    38 18 g         12.10.1981 Walkden                                     81/1061
+1116 Cantiaci                 -    58   -    1456 -    12   -    1236 -    34   -    18   -    34   -    38 18 m         26.11.1994 Kildwick                                    95/76
+1117 Bolsterstone             -    58   -    1456 -    12   -    16   -    34   -    18   -    34   -    38 18 m          7.11.1992 Bolsterstone                                92/1181
+1118 Heage                    -    58   -    1456 -    12   -    18   -    12   -    58.  12   -    14.  18 18 m         22. 2.1997 Belper                                      97/320
+1119 Traxula                  -    58   -    1456 -    12   -    18   -    12   -    58.  14   -    12.  38 18 m         27. 2.1993 Belper                                      93/324
+1120 Leucovia                 -    58   -    1456 -    12   -    18   -    14   -    58.  14   -    14.  18 18 m         12.12.1992 Belper                                      93/77
+1121 Bertha                   -    58   -    1456 -    12   -    18   -    34   -    1258.34   -    14.  38 18 m         31. 5.1993 Wath-on-Dearne                              93/653
+1122 Iceni                    -    58   -    1456 -    12   -    18   -    34   -    18.  36   -    36.  58 18 m         26. 2.1994 Greasley                                    94/312
+1123 Tedertis                 -    58   -    1456 -    12   -    18   -    34   -    38.  14.  36.  14.  38 18 m         30. 1.1993 Tadcaster                                   93/277
+1124 Royds                    -    58   -    1456 -    12   -    18.  34   -    12.  3458.12   -    14.  18 18 m         26. 4.1997 Rothwell (Yorks)                            97/564 743
+1125 Hind Leys                -    58   -    1456 -    12   -    38   -    14   -    18   -    56   -    38 12 f          3. 6.1993 Hemsworth                                   93/653
+1126 Rednock                  -    58   -    1458 -    12   -    18   -    34   -    1238 -    34   -    18 18 m          2.11.1985 Dursley                                     86/79
+1127 Romsey                   -    58   -    1458 -    58   -    36   -    14   -    18   -    1236 -    38 12 c         20. 2.1994 Romsey                                      94/285
+1128 Yarborough               -    58   -    16   -    12   -    1238 -    14   -    18   -    12   -    78 12 b         21. 2.1984 Tuxford                                     84/259
+1129 Opava                    -    58   -    16   -    12   -    1238 -    14   -    18   -    12   -    78 18 g         27. 7.1999 Adlington                                   99/847
+1130 Phoenix                  -    58   -    16   -    12   -    1238 -    14   -    18   -    12.  56.  78 12 b         15. 7.1999 Heywood                                     99/732
+1131 Quoich                   -    58   -    16   -    12   -    1238 -    14   -    18   -    1234 -    78 12 b         27. 7.1984 St Bees                                     84/750
+1132 Londesborough            -    58   -    16   -    12   -    1238 -    14   -    18   -    1256 -    78 12 b         21. 8.1984 Billingborough                              84/792
+1133 Elton                    -    58   -    16   -    12   -    1238 -    14   -    18   -    34   -    78 12 b          7. 3.2001 Heywood                                     01/321
+1134 Canfield                 -    58   -    16   -    12   -    1238 -    14   -    18   -    3456 -    78 12 b          3. 5.2000 Heywood                                     00/573
+1135 Grafton                  -    58   -    16   -    12   -    18   -    12   -    1258 -    16   -    78 12 b          9. 4.1985 Hurst (Berks)                               85/416
+1136 Chelmsford               -    58   -    16   -    12   -    18   -    12   -    58.  14   -    14.  58 12 d          3. 4.2000 Bushey                                      00/477
+1137 Ormskirk                 -    58   -    16   -    12   -    18   -    14   -    1238 -    12   -    78 12 b         20.11.1971 Ormskirk                                    71/1079
+1138 Bishop David             -    58   -    16   -    12   -    18   -    14   -    1238 -    34   -    78 12 b         18.10.1994 Sefton                                      94/1167
+1139 Cheluvelt                -    58   -    16   -    12   -    18   -    14   -    18   -    14   -    78 12 b         20. 8.1974 Wincanton                                   74/923
+1140 Bosel                    -    58   -    16   -    12   -    18   -    14   -    18   -    14.  56.  78 12 b          3. 6.1980 Hanbury (Worcs)                             80/577
+1141 Baldock Festival 2000    -    58   -    16   -    12   -    18   -    14   -    18   -    1456 -    78 12 b          2.12.2000 Baldock                                     01/85
+1142 Wyre Forest              -    58   -    16   -    12   -    18   -    14   -    18.  56.  14.  56.  78 12 b         27. 7.1983 Rock                                        83/687
+1143 Underwood                -    58   -    16   -    12   -    18   -    14   -    38   -    12   -    18 12 a          4. 3.1989 Selston                                     89/367
+1144 Chiddingstone            -    58   -    16   -    12   -    18   -    14   -    38   -    12   -    78 12 b          9. 6.1993 Chiddingstone                               93/768
+1145 Bicester                 -    58   -    16   -    12   -    18   -    14   -    38   -    1256 -    78 12 b         24.11.1997 Bicester                                    98/60
+1146 Broughton Astley         -    58   -    16   -    12   -    18   -    14   -    38   -    34   -    78 12 b         21. 9.1974 Broughton Astley                            74/858
+1147 Chalfont St Giles        -    58   -    16   -    12   -    18   -    14   -    38   -    56   -    78 12 b         24.11.1997 Chalfont St Giles                           98/10
+1148 Utah                     -    58   -    16   -    12   -    18   -    14   -    38.  14   -    14.  78 12 b          7. 9.1979 Cambridge, St Andrew-the-Great              79/867
+1149 Derby                    -    58   -    16   -    12   -    18   -    14   -    38.  56   -    34.  18 12 c          8. 5.2000 Bushey                                      00/575
+1150 Prince Charles           -    58   -    16   -    12   -    18   -    14   -    58   -    14   -    58 12 d         22. 7.1981 Heywood                                     81/760
+1151 Ligueil                  -    58   -    16   -    12   -    18   -    14   -    58   -    56   -    18 12 c         14. 2.1981 Hungerford                                  81/233
+1152 Juin                     -    58   -    16   -    12   -    18   -    14   -    58.  34   -    36.  18 12 c         23. 3.1998 Bushey                                      98/359
+1153 Tervedunum               -    58   -    16   -    12   -    18   -    14   -    58.  36   -    16.  58 18 m         17. 4.1993 Birstall (Yorks)                            93/474
+1154 Yatton                   -    58   -    16   -    12   -    18   -    34   -    1258 -    16   -    58 12 f          2.10.1982 Yatton                                      82/903
+1155 Misbourne                -    58   -    16   -    12   -    18   -    34   -    3458 -    16   -    78 12 b          4.10.1986 Amersham                                    86/964
+1156 Nidd                     -    58   -    16   -    12   -    18   -    34   -    58.  36.  12.  36.  18 18 m          6. 4.1996 Belper                                      96/518
+1157 Aldingbourne Castle      -    58   -    16   -    12   -    36   -    12   -    18   -    14   -    58 12 f         29. 7.2000 Chichester Cathedral                        00/963
+1158 Cold Christmas           -    58   -    16   -    12   -    38   -    12   -    18   -    16   -    58 12 a         19.12.1970 Barnes                                      71/53
+1159 Dunelm                   -    58   -    16   -    12   -    38.  14   -    34.  18.  34   -    14.  78 12 b         15. 9.2001 Durham, St Oswald  
+1160 Terrathebius             -    58   -    16   -    1256 -    36   -    34   -    18.  56   -    56.  78 12 d          7.11.1995 Brockenhurst                                95/1254
+1161 Newchurch                -    58   -    16   -    1258 -    16   -    14   -    18   -    12   -    78 12 b          1. 8.1981 Newchurch Kenyon                            81/831
+1162 Taylor's Pleasure        -    58   -    16   -    1258 -    16   -    34   -    18   -    14   -    58 12 d         17. 5.1974 Cholsey                                     74/578
+1163 Normandy                 -    58   -    16   -    56   -    16   -    14   -    18   -    34   -    38 12 a         24. 8.1971 Hagley                                      71/873
+1164 Sparky                   -    58   -    16   -    56   -    36   -    14   -    18   -    12   -    18 12 b         19. 6.1998 Kirby-le-Soken                              98/697
+1165 Paimpol                  -    58   -    16   -    56   -    36   -    34   -    18   -    12   -    38 12 c         23.12.1995 Romsey                                      96/97
+1166 Wormhill                 -    58   -    16   -    56   -    36.  14   -    34.  18.  34.  56.  14.  58 12 e          9. 1.1993 Fairfield, Buxton                           93/150
+1167 Humberside               -    58   -    16   -    56   -    38   -    34   -    18   -    34   -    78 12 c         18. 8.1975 Barrow-on-Humber                            75/790
+1168 Jerusalem                -    58   -    16   -    56   -    38   -    34   -    18   -    34   -    78 18 h         28.12.1989 West Bridgford                              90/128
+1169 Michaelmas               -    58   -    16   -    58   -    16   -    12   -    18   -    12   -    78 12 b         28. 9.1999 Sunderland, St Michael                      99/994
+1170 Heywood                  -    58   -    16   -    58   -    16   -    34   -    18   -    12   -    58 12 d          3. 8.1981 Heywood                                     81/831
+1171 Armistice                -    58   -    18   -    1256 -    16   -    12   -    38   -    12   -    58 12 d          8.11.1981 Farnworth-with-Kearsley                     81/1109
+1172 Walkden                  -    58   -    18   -    56   -    16   -    34   -    38   -    34   -    78 12 c          7. 8.1981 Walkden                                     81/831
+1173 Deane                    -    58   -    18   -    58   -    16   -    34   -    38   -    34   -    58 12 c          8. 8.1981 Deane (Lancs)                               81/831
+1174 Hitcham                  34   -    34.  18   -    12   -    1238 -    12   -    1238 -    12   -    38 18 l         14. 7.1962 Burnham                                     62/498
+1175 Liversedge               34   -    34.  18   -    12   -    18   -    12   -    38   -    12   -    58 18 14653827  17. 4.1843 Liversedge  
+1176 Kent                     34   -    34.  18   -    12   -    18   -    14   -    38   -    16   -    58 18 m         13.12.1980 Spitalfields                                81/53
+1177 Trinity Sunday           34   -    34.  18   -    12   -    18   -    34   -    38   -    34   -    38 12 e          9. 6.1963 Accrington                                  63/442
+1178 Pontefract               34   -    34.  18   -    12   -    38   -    12   -    38   -    12   -    38 12 f         15. 4.1952 Holywood                                    52/274
+1179 Wath                     34   -    34.  18   -    12   -    38   -    12   -    38   -    12   -    38 18 l         16. 1.1952 Loddon  
+1180 Atlanta                  34   -    34.  18   -    12   -    38   -    12   -    38   -    16   -    78 18 g         22.10.2000 Kalamazoo                                   00/1280
+1181 Newfoundland             34   -    34.  18   -    12   -    38   -    14   -    38   -    12   -    18 18 m         11.12.1983 Windsor, St John-the-Baptist                84/77
+1182 Barham                   34   -    34.  18   -    12   -    38   -    14   -    58   -    16   -    78 12 b          8. 3.1997 Uckfield                                    97/372
+1183 Oswald                   34   -    34.  18   -    12   -    38   -    14   -    58   -    16   -    78 18 g         17. 1.1947 Frodsham                                    47/67 229
+1184 September                34   -    34.  18   -    12   -    38.  12   -    14.  58.  14   -    36.  18 12 c         30. 9.1994 Thatcham                                    94/1144
+1185 Easton Neston            34   -    34.  18   -    12   -    38.  14   -    14.  58.  36   -    16.  58 18 m         28. 6.1975 Easton Neston                               75/650
+1186 Mars                     34   -    34.  18   -    56   -    18   -    14   -    58   -    14   -    18 18 m         15.12.1997 Bushey                                      98/88 347
+1187 Christmas Eve            34   -    34.  18   -    56   -    36   -    34   -    58   -    34   -    58 12 f         24.12.1990 Enderby                                     91/115
+1188 Octobre                  34   -    34.  18   -    56   -    36.  12   -    14.  38.  16   -    12.  38 18 k         19.10.1998 Bushey                                      98/1089
+1189 March                    34   -    34.  18.  56.  12.  56.  38   -    34   -    58   -    34   -    58 18 17452386  10. 7.1998 Bucklebury                                  98/724
+1190 Terdec                   34   -    38.  16   -    12   -    18   -    34   -    1458 -    34   -    38 18 m         31. 7.1993 Birstall (Yorks)                            93/904
+1191 X                        34   -    38.  16   -    56   -    18.  34   -    34.  18.  56   -    36.  58 12 c         20. 6.1985 Highclere                                   85/627
+1192 Riddlesdown              34   -    38.  16   -    56   -    38   -    14   -    18.  36.  14   -    38 18 m         23. 9.1999 Spitalfields                                99/970
+1193 Birmingham               34   -    38.  18.  56   -    58.  36.  14   -    14.  58   -    14   -    18 18 m          6. 3.2000 Bushey                                      00/479
+1194 Oakwell Hall             34   -    58.  14   -    12   -    1238 -    12   -    18.  34   -    16.  18 18 m         15. 2.1997 Birstall (Yorks)                            97/319 499
+1195 Picturesque              34   -    58.  14   -    12   -    16   -    14   -    18.  36.  14.  36.  58 18 m         27.11.1993 Rothwell (Yorks)                            93/1270
+1196 Marset                   34   -    58.  14   -    12   -    18   -    12   -    38.  14   -    16.  58 18 m         24. 8.1996 Durham, St Oswald                           96/1010
+1197 Texarkana                34   -    58.  14   -    12   -    18   -    14   -    1258 -    14.  36.  58 18 m         25. 6.2001 Spitalfields                                01/731
+1198 Lupania                  34   -    58.  14   -    12   -    18   -    14   -    18.  36.  14   -    38 18 m          3. 9.1994 Birstall (Yorks)                            94/1025
+1199 Walton Summit            34   -    58.  14   -    12   -    18   -    14   -    3458.16   -    34.  58 18 m         20. 8.1998 Walton le Dale                              98/943 98/1075
+1200 Charleston               34   -    58.  14   -    12   -    18   -    14   -    58.  14   -    14.  58 12 a         18. 3.2000 Charleston, SC, St Michael                  00/501
+1201 Arkadelphia              34   -    58.  14   -    12   -    18   -    34   -    38.  14   -    14.  78 18 l          7.12.1999 Little Rock, Arkansas                       00/376
+1202 Belfast Lough            34   -    58.  14   -    12   -    18.  34   -    12.  38.  16   -    12.  38 18 m         27. 4.1989 West Bridgford                              89/485
+1203 Belfast                  34   -    58.  14   -    12   -    38   -    34   -    18.  36.  12   -    18 18 m         24.11.1979 Warsop                                      80/8
+1204 Eastgate                 34   -    58.  14   -    12   -    38.  14   -    34.  18   -    1456 -    58 18 m          6. 4.2001 Sleaford                                    01/433
+1205 Jubbergate               34   -    58.  14   -    12   -    38.  14   -    34.  18.  56.  14   -    58 18 m         29. 2.2000 Romford                                     00/326
+1206 Wiela                    34   -    58.  14   -    58   -    1236 -    14   -    18   -    34.  16.  58 18 m          3. 6.1995 Birstall (Yorks)                            95/715
+1207 Cantrell                 34   -    58.  14   -    58   -    1236 -    14   -    18.  34   -    16.  58 18 m          4. 1.1997 Birstall (Yorks)                            97/196
+1208 Ricina                   34   -    58.  14   -    58   -    1236 -    34   -    18.  36.  12   -    18 18 m          3. 7.1993 Mytholmroyd                                 93/769
+1209 Lewes Castle             34   -    58.  14   -    58   -    18   -    14   -    18   -    56.  14.  78 12 d          5. 2.2000 Henfield                                    00/201
+1210 Winchelsea Castle        34   -    58.  14   -    58   -    18   -    14   -    38.  14   -    14.  78 12 d          5. 6.2000 Fairwarp                                    00/671
+1211 Magnis                   34   -    58.  14   -    58   -    36.  12   -    34.  18.  36.  12   -    18 18 m         27.12.1980 Dore                                        81/99
+1212 Araucaria                34   -    58.  14.  58   -    12.  36.  12   -    34.  18.  36   -    12.  38 18 m         22. 4.1980 Shoreditch                                  80/423
+1213 Tilty                    34   -    58.  16   -    56   -    18   -    14   -    1458.36   -    16.  58 12 d         15. 6.1998 Lower Beeding                               98/675
+1214 Petworth Castle          34   -    58.  16   -    56   -    18   -    14   -    58   -    12   -    58 12 a         24. 7.1999 Petworth                                    99/801
+1215 Allington Castle         34   -    58.  16   -    56   -    18   -    14   -    58   -    34   -    58 12 a         19. 7.1999 Maidstone, St Michael                       99/801
+1216 Brambletye Castle        34   -    58.  16   -    56   -    18   -    14   -    58.  14   -    14.  58 12 a         15.11.1999 East Grinstead                              99/1165
+1217 Denny                    34   -    58.  16   -    56   -    18   -    34   -    18   -    34.  16.  38 18 m         31. 7.1976 Easton Neston                               76/821
+1218 Ceodre                   34   -    58.  16   -    56   -    38   -    12   -    18.  36.  12   -    18 18 m         29. 4.1995 Creswell                                    95/578
+1219 St Bega                  34.  56.  34.  18.  56   -    12.  36.  12   -    14.  58.  14   -    12.  58 12 14258367  20.10.1984 Chislehurst, St Nicholas                    84/1067 85/572
+1220 Carisbrooke              34.  58.  36.  14   -    56   -    18   -    34   -    58.  36.  14.  56.  78 12 b         17. 8.1935 Norbury (Hazel Grove)  
+1221 Southwell                3456 -    36.  14   -    58   -    18   -    14   -    58   -    36   -    78 18 g         17. 1.2000 Bushey                                      00/172
+1222 Guildford                3456 -    36.  14   -    58   -    18   -    14   -    58.  36   -    3456.78 12 b         26. 6.2000 Bushey                                      00/718
+1223 Manchester               3456 -    36.  18   -    56   -    38.  14   -    14.  58   -    14   -    18 18 m         21. 6.1999 Bushey                                      99/729
+1224 Oxhey                    36   -    36.  18   -    58   -    18   -    34   -    38.  16   -    12.  38 12 b          7.12.1998 Bushey                                      99/46
+1225 Durham                   36   -    36.  18   -    58   -    18   -    34   -    38.  16   -    12.  38 18 g         12. 4.1999 Bushey                                      99/407
+1226 Raleigh                  36   -    56.  14.  58   -    12.  38   -    14   -    18.  56.  14   -    38 18 m         18. 1.1994 Raleigh, NC                                 94/406
+1227 Sapcote                  36   -    56.  14.  58   -    56.  18   -    14   -    58   -    16   -    18 18 m          9.10.1974 Sapcote, All Saints                         74/920
+1228 Melrose School           36   -    56.  14.  58   -    58.  16   -    14   -    18.  36.  12   -    78 18 h         13. 1.1994 Brewster, NY                                94/406 843
+1229 Hewetson                 36   -    56.  14.  58   -    58.  36   -    14   -    18   -    12   -    58 18 k         24.10.1994 Marsham                                     94/1240
+1230 April                    36   -    56.  14.  58   -    58.  36   -    14   -    18   -    34   -    58 18 k         11. 8.1997 Bushey                                      97/1003
+1231 Sheffield                36   -    56.  14.  58   -    58.  36   -    14   -    18.  34   -    56.  18 18 j         12.10.1999 Bushey                                      99/1043
+1232 Raise                    36   -    56.  14.  58   -    58.  36   -    14   -    18.  36   -    14.  78 18 h         15. 7.1993 Highclere                                   93/857
+1233 Callipygean              36   -    58.  14   -    58   -    18   -    14   -    38.  16.  34.  56.  38 12 b         21. 6.1976 Highclere                                   76/621
+1234 Habergham Eaves          36.  58   -    1458 -    12.  58.  36   -    12.  34.  18.  56   -    14.  58 12 a         17.11.1995 Burnley                                     95/1273
+1235 High Dodd                38   -    34.  18   -    12   -    36   -    12   -    18.  56   -    16.  58 12 b         19. 8.1993 East Ilsley                                 93/1050
+1236 Ottershaw                38   -    34.  18   -    56   -    16   -    12   -    58.  14   -    14.  58 12 a         16. 9.1994 Spitalfields                                94/1046
+1237 Ganymede                 38   -    34.  18   -    56   -    36.  14   -    34.  18   -    14   -    78 12 f         11. 5.1995 Shoreditch                                  95/641
+1238 Liverpool                38   -    38.  14   -    12   -    18   -    12   -    1458 -    14   -    58 12 c          4. 5.1999 Beaconsfield                                99/486
+1239 Londinium                38   -    38.  14   -    12   -    18   -    12   -    1458.36   -    16.  58 12 f         21. 3.1987 Birstall (Yorks)                            87/384
+1240 Clapton                  38   -    38.  14   -    12   -    18   -    12   -    38   -    12   -    18 12 f         21. 7.1978 Harrow Weald                                78/713
+1241 Shoreditch               38   -    38.  14   -    12   -    18   -    12   -    58   -    16   -    78 12 a          3. 6.1978 Willesden                                   78/562
+1242 Zeals Knoll              38   -    38.  14   -    12   -    18   -    12   -    58.  14   -    14.  58 12 c         21. 5.1992 Highclere                                   92/679
+1243 Great Dodd               38   -    38.  14   -    12   -    18   -    12   -    58.  16   -    16.  78 12 a         20. 2.1992 Highclere                                   92/354
+1244 Archdeacon               38   -    38.  14   -    12   -    18   -    14   -    1238 -    1256 -    18 12 b         17. 3.1989 Broughton, Staffs                           89/366
+1245 Kearsley                 38   -    38.  14   -    12   -    18   -    14   -    38   -    56   -    18 12 b          2. 9.1981 Farnworth-with-Kearsley                     81/908
+1246 Tythorn                  38   -    38.  14   -    12   -    18   -    14   -    58   -    14   -    58 12 c         15. 6.1957 Wigston Magna                               57/426
+1247 Atomic                   38   -    38.  14   -    12   -    18   -    14   -    58.  16   -    16.  38 12 f         15.12.1990 Harwell                                     91/87
+1248 Norwich                  38   -    38.  14   -    12   -    18.  14   -    14.  58.  14   -    14.  58 12 c         22. 1.2001 Bushey                                      01/161
+1249 Fairfield                38   -    38.  14   -    12   -    36.  14   -    34.  18   -    14   -    58 12 e         21. 4.1988 Overton                                     88/483
+1250 Hackpen                  38   -    38.  14   -    12   -    36.  14   -    34.  18   -    36   -    78 12 c         16. 7.1987 Hungerford                                  87/711
+1251 Lammermuir               38   -    38.  14   -    12   -    38.  12   -    34.  18   -    12   -    38 12 e         21. 5.1987 East Hagbourne                              87/605
+1252 Torridon                 38   -    38.  14   -    12   -    38.  12   -    34.  18.  56   -    14.  58 12 b         21. 1.1988 Whitchurch (Hants)                          88/207
+1253 Glaramara                38   -    38.  14   -    12   -    38.  14   -    34.  18.  36   -    34.  18 12 b         25. 2.1988 Hungerford                                  88/352
+1254 Huguenot                 38   -    38.  14.  56   -    56.  18   -    12   -    58   -    14   -    58 12 c         13. 7.1998 Spitalfields                                98/776
+1255 Mortimer                 38   -    38.  16   -    56   -    16   -    12   -    18   -    12   -    58 12 e         29. 1.1987 Stratford Mortimer                          87/200
+1256 Penwood                  38   -    38.  16   -    56   -    18   -    12   -    1458 -    14   -    58 12 c         16. 3.1989 Highclere                        14. 4.1991 89/347 700 91/591
+1257 Jennifer                 38   -    38.  16   -    56   -    18   -    12   -    58.  14   -    14.  58 12 c         21. 2.1987 Wallingford                                 87/268
+1258 Yoke                     38   -    38.  16   -    56   -    18   -    12   -    58.  14   -    56.  18 12 b         17.11.1988 Highclere                                   89/12
+1259 Granny Smith             38   -    38.  16   -    56   -    18   -    12   -    58.  16   -    12.  78 12 a          7.10.1995 Warnham                                     95/1153
+1260 Aldenham                 38   -    38.  16   -    56   -    18   -    34   -    1458 -    1236 -    78 12 a          4.10.1992 Aldenham                                    92/1178
+1261 Cockcroft                38   -    38.  16   -    56   -    18   -    34   -    18   -    12   -    78 12 a         14.12.1985 Harwell                                     86/52
+1262 Bushey                   38   -    38.  16   -    56   -    18   -    34   -    18   -    16   -    58 12 f         17.11.1990 Bushey                                      91/81
+1263 Bucklebury               38   -    38.  16   -    56   -    18   -    34   -    18   -    34   -    78 12 a          4. 1.1986 Bucklebury                                  86/118
+1264 Ingleborough             38   -    38.  16   -    56   -    18.  34   -    12.  38   -    14   -    78 12 a         23. 1.1986 Hungerford                                  86/222
+1265 Skiddaw                  38   -    38.  16   -    56   -    18.  34   -    14.  58   -    14   -    58 12 c         17. 7.1986 Hungerford                                  86/760
+1266 Catherine                38   -    38.  16   -    58   -    16   -    14   -    18.  36   -    14.  58 12 a         28. 2.1981 Wallingford                                 81/324
+1267 Cumberland               38   -    38.  16   -    58   -    18   -    14   -    38.  16   -    16.  38 12 b         16. 3.1912 Waltham Abbey  
+1268 Caldicot                 38   -    38.  16   -    58   -    18   -    14   -    58.  14   -    14.  38 12 b         18. 3.1982 Caldicot                                    82/320 412
+1269 Wakefield                38   -    38.  18   -    58   -    36   -    14   -    58   -    16   -    78 12 f         14. 2.2000 Bushey                                      00/227
+1270 Ewhurst Castle           38   -    56.  14   -    56   -    18   -    12   -    58.  12   -    14.  58 12 a         18. 6.2001 Turners Hill  
+1271 Mendip                   38   -    56.  14   -    56   -    18   -    12   -    58.  14   -    14.  58 14 15427386  26. 7.1984 Cholsey                                     84/729
+1272 Leiston                  38   -    56.  14   -    56   -    18   -    14   -    1458 -    14   -    58 12 a          5. 8.1996 Steyning                                    96/911 97/500
+1273 Launde                   38   -    56.  14   -    56   -    18   -    14   -    58   -    12   -    58 12 a         29.12.1995 Petworth                                    96/97
+1274 Barrow Gurney            38   -    56.  14   -    56   -    18   -    14   -    58   -    16   -    78 12 f         19. 9.1978 Barrow Gurney                               78/892
+1275 Wells                    38   -    56.  14   -    56   -    18   -    14   -    58   -    34   -    58 12 a         24.11.1990 Yatton                                      91/10
+1276 Spitalfields             38   -    56.  14   -    56   -    18   -    14   -    58.  14   -    14.  58 12 a         17. 1.1981 Spitalfields                                81/188
+1277 Worle                    38   -    56.  14   -    56   -    18   -    34   -    1458 -    16   -    78 12 f         30. 6.1999 Barrow Gurney                               99/677
+1278 Burghlow Castle          38   -    56.  14   -    56   -    38   -    12   -    18.  36.  12.  36.  78 12 f         29. 7.2000 Westbourne                                  00/963
+1279 Lockskinners             38   -    56.  14.  56   -    58.  16   -    34   -    18   -    14   -    18 12 a         27.11.1999 Chiddingstone                               99/1187
+1280 Enigma                   38   -    58.  14   -    12   -    1238 -    34   -    18   -    14   -    78 12 a         13. 5.1999 Bletchley                                   99/530 580
+1281 February                 38   -    58.  14   -    12   -    18   -    14   -    18   -    1236 -    18 12 f         30. 9.1997 Ambrosden                                   97/1123
+1282 Burnley                  38   -    58.  14   -    12   -    18   -    14   -    58.  12   -    14.  58 12 c         12.12.1999 Burnley                                     99/1258
+1283 Decembre                 38   -    58.  14   -    12   -    36   -    14   -    18   -    12   -    18 12 f          4.11.1997 Oswaldtwistle                               97/1220 01/516
+1284 Rats Castle              38   -    58.  14   -    12   -    38   -    14   -    18.  36.  14   -    38 12 b          4.10.1999 Maidstone, St Michael                       99/1020
+1285 Newcastle                38   -    58.  14   -    12   -    38.  12   -    34.  18   -    14   -    78 12 a         21. 9.1999 Bushey                                      99/969
+1286 Canada                   38   -    58.  14   -    58   -    18   -    14   -    1458 -    14   -    58 12 a          1. 7.1992 Holy Rosary Cathedral, Vancouver            92/843
+1287 Erdington                38   -    58.  14   -    58   -    18   -    14   -    38.  14.  36.  14.  78 12 f         16. 1.1982 Yardley                                     82/216
+1288 Dry Drayton              38   -    58.  14   -    58   -    18   -    14   -    58   -    12   -    58 12 a         19.11.1976 Meldreth                                    76/1052
+1289 St Wolstan's             38   -    58.  14   -    58   -    18   -    14   -    58   -    16   -    78 12 f         11. 9.1954 Wigston Magna                               54/612 672
+1290 Highclere                38   -    58.  14   -    58   -    18   -    14   -    58   -    34   -    58 12 a          4.12.1986 Highclere                                   87/60
+1291 Syston                   38   -    58.  14   -    58   -    18   -    14   -    58.  14   -    14.  58 12 a          8. 6.1946 Wigston Magna                               46/281 325
+1292 St Wistan's              38   -    58.  14   -    58   -    18   -    14   -    58.  14.  36   -    58 12 c         30. 8.1997 Wigston Magna                               97/1001
+1293 Humberstone              38   -    58.  14   -    58   -    18   -    14   -    58.  16   -    16.  78 12 f         19. 2.1955 Wigston Magna                               55/132 286
+1294 Crowhurst Castle         38   -    58.  14   -    58   -    36   -    14   -    18.  36.  12.  56.  78 12 a         20. 9.1999 Fairwarp                                    99/1020
+1295 Hartspring               38   -    58.  14   -    58   -    38   -    12   -    18   -    12   -    78 12 f         24. 6.1989 Aldenham                         21. 1.1990 89/798 90/205
+1296 Hawksmoor                38   -    58.  14   -    58   -    38   -    12   -    18   -    16   -    58 12 d         30.10.1988 Spitalfields                                88/1141
+1297 July                     38   -    58.  14   -    58   -    38   -    12   -    18.  34   -    34.  18 12 e         15. 7.1994 Thatcham                                    94/855
+1298 Watership                38   -    58.  16   -    12   -    16   -    14   -    18   -    34   -    58 12 e         24. 4.1980 Whitchurch (Hants)                          80/442
+1299 Walbury                  38   -    58.  16   -    12   -    38.  12   -    34.  18.  36   -    56.  78 12 d         22. 5.1980 Hungerford                                  80/533
+1300 Golden Ball              38   -    58.  18   -    56   -    36   -    34   -    58.  36   -    16.  18 18 m          2. 2.1976 West Wycombe                                76/226
+1301 Bangor                   38   -    58.  18   -    56   -    36.  14   -    14.  58.  14   -    16.  78 12 a         10. 9.2001 Bushey  
+1302 Salisbury                56   -    34.  16.  58   -    56.  18   -    14   -    1458 -    56   -    58 18 h          4. 6.2001 Bushey                                      01/805
+1303 Vierum                   56   -    36.  1458 -    12   -    18   -    14   -    1258.36   -    16.  58 18 m          8. 5.1993 Belper                                      93/579
+1304 Ravenfield               56   -    36.  1458 -    12   -    18   -    34   -    58.  16   -    16.  38 18 m          1. 6.1996 Birstall (Yorks)                            96/685 97/500
+1305 Quantock                 56   -    36.  18   -    56   -    16   -    34   -    38.  16   -    16.  78 14 17682543  15. 3.1984 Whitchurch (Hants)                          84/368
+1306 Blackburn                56   -    36.  18   -    56   -    38.  14   -    14.  58   -    14   -    18 18 m         11. 1.1999 Bushey                                      99/121
+1307 Truro                    56   -    38.  18.  56   -    58.  36.  14   -    14.  58   -    14   -    18 18 m         16. 7.2001 Bushey                                      01/851
+1308 Septembre                56   -    56.  14.  56   -    56.  38   -    34   -    18   -    34   -    38 18 m         20. 7.1998 Bushey                                      98/800
+1309 Warborough               56   -    56.  18   -    12   -    1238 -    34   -    58   -    14   -    58 12 d         16. 2.1991 Warborough                                  91/261
+1310 Holywood                 56   -    56.  18   -    12   -    38   -    12   -    38   -    12   -    38 12 f         30. 1.1954 Holywood                                    54/99 127
+1311 Loddon                   56   -    56.  18   -    12   -    38   -    12   -    38   -    12   -    38 18 l         14. 3.1953 Loddon                                      53/210 349
+1312 Anniversary              56   -    56.  18   -    12   -    38   -    14   -    58   -    16   -    78 12 b         17. 9.1988 Yatton                                      88/971
+1313 June                     56   -    56.  18   -    12   -    38.  12   -    14.  58.  14   -    36.  78 12 b         10. 6.1994 Thatcham                                    94/713
+1314 Baldock                  56   -    56.  18   -    56   -    16   -    14   -    58   -    12   -    58 12 f         23. 9.1972 Rushden                                     72/900
+1315 Swinton                  56   -    56.  18   -    56   -    16   -    14   -    58   -    12   -    58 18 l          6.11.1992 Swinton                                     92/1179
+1316 Queensbridge             56   -    56.  18   -    56   -    16   -    14   -    58.  14   -    14.  58 12 f         16.12.1980 Shoreditch                                  81/52
+1317 Dashwood                 56   -    56.  18   -    56   -    16   -    14   -    58.  14   -    14.  58 18 l          7. 2.1981 West Wycombe                                81/254
+1318 May Week                 56   -    56.  18   -    56   -    18   -    14   -    58   -    14   -    18 18 m         17. 6.1983 Cambridge, St Mary-the-Great                83/601
+1319 Toton                    56   -    56.  18   -    56   -    36   -    34   -    18   -    34   -    78 12 d         16. 9.1991 Attenborough                                91/996
+1320 New Cumberland           56   -    56.  18   -    56   -    36   -    34   -    18.  34   -    34.  18 18 h         31. 5.1886 Burton-upon-Trent, St Paul  
+1321 Portsea                  56   -    56.  18   -    56   -    36   -    34   -    18.  34   -    34.  78 12 d         21. 2.1981 Portsea                                     81/257
+1322 Stratton St Margaret     56   -    56.  18   -    56   -    36.  14   -    14.  58.  14   -    14.  58 12 f         29. 8.1980 Stratton St Margaret                        80/836
+1323 Aldermaston              56   -    56.  18   -    58   -    16   -    12   -    1238 -    14   -    78 12 b         24. 5.1997 Aldermaston                                 97/659
+1324 Ashway                   56   -    56.  18.  56   -    56.  1238 -    14   -    58   -    12   -    58 12 d          6. 9.1992 Saddleworth                                 92/968
+1325 Iddesleigh               56   -    56.  18.  56   -    56.  18   -    12   -    38   -    14   -    78 12 b         14. 9.1988 Barrow Gurney                               88/972
+1326 Herkomer                 56   -    56.  18.  56   -    56.  18   -    12   -    38   -    14   -    78 18 g          7.11.1991 Bushey                                      91/1182
+1327 Katenian                 56   -    56.  18.  56   -    56.  18   -    14   -    58   -    1236 -    78 18 g          2. 5.1992 Highworth                                   92/526
+1328 Vermont                  56   -    56.  18.  56   -    56.  18   -    14   -    58   -    14   -    58 18 j                                                     26. 9.1990 90/1106
+1329 Amadeus                  56   -    56.  18.  56   -    56.  18   -    14   -    58   -    36   -    78 18 g          5.12.1991 Bushey                                      92/59
+1330 Carlisle                 56   -    56.  18.  56   -    56.  38.  14   -    14.  58.  1236 -    34.  78 18 g         15. 3.1999 Bushey                                      99/315
+1331 Drumbo                   56   -    56.  18.  56.  12.  56.  18   -    14   -    1238.56.  12.  56.  18 12 a         23. 6.1990 Drumbo                                      90/730
+1332 Chiltern                 56   -    58.  14   -    58   -    18   -    14   -    58.  14   -    14.  58 14 15428367  15.10.1981 Cholsey                                     81/992
+1333 Purbeck                  56   -    58.  16   -    56   -    18   -    14   -    58.  14   -    14.  58 12 14263785  27. 9.1984 Highclere                                   84/922 85/740
+1334 Great Western            56   -    58.  16.  58   -    56.  18.  34   -    14.  38.  14   -    34.  78 12 b          4.12.1985 Barrow Gurney                               86/8
+1335 Double Somerleyton       56.  34.  56.  14.  56.  12.  56.  18.  34.  78.  34.  58.  34.  56.  34.  78 12 f         31.12.1984 Bishopstoke                                 85/110
+1336 Cowdray Castle           58   -    34.  16   -    56   -    18   -    14   -    1458.36   -    16.  58 12 d         27. 3.2000 Easebourne                                  00/402
+1337 Camber Castle            58   -    34.  16   -    56   -    18   -    14   -    58   -    34   -    58 12 a          7. 6.1999 Balcombe                                    99/656
+1338 Caburn Castle            58   -    34.  16   -    56   -    18   -    14   -    58.  14   -    14.  58 12 a          4.12.2000 Turners Hill                                01/11
+1339 Freezywater              58   -    34.  18   -    12.  58.  36.  12   -    14.  58   -    14.  36.  18 12 b          8. 5.1999 Enfield, St Andrew                          99/507
+1340 Hoof Stones Height       58   -    34.  18   -    56   -    16   -    14   -    58   -    16   -    78 12 f         25. 2.1996 Burnley                                     96/299
+1341 Alderbury                58   -    34.  18   -    56   -    18   -    12   -    58   -    34   -    18 12 b         17. 8.1998 Bushey                                      98/896
+1342 Ripon                    58   -    34.  18   -    56   -    38.  12   -    14.  58   -    1236 -    78 12 c          2. 8.1999 Bushey                                      99/801
+1343 Dunkery                  58   -    34.  18.  56   -    12.  36   -    14   -    58   -    14   -    58 12 a         16.10.1980 Cholsey                                     80/989
+1344 Slack Top                58   -    36.  18.  56.  12.  58.  16   -    34   -    58.  34   -    16.  78 12 a          9. 3.1994 Heptonstall                                 94/432
+1345 Dronfield                58   -    56.  14   -    12.  56.  18   -    14   -    58.  14   -    16.  78 12 f         19. 6.1976 Dronfield                                   76/736
+1346 Middleton                58   -    58.  14   -    58   -    18   -    14   -    58.  12   -    14.  58 12 a          2.12.1981 Middleton                                   82/50
+1347 Rest Dodd                58.  34   -    18   -    12   -    16   -    14   -    58   -    16   -    78 12 f         18. 4.1991 East Ilsley                                 91/520
+1348 Paddington               58.  34   -    18   -    12   -    38   -    14   -    58   -    36   -    78 12 e         17. 5.1991 Buckland-in-the-Moor                        91/611
+1349 Todmorden                58.  36   -    14   -    1256 -    18   -    12   -    18   -    14   -    78 12 f         30. 4.1995 Todmorden, St Mary                          95/550
+1350 Slack Bottom             58.  36   -    14   -    1256 -    18   -    12   -    38   -    12   -    18 12 e          1. 2.1994 Heptonstall                                 94/207
+1351 Sparrowhawk              58.  36   -    14   -    1256 -    18   -    12   -    58.  14   -    12.  58 12 a         18. 7.1997 Burnley                                     97/827
+1352 Heptonstall Moor         58.  36   -    14   -    1256 -    18   -    34   -    58   -    14   -    58 12 a         16. 5.1994 Heptonstall                                 94/586 699
+1353 MacKillop                58.  36   -    14   -    1256 -    18.  34   -    14.  58.  14   -    14.  58 12 a         14.12.1994 Darling Point, NSW                          95/37
+1354 Double Dunkirk           78   -    78.  16   -    1258 -    18   -    1478 -    38.  12   -    12.  78 12 b         25. 2.1984 Aspley, Nottingham                          84/323
+
+Little Delight Major methods (treble to 6ths)
+
+ No. Name                          Notation                               hl le lh       Tower bells Place                       RW ref
+
+1355 Hollesley Little              -  38 -  14   -  1256 -  18 -  12   -  56 12 f         17. 4.1988 Hollesley                   88/484
+1356 Heywood Little                -  38 -  14   -  1256 -  18 -  1234 -  56 12 f         28.10.1992 Heywood                     92/1179
+1357 Spitalfields Festival Little  -  38 -  14   -  56   -  18.34 -    14.56 12 f         31. 5.2001 Spitalfields                01/631 755
+1358 Rothamsted Little             -  38 -  14   -  58   -  18 -  34   -  16 12 e         18. 7.1971 Harpenden                   71/708 802
+1359 Pagham Little                 -  38 -  1456 -  1256 -  18 -  14   -  36 12 c         22.12.1990 Arundel                     91/89
+1360 Walkden Little                -  38 -  1456 -  56   -  18 -  12   -  16 12 c         21. 3.1999 Walkden                     99/387
+1361 Much Hadham Little            -  38 -  1478 -  78   -  18 -  12   -  16 12 c          3.10.1992 Much Hadham                 92/1084
+1362 Great Orme Little             -  58 -  14.  58 -    56.18 -  14   -  56 12 14257386  31.12.1998 Burnley                     99/95
+1363 King Edward I Little          -  58 -  14.  58 -    56.18.34 -    14.56 12 a         28.10.1989 Harpenden                   89/1040
+1364 Wimbledon Little              -  58 -  16   -  12   -  18 -  14   -  16 12 c         13.11.1971 Hackney, St John-at-Hackney 71/1079
+1365 Luxembourg Little             56 -  56.18   -  56   -  36 -  34   -  16 12 e         16. 3.1973 Meldreth                    73/292
+1366 Colborne Little               56 -  56.18   -  56   -  36 -  34   -  16 18 k          8.12.1973 Warwick, St Nicholas        74/53
+
+Triple-hunt Delight Major methods
+
+ No. Name      Notation                                 hl le lh       Tower bells Place         RW ref
+
+1367 Didymous  36 - 34.16.58 - 56.18.34 - 14.38.56 - 36.58 14 12386745  10.10.1982 Barrow Gurney 82/946

@@ -1,0 +1,21 @@
+; MapCon.def : Declares the module parameters for the DLL.
+
+LIBRARY      "MapCon"
+EXPORTS
+    ; Explicit exports can go here
+
+isInterfaceCompatable = ?isInterfaceCompatable@@YG_NH@Z
+getDLLVersion = ?getDLLVersion@@YGHXZ
+getHostCount = ?getHostCount@@YGHXZ
+getHostName = ?getHostName@@YG_NHAAV?$CStringT@DV?$StrTraitMFC_DLL@DV?$ChTraitsCRT@D@ATL@@@@@ATL@@@Z 
+getHostWebAddress = ?getHostWebAddress@@YG?AV?$CStringT@DV?$StrTraitMFC_DLL@DV?$ChTraitsCRT@D@ATL@@@@@ATL@@HAAV12@@Z
+getHostGridRefImageCenter = ?getHostGridRefImageCenter@@YG_NHW4ScaleType@@AAH1@Z
+getHostInitialPageURL = ?getHostInitialPageURL@@YG_NHW4ScaleType@@HHAAV?$CStringT@DV?$StrTraitMFC_DLL@DV?$ChTraitsCRT@D@ATL@@@@@ATL@@@Z
+getHostIterationCount = ?getHostIterationCount@@YGHHW4ScaleType@@@Z
+getHostImageURL = ?getHostImageURL@@YG_NHW4ScaleType@@AAV?$CStringT@DV?$StrTraitMFC_DLL@DV?$ChTraitsCRT@D@ATL@@@@@ATL@@ABV23@H@Z
+getHostImageType = ?getHostImageType@@YGHHW4ScaleType@@@Z
+getHostScaleSupport = ?getHostScaleSupport@@YG_NHW4ScaleType@@@Z
+getHostCropSize = ?getHostCropSize@@YG_NHW4ScaleType@@AAH111@Z
+getHostPostCropSize = ?getHostPostCropSize@@YG_NHW4ScaleType@@AAH1@Z
+getHostGridRefCorners = ?getHostGridRefCorners@@YG_NHW4ScaleType@@HHAAH111@Z
+getHostNextMapCenter = ?getHostNextMapCenter@@YG_NHW4ScaleType@@AAH1@Z

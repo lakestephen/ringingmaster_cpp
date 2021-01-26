@@ -1,0 +1,109 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CxImage", "cximage\cximage.vcproj", "{00CDB854-EB9B-4B28-A4BF-6A865D0E132F}"
+	ProjectSection(ProjectDependencies) = postProject
+		{C85D7C1F-9D1E-4A4C-8299-AB5B9302162B} = {C85D7C1F-9D1E-4A4C-8299-AB5B9302162B}
+		{1B441F51-C495-4197-8FAF-CE375073F5D2} = {1B441F51-C495-4197-8FAF-CE375073F5D2}
+		{FB854355-3669-483C-B78C-92903037E9E6} = {FB854355-3669-483C-B78C-92903037E9E6}
+		{14E598AD-BB82-4E8B-B99F-89F9345421F4} = {14E598AD-BB82-4E8B-B99F-89F9345421F4}
+		{654D7EEB-ECE1-45F9-BD74-B886379DB029} = {654D7EEB-ECE1-45F9-BD74-B886379DB029}
+		{CBDCCEFB-C891-49C0-AE04-5330756514C2} = {CBDCCEFB-C891-49C0-AE04-5330756514C2}
+		{E42A8EFD-FC3E-4317-874A-678A779175FB} = {E42A8EFD-FC3E-4317-874A-678A779175FB}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "j2k", "j2k\j2k.vcproj", "{654D7EEB-ECE1-45F9-BD74-B886379DB029}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "jasper", "jasper\jasper.vcproj", "{14E598AD-BB82-4E8B-B99F-89F9345421F4}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "jbig", "jbig\jbig.vcproj", "{C85D7C1F-9D1E-4A4C-8299-AB5B9302162B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "jpeg", "jpeg\Jpeg.vcproj", "{FB854355-3669-483C-B78C-92903037E9E6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "png", "png\png.vcproj", "{1B441F51-C495-4197-8FAF-CE375073F5D2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "tiff", "tiff\Tiff.vcproj", "{E42A8EFD-FC3E-4317-874A-678A779175FB}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "zlib", "zlib\zlib.vcproj", "{CBDCCEFB-C891-49C0-AE04-5330756514C2}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "docs", "docs", "{F15CF24B-27CA-4562-8709-07C074B0049D}"
+	ProjectSection(SolutionItems) = preProject
+		docs\cximage.htm = docs\cximage.htm
+		docs\cximage.png = docs\cximage.png
+		docs\cximage_reference.htm = docs\cximage_reference.htm
+		docs\history.htm = docs\history.htm
+		docs\layers.jpg = docs\layers.jpg
+		docs\structure2.png = docs\structure2.png
+		docs\tree.png = docs\tree.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SourceCodeControl) = preSolution
+		SccNumberOfProjects = 9
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = cximage\\cximage.vcproj
+		SccProjectName1 = \u0022$/Supporting\u0020Projects/cximglib/cximage\u0022,\u0020TXBAAAAA
+		SccLocalPath1 = cximage
+		SccProjectUniqueName2 = j2k\\j2k.vcproj
+		SccProjectName2 = \u0022$/Supporting\u0020Projects/cximglib/j2k\u0022,\u0020VXBAAAAA
+		SccLocalPath2 = j2k
+		SccProjectUniqueName3 = jasper\\jasper.vcproj
+		SccProjectName3 = \u0022$/Supporting\u0020Projects/cximglib/jasper\u0022,\u0020XXBAAAAA
+		SccLocalPath3 = jasper
+		SccProjectUniqueName4 = jbig\\jbig.vcproj
+		SccProjectName4 = \u0022$/Supporting\u0020Projects/cximglib/jbig\u0022,\u0020WXBAAAAA
+		SccLocalPath4 = jbig
+		SccProjectUniqueName5 = jpeg\\Jpeg.vcproj
+		SccProjectName5 = \u0022$/Supporting\u0020Projects/cximglib/jpeg\u0022,\u0020YXBAAAAA
+		SccLocalPath5 = jpeg
+		SccProjectUniqueName6 = png\\png.vcproj
+		SccProjectName6 = \u0022$/Supporting\u0020Projects/cximglib/png\u0022,\u0020ZXBAAAAA
+		SccLocalPath6 = png
+		SccProjectUniqueName7 = tiff\\Tiff.vcproj
+		SccProjectName7 = \u0022$/Supporting\u0020Projects/cximglib/tiff\u0022,\u0020AYBAAAAA
+		SccLocalPath7 = tiff
+		SccProjectUniqueName8 = zlib\\zlib.vcproj
+		SccProjectName8 = \u0022$/Supporting\u0020Projects/cximglib/zlib\u0022,\u0020BYBAAAAA
+		SccLocalPath8 = zlib
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{00CDB854-EB9B-4B28-A4BF-6A865D0E132F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{00CDB854-EB9B-4B28-A4BF-6A865D0E132F}.Debug|Win32.Build.0 = Debug|Win32
+		{00CDB854-EB9B-4B28-A4BF-6A865D0E132F}.Release|Win32.ActiveCfg = Release|Win32
+		{00CDB854-EB9B-4B28-A4BF-6A865D0E132F}.Release|Win32.Build.0 = Release|Win32
+		{654D7EEB-ECE1-45F9-BD74-B886379DB029}.Debug|Win32.ActiveCfg = Debug|Win32
+		{654D7EEB-ECE1-45F9-BD74-B886379DB029}.Debug|Win32.Build.0 = Debug|Win32
+		{654D7EEB-ECE1-45F9-BD74-B886379DB029}.Release|Win32.ActiveCfg = Release|Win32
+		{654D7EEB-ECE1-45F9-BD74-B886379DB029}.Release|Win32.Build.0 = Release|Win32
+		{14E598AD-BB82-4E8B-B99F-89F9345421F4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{14E598AD-BB82-4E8B-B99F-89F9345421F4}.Debug|Win32.Build.0 = Debug|Win32
+		{14E598AD-BB82-4E8B-B99F-89F9345421F4}.Release|Win32.ActiveCfg = Release|Win32
+		{14E598AD-BB82-4E8B-B99F-89F9345421F4}.Release|Win32.Build.0 = Release|Win32
+		{C85D7C1F-9D1E-4A4C-8299-AB5B9302162B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C85D7C1F-9D1E-4A4C-8299-AB5B9302162B}.Debug|Win32.Build.0 = Debug|Win32
+		{C85D7C1F-9D1E-4A4C-8299-AB5B9302162B}.Release|Win32.ActiveCfg = Release|Win32
+		{C85D7C1F-9D1E-4A4C-8299-AB5B9302162B}.Release|Win32.Build.0 = Release|Win32
+		{FB854355-3669-483C-B78C-92903037E9E6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FB854355-3669-483C-B78C-92903037E9E6}.Debug|Win32.Build.0 = Debug|Win32
+		{FB854355-3669-483C-B78C-92903037E9E6}.Release|Win32.ActiveCfg = Release|Win32
+		{FB854355-3669-483C-B78C-92903037E9E6}.Release|Win32.Build.0 = Release|Win32
+		{1B441F51-C495-4197-8FAF-CE375073F5D2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1B441F51-C495-4197-8FAF-CE375073F5D2}.Debug|Win32.Build.0 = Debug|Win32
+		{1B441F51-C495-4197-8FAF-CE375073F5D2}.Release|Win32.ActiveCfg = Release|Win32
+		{1B441F51-C495-4197-8FAF-CE375073F5D2}.Release|Win32.Build.0 = Release|Win32
+		{E42A8EFD-FC3E-4317-874A-678A779175FB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{E42A8EFD-FC3E-4317-874A-678A779175FB}.Debug|Win32.Build.0 = Debug|Win32
+		{E42A8EFD-FC3E-4317-874A-678A779175FB}.Release|Win32.ActiveCfg = Release|Win32
+		{E42A8EFD-FC3E-4317-874A-678A779175FB}.Release|Win32.Build.0 = Release|Win32
+		{CBDCCEFB-C891-49C0-AE04-5330756514C2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CBDCCEFB-C891-49C0-AE04-5330756514C2}.Debug|Win32.Build.0 = Debug|Win32
+		{CBDCCEFB-C891-49C0-AE04-5330756514C2}.Release|Win32.ActiveCfg = Release|Win32
+		{CBDCCEFB-C891-49C0-AE04-5330756514C2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

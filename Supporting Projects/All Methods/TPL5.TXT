@@ -1,0 +1,135 @@
+Copyright Central Council of Church Bell Ringers, September 2001
+Treble Place Doubles methods
+ (treble's path 1 2 1 2 3 3   4 5 4   5 5)
+
+ No. Name         Notation              hl  le  lh    RW ref
+
+   1 Brent Knoll  3.5.3.1.345.5.1.3.  1.5   123 14532 81/809
+   2 Avon         5.3.5.1.345.5.1.3.  1.345 1   15234 74/670
+   3 Morebath     5.3.5.1.345.5.3.1.  3.125 1   13452 72/145
+   4 Simonsbath   5.3.5.1.345.5.3.1.  3.345 1   15234 72/209
+   5 Bath         5.3.5.1.345.5.3.1.  3.5   123 14532 70/634
+   6 Batheaston   5.3.5.1.345.5.3.1.  3.5   145 15423 
+   7 Wells        5.3.5.1.345.5.3.123.3.5   123 15423 70/634
+
+Treble Place Doubles methods
+ (treble's path 1 2 1 2 3   4 5   5   4   3 3)
+
+ No. Name         Notation                  hl le  lh    RW ref
+
+   8 Old Mill     3.5.3.1.  5.3.  145.3.  5.3  125 p     93/939
+   9 Exmoor       5.3.5.1.  5.1.  345.1.  5.3  125 p     69/502
+  10 Somerset     5.3.5.1.  5.123.345.123.5.3  123 15423 69/502
+  11 Dunkery      5.3.5.1.  5.3.  125.3.  5.3  123 15423 69/502
+  12 Quantock     5.3.5.1.  5.3.  145.3.  5.3  125 p     69/502
+  13 Brendon      5.3.5.1.  5.3.  345.3.  5.3  123 15423 69/502
+  14 Blackdown    5.3.5.145.5.3.  345.3.  5.3  123 15423 69/661
+
+Treble Place Doubles methods
+    (treble's path 1 2 2   1 1   2 3 4 5 5   4 3 3 4 5 5   4 3 2 1 1)
+
+ No. Name            Notation                                          lh    RW ref
+
+  15 Wickham Market  5.123.5.123.5.1.5.3.345.3.5.3.5.3.345.3.5.1.5.123 13452 88/580 696
+
+Treble Place Doubles methods
+(treble's path 1 2 1 2 1 2 3 3   4   5 5   4 5 4 3 3)
+
+ No. Name        Notation                          hl  le lh RW ref
+
+  16 Stanwell    3.5.3.5.3.1.345.125.3.125.3.1.3.5.123 1  r  60/70
+
+Treble Place Doubles methods
+(treble's path 1 2 1 2 1 2 3 4 5 5   4 3 3   4 5 5)
+
+ No. Name        Notation                        hl  le lh    RW ref
+
+  17 Valhalla    3.5.3.5.3.1.5.3.145.3.5.123.5.3.145 1  15234 86/820
+
+Treble Place Doubles methods
+(treble's path 1 2 2   1 1   2 3 4 5 5   4 3 3   4 5 5)
+
+ No. Name        Notation                            hl  le  lh    RW ref
+
+  18 Kingsgate   5.123.5.125.5.1.5.1.345.1.5.123.5.1.345 1   s     85/232
+  19 Jilucrosus  5.123.5.125.5.1.5.3.145.3.5.345.5.3.145 1   r     86/355 454
+  20 Skipijarou  5.123.5.145.5.1.5.3.145.3.5.345.5.3.5   145 15423 86/64 163 167
+
+Treble Place Doubles methods
+     (treble's path 1 2 3   2 1 1   2 3 4 5 5   4 3   4 5 5)
+
+ No. Name             Notation                            hl le  lh RW ref
+
+  21 Brampford Speke  3.145.1.3.125.3.1.5.3.145.3.125.5.3.5  125 p  73/866
+
+Treble Place Doubles methods
+ (treble's path 1 2   3 3   2 1   1   2   3 4 5 4 5 4 5 5)
+
+ No. Name         Notation                              hl  le lh RW ref
+
+  22 Roskear      345.1.345.1.345.125.345.1.5.1.3.1.3.1.345 1  s  98/274
+  23 Pengegon     5.  1.345.1.345.125.345.1.5.1.3.1.3.1.345 1  s  98/347
+  24 Dolcoath     5.  1.345.1.5.  125.5.  1.5.1.3.1.3.1.345 1  s  98/347
+
+Treble Place Doubles methods
+                         (treble's path 1 2   3 3   2 1   1   2   3 4 5 5   4 4   5 5)
+
+ No. Name                                 Notation                                  hl  le lh RW ref
+
+  25 Tuckingmill                          345.1.345.1.345.125.345.1.5.1.345.1.345.1.345 1  s  98/274
+  26 Tolvaddon                            345.1.345.1.5.  125.5.  1.5.1.345.1.345.1.345 1  s  98/591
+  27 Mordon                               5.  1.345.1.345.125.345.1.5.1.345.1.345.1.125 1  r  99/580
+  28 Jim and Anita's Wedding Anniversary  5.  1.345.1.345.125.345.1.5.1.345.1.345.1.345 1  s  98/347
+  29 Ian Hoskin's                         5.  1.345.1.5.  125.5.  1.5.1.345.1.345.1.125 1  r  98/591
+  30 South Crofty                         5.  1.345.1.5.  125.5.  1.5.1.345.1.345.1.345 1  s  98/347
+
+Treble Place Doubles methods
+(treble's path 1 2   3 4 5 5   4 5 4 3 2 1   1   2   3 3)
+
+ No. Name        Notation                              hl  le lh RW ref
+
+  31 Daedalus    345.1.5.1.345.1.3.1.5.1.345.125.345.1.345 1  s  86/191 319
+  32 Icarus      345.1.5.1.345.1.3.1.5.1.5.  125.5.  1.345 1  s  86/191 319
+
+Twin-hunt Treble Place Doubles methods (b)
+(treble's path 1 2 1 2 3   3 4 5 4 5 5)
+
+ No. Name        Notation            hl  le  lh    RW ref
+
+  33 Ockham      3.5.3.1.  3.5.3.1.3.125 125 13425 58/26
+  34 St Marys    3.5.3.145.3.5.3.1.3.125 125 14235 58/26
+
+Twin-hunt Treble Place Doubles methods (c)
+(treble's path 1 2 3 4 5 5 4 4   5 5 4 3 2 1 1 2 3   3   2   1 1)
+
+ No. Name        Notation                                        lh    RW ref
+
+  35 St Agatha   5.1.5.1.5.1.145.1.5.1.5.1.5.1.5.145.123.145.5.1 13425 84/241
+
+Twin-hunt Treble Place Doubles methods (b)
+(hunt bell's path 2 1 1 2 3   3 4   5 5 4 4)
+
+ No. Name           Notation              hl  le  lh    RW ref
+
+  36 Fromond        3.1.3.145.3.125.3.5.3.145 123 52314 84/360
+
+Twin-hunt Treble Place Doubles methods (b)
+(hunt bell's path 2 1 1 2 3 4 5 5 4 3 3)
+
+ No. Name           Notation          hl  le  lh    RW ref
+
+  37 Wykeham        5.1.5.1.5.1.5.1.5.345 125 32415 84/44
+
+Twin-hunt Treble Place Doubles methods (b)
+(treble's path 1 2 3 3 2 1 1 2 3 4 5 4 5 4 5 5 4 3 2 1 1)
+
+ No. Name        Notation                              hl  le  lh    RW ref
+
+  38 Hobgoblin   5.1.3.1.5.1.5.1.5.1.3.1.3.1.5.1.5.1.5.123 123 12534 99/107
+
+Twin-hunt Treble Place Doubles methods (b)
+(treble's path 1 2 3 4 5 5 4 3 2 1 1 2 1 2 3 4 5 5 4   3 3)
+
+ No. Name        Notation                                hl  le  lh    RW ref
+
+  39 Papanui     3.1.5.1.5.1.5.1.5.1.3.5.3.1.5.1.5.123.5.123 125 13425 88/907

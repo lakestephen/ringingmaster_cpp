@@ -1,0 +1,241 @@
+Copyright Central Council of Church Bell Ringers, September 2001
+Alliance Major methods (treble dodging in 1-2)
+
+ No. Name                   Notation                           hl le lh Tower bells Place                          RW ref
+
+ 301 Fuller                 -  34   -  14.  58.36   -  18   -  58 18 h   14. 5.1994 Northampton, St Peter          94/588
+ 302 Leigh Sinton           -  38   -  14   -  16   -  1258 -  18 12 c    1. 2.1995 Leigh Sinton, Lower House Farm 95/277
+ 303 Teasmade               -  38   -  14   -  16.  34.58   -  78 12 d   27. 8.1994 Cockermouth                    94/1074
+ 304 Drill Bit              -  38   -  14.  58.36.  14.58.  12.78 12 f    1.10.1993 Loughborough Bellfoundry       93/1270
+ 305 Chuck Key              -  58   -  14.  58.36   -  58   -  18 12 e   25. 8.1993 Loughborough Bellfoundry       93/1051
+ 306 Howden                 -  58   -  14.  58.36   -  58   -  78 12 f    8. 4.1996 Howden                         96/442
+ 307 St Mary Magdalen       -  58   -  14.  58.36.  14.38   -  58 12 a   18.12.1994 Oxford, St Mary Magdalen       95/119
+ 308 Circular Saw           34 -    58.16   -  16   -  58.  16.78 12 a    3. 5.1994 Birmingham, St Martin          94/588 699
+ 309 Shifnal                56 -    56.18   -  18   -  18   -  18 12 a   17. 9.1960 Shifnal                        60/666
+
+Alliance Major methods (treble dodging in 3-4)
+
+ No. Name                   Notation                           hl le lh Tower bells Place    RW ref
+
+ 310 Banwell                -  18   -  12   -  38.  14.58.  16.78 12 b    1. 5.1976 Rayleigh 76/437
+
+Alliance Major methods (treble dodging in 4-5)
+
+ No. Name                   Notation                           hl le lh Tower bells Place                   RW ref
+
+ 311 Eskimo Blue Day        56.14   -  36.  18.36   -  58.  34.18 18 m   15. 4.1993 Basingstoke, St Michael 93/448
+
+Alliance Major methods (treble dodging in 7-8)
+
+ No. Name         Notation                hl le lh Tower bells Place      RW ref
+
+ 312 Reuben       - 18 - 18 - 18 -  34 -  78 12 b   29. 5.2000 Basford    00/599
+ 313 Huncoat      - 18 - 18 - 18.34 -  34.18 12 a   25. 1.1957 Accrington 57/83 96
+ 314 Stuart Gull  - 18 - 18 - 18.34 -  34.78 12 b   28. 7.2001 Clayworth  01/854
+
+Alliance Major methods (treble dodging in 1-2 and 3-4)
+
+ No. Name                   Notation                                   hl le lh Tower bells Place                       RW ref
+
+ 315 Farnworth              -  36   -  14   -  58   -  36   -  18   -  78 12 b    6. 8.1983 Farnworth-with-Kearsley     83/728
+ 316 Three Elms             -  38   -  14   -  1256 -  16   -  58   -  58 12 f   14. 4.1995 Burghill                    95/523
+ 317 Redditch               -  38   -  14   -  56   -  36   -  1458 -  58 12 f   24. 5.1986 Redditch                    86/590
+ 318 Wealdstone             -  38   -  14   -  58   -  16   -  18   -  78 12 b   26. 3.1976 Harrow Weald                76/331
+ 319 Hoghton                -  38   -  14   -  58   -  16   -  58.  14.38 12 e    5. 8.1983 Hoghton                     83/728
+ 320 Hallow                 -  56   -  14.  56 -    58.36.  14.58   -  18 18 m   18.10.1986 Hallow                      86/986
+ 321 Stretford              -  58   -  14   -  56   -  16   -  1458 -  58 12 f    2. 8.1983 Stretford                   83/728
+ 322 Cumberland             -  58   -  14   -  56   -  36   -  18   -  18 12 c   24. 8.1972 East Coker                  72/885
+ 323 Westhoughton           -  58   -  14   -  56   -  36   -  18   -  78 12 d    4. 8.1984 Westhoughton                84/942
+ 324 Zanussi                -  58   -  14.  58 -    12.38.  14.58.  14.58 18 l   29. 7.1987 Edgbaston                   87/753
+ 325 Horwich                -  58   -  14.  58 -    58.16   -  18   -  18 18 j    2. 8.1983 Horwich                     83/728
+ 326 Burton Latimer         -  58   -  14.  58 -    58.36.  12.58.  34.18 18 m    9.12.1997 Burton Latimer              98/136
+ 327 Daventry               -  58   -  14.  58 -    58.36.  14.58   -  18 18 m    3. 5.1975 Easton Neston               75/470
+ 328 Easton Neston          -  58   -  14.  58 -    58.36.  14.58   -  78 12 a   12. 4.1975 Easton Neston               75/470
+ 329 Harborne               -  58   -  1458 -  58   -  36.  14.58   -  18 18 m   28. 6.1987 Harborne                    87/668
+ 330 Newchurch              -  58   -  1458 -  58   -  38.  14.38.  16.38 18 m    6. 8.1983 Newchurch Kenyon            83/728
+ 331 Croston                -  58   -  16   -  12   -  18   -  58   -  58 12 d    3. 8.1983 Croston                     83/728
+ 332 Ormskirk               -  58   -  16   -  12   -  38.  14.58.  16.78 12 b   30. 7.1983 Ormskirk                    83/728
+ 333 Summer                 38 -    38.14   -  12   -  18   -  38   -  18 12 f   24. 7.1982 Netherton                   82/720
+ 334 Heywood                56 -    56.18   -  56   -  16   -  1458 -  58 12 f   18.12.1992 Heywood                     93/100
+ 335 Ashton-under-Lyne      58 -    58.14   -  58   -  36   -  1458 -  78 12 a    1. 8.1983 Ashton-under-Lyne, St Peter 83/728
+ 336 Walkden                58 -    58.14.  58 -    58.36.  14.58.  14.78 12 f    4. 8.1983 Walkden                     83/728
+
+Alliance Major methods (treble dodging in 1-2 and 5-6)
+
+ No. Name                   Notation                                   hl le lh Tower bells RW ref
+
+ 337 Missus Woo             -  38   -  14   -  18   -  12   -  18   -  78 12 b      Spliced 94/558
+
+Alliance Major methods (treble dodging in 1-2 and 7-8)
+
+ No. Name                   Notation                                   hl le lh Tower bells Place                          RW ref
+
+ 338 Northfield             -  36   -  1458 -  36   -  1458 -  36   -  18 12 a    5.11.1996 Shirley                        96/1225
+ 339 Bicentennial           -  36   -  1458 -  36   -  1458 -  36   -  78 12 b   11. 8.1988 Darling Point, New South Wales 76/736 88/1043
+ 340 Bushey                 -  36   -  18   -  36   -  18   -  36   -  78 12 b    3.10.1991 Bushey                         91/1086
+ 341 Godstone               -  56   -  16   -  36   -  38   -  34   -  78 12 f    9. 4.1994 Godstone                       94/512
+ 342 Thorner                -  56   -  16.  58.16   -  58.  14 -    14.78 12 a   22. 6.1996 Thorner                        96/732 97/500 575
+ 343 Solent                 -  58   -  14.  58.36   -  58   -  56   -  78 12 f   23. 2.1996 Brockenhurst                   96/302
+ 344 Ashurst                -  58   -  14.  58.36   -  58.  34 -    34.78 12 f   16. 6.1996 Brockenhurst                   96/738
+ 345 Bristol                -  58   -  14.  58.36.  14.58   -  14   -  18 18 k   26.10.1955 Loughborough Bellfoundry       55/722 736
+ 346 Bushmills              34 -    58.14   -  36.  12.58.  14 -    12.38 18 m    8. 7.1995 Todmorden, St Mary             95/840
+ 347 Dains                  56 -    56.18   -  18   -  18.  34 -    34.18 12 a    8.11.1894 Crawley 
+
+Alliance Major methods (treble dodging in 5-6 and 7-8)
+
+ No. Name                   Notation                                   hl le lh Tower bells Place      RW ref
+
+ 348 Perivale               -  14   -  38   -  14   -  38   -  14   -  38 12 b   12. 3.1955 Accrington 55/179,184
+
+Alliance Major methods (treble dodging in 1-2, 3-4 and 5-6)
+
+ No. Name                   Notation                                             hl le lh Tower bells Place                        RW ref
+
+ 349 Schofield              -  38   -  14   -  12   -  18   -  12   -  38   -    38 12 f   27.12.1976 Irchester                    77/53
+ 350 September              -  38   -  14   -  56   -  16   -  12   -  1458 -    58 12 f   23. 9.1994 Tring                        94/1071
+ 351 Uxbridge               -  38   -  14   -  56   -  16   -  34   -  1458 -    58 12 f   11.12.1997 Leicester, St Mary-de-Castro 98/88
+ 352 Cross Keys             -  38   -  14   -  58   -  16   -  12   -  3458.16.  78 12 b   21. 5.1999 Haselbech                    99/604
+ 353 June                   -  38   -  14   -  58   -  16   -  12   -  38.  14.  78 12 b    6. 6.1994 Harpenden                    94/710
+ 354 Petriburg              -  38   -  14   -  58   -  16   -  12   -  38.  1456.78 12 b   26. 1.1999 Burton Latimer               99/192
+ 355 Haselbech              -  38   -  1456 -  56   -  16   -  34   -  18   -    58 12 f   21. 8.1998 Haselbech                    98/922
+ 356 Abbeyfields            -  58   -  14.  58 -    58.16   -  14   -  38   -    58 18 h   23.12.1998 Meldreth                     99/96
+ 357 Ampton Bog             -  58   -  14.  58 -    58.16   -  14   -  38.  16.  78 12 a    6.11.1993 Westbury                     94/134
+ 358 Glamis                 -  58   -  14.  58 -    58.16   -  34   -  58   -    38 18 m    4. 8.1996 Shoreditch                   96/1031
+ 359 Anniversary            -  58   -  14.  58 -    58.36   -  14   -  58   -    78 12 a   16. 6.2001 Sevenoaks                    01/685
+ 360 Windsor                -  58   -  14.  58 -    58.36   -  34   -  1258 -    18 18 m   21.11.1997 Haselbech                    97/1277
+ 361 Upper Armley           -  58   -  14.  58 -    58.36.  14 -    14.58.  14.  78 12 a   19. 5.1990 Upper Armley                 90/610
+ 362 Hadrians Wall          -  58   -  14.  58 -    58.36.  14 -    34.58.  34.  18 18 m   27.10.1998 Allendale                    98/1161
+ 363 December               -  58   -  16   -  12   -  38.  14 -    14.38   -    78 12 b   17.12.1994 Essendon                     95/39
+ 364 De Castro              34 -    58.14   -  12   -  18   -  12   -  58.  16.  38 18 m   20. 7.2000 Leicester, St Mary-de-Castro 00/818
+ 365 Peterborough           34 -    58.14   -  12   -  38.  12 -    14.38.  16.  38 18 m    5. 1.1999 Burton Latimer               99/192
+ 366 August                 38 -    58.14   -  12   -  38   -  14   -  18   -    38 12 e   15. 8.1994 Bushey                       94/925
+ 367 Contraflow             56 -    56.18.  56 -    56.18.  34 -    34.18   -    18 12 a    9. 7.1988 Wetherby                     88/754
+
+Alliance Major methods (treble dodging in 1-2, 3-4 and 7-8)
+
+ No. Name                   Notation                                           hl le lh Tower bells Place                        RW ref
+
+ 368 Malaya                 -  38   -  14   -  1258 -  16   -  58   -  16   -  78 12 b    4.11.1979 Windsor, St John-the-Baptist 80/7
+ 369 Harrow Weald           -  38   -  14   -  58   -  16   -  18   -  14   -  18 12 a   31.10.1975 Harrow Weald                 75/1041
+ 370 Tiggrrr                -  38   -  14   -  58   -  16   -  18   -  34   -  78 12 b   12. 8.2001 York, St Laurence            01/952
+ 371 Boston                 -  58   -  14.  58 -    58.36   -  58   -  14   -  78 12 a   29.12.1991 Boston, Mass., Advent        92/134
+ 372 Valhalla               -  58   -  14.  58 -    58.36.  14.58.  34 -    34.18 18 m    8. 1.1994 Clitheroe                    94/160
+ 373 Romulan                34 -    58.14   -  12   -  38.  14.38   -  34.  56.38 18 m   26.10.1997 Saddleworth                  97/1199
+
+Alliance Major methods (treble dodging in 1-2, 4-5 and 7-8)
+
+ No. Name                   Notation                                           hl le lh Tower bells Place   RW ref
+
+ 374 Brunley                -  38   -  18.  56.18.  36.18   -  58.  14 -    14.78 12 d   17. 6.1994 Burnley 94/735
+ 375 Burnley                -  56   -  14   -  36.  18.36   -  58   -  34   -  18 18 m   16. 5.1997 Burnley 97/612
+ 376 Ightenhill             58.36   -  14.  56.38.  16.38.  14.58.  16 -    16.58 12 e   14.10.1994 Burnley 94/1192
+
+Alliance Major methods (treble dodging in 1-2, 5-6 and 7-8)
+
+ No. Name                   Notation                                           hl le lh       Tower bells Place          RW ref
+
+ 377 Newbury                -  56   -  14.  58.36.  14 -    34.58   -  34   -  18 18 m         18. 5.1989 East Ilsley    89/552
+ 378 Highclere              -  58   -  14.  58.36.  14 -    34.58   -  34   -  18 18 14273586  17. 3.1988 Highclere      88/419
+
+Alliance Major methods (treble dodging in 3-4, 5-6 and 7-8)
+
+ No. Name                   Notation                                           hl le lh Tower bells Place                Handbells  RW ref
+
+ 379 Normanton              -  18   -  12   -  18   -  12   -  18   -  12   -  18 18 m                                   12. 6.1983 83/605
+ 380 Morland                -  18   -  12   -  38   -  14   -  58   -  16   -  78 12 b   28.11.1972 Nottingham, St Peter            73/51
+
+Alliance Major methods (treble double dodging in 1-2 and single dodging in 3-4, 5-6 and 7-8)
+
+ No. Name                   Notation                                                      hl le lh Tower bells Place        RW ref
+
+ 381 Whetstone              -  38   -  56   -  14   -  56   -  18   -  12   -  18 -  34 - 78 12 b   23. 7.1976 Harrow Weald 76/842
+
+Alliance Major methods (treble dodging in 1-2, 3-4, 5-6 and double dodging in 7-8)
+
+ No. Name                   Notation                                                      hl le lh Tower bells Place                        RW ref
+
+ 382 Headstone              -  38   -  14   -  1256 -  16   -  34   -  18   -  16 -  34 - 58 12 b   28. 5.1976 Harrow Weald                 76/842
+ 383 Atlantic               -  38   -  14   -  1258 -  36   -  14   -  58   -  16 -  12 - 78 12 b    4. 7.1976 Windsor, St John-the-Baptist 76/696
+ 384 Centenarian            -  38   -  14   -  58   -  16   -  12   -  38   -  14 -  34 - 78 12 b      Spliced                              00/891
+ 385 Colston Bassett        -  38   -  14   -  58   -  16   -  12   -  38   -  14 -  56 - 78 12 b   20. 3.1993 Colston Bassett              93/425
+
+Alliance Major methods (treble triple dodging in 1-2 and single dodging in 3-4, 5-6 and 7-8)
+
+ No. Name                   Notation                                                             hl le lh Tower bells Place        RW ref
+
+ 386 Kenton                 56 -    56.38.  56 -    56.14   -  58   -  16   -  12 -  38 - 14   - 78 12 b   31.12.1976 Harrow Weald 77/99
+
+Alliance Major methods
+(treble's path 1 2 1  2 3  4  5  6  7  8 7  7)
+
+ No. Name        Notation                   hl le lh Tower bells Place             RW ref
+
+ 387 Bradman     - 58 - 14.58.36.14.58 - 14.78 12 f   30. 4.1997 Sydney, St Philip 97/537
+
+Alliance Major methods
+(treble's path 1 2 1  2 3  4 3  4 5  6 7    8 7  7)
+
+ No. Name        Notation                        hl le lh Tower bells Place      RW ref
+
+ 388 Hampshire   - 38 - 14 - 58 - 16 - 1238 - 14.78 12 b   16. 5.1991 Hungerford 90/1085 91/590
+
+Alliance Major methods
+                               (treble's path 1 2 1  2 3    4 5  6 5  6 7  8 7  7)
+
+ No. Name                                       Notation                        hl le lh Tower bells RW ref
+
+ 389 Kent County Association of Change Ringers  - 38 - 1458 - 16 - 12 - 38 - 14.78 12 b      Spliced 95/693
+
+Alliance Major methods
+       (treble's path 1 2 1  2 3  4  3    4  5  6  5  6  7  8 7  7)
+
+ No. Name               Notation                                 hl le lh Tower bells Place                 RW ref
+
+ 390 Semiquincentenary  - 38 - 14 -  1258 -  36 -  14 -  58 - 16.78 12 b   16.11.1997 Boston, Mass., Advent 97/1280
+ 391 Burnley Charter    - 58 - 14.58 -    58.36.14 -  14.58 - 14.78 12 a   11. 8.1994 Burnley               94/925
+
+Alliance Major methods
+           (treble's path 1 2  1  2  3  4  3  4  5  6  7  8  7  6  5  5)
+
+ No. Name                   Notation                                  hl le lh Tower bells Place             RW ref
+
+ 392 Spitalfields Festival  -  58 -  14.58 -  56.38 -  58 -  14.58 -  56 12 a    1. 6.1995 Spitalfields      95/713
+ 393 Spitalfields           -  58 -  14.58 -  58.36.14.58.36.12.58.14.56 18 h   25.10.1999 Spitalfields      99/1091
+ 394 Fazeley Junction       34 -  34.18 -  12 -  38.14.58.16 -  18 -  58 18 m    1. 3.1997 Kingsbury (Warks) 97/344
+
+Alliance Major methods
+           (treble's path 1 2 3    4 3  2  1  2 3    4 5  6 7    8 7  6  5  6 7    8 8)
+
+ No. Name                   Notation                                                 hl le lh Tower bells Place         RW ref
+
+ 395 Burnley Supreme        - 14   - 58.14.58 - 1458 - 36 - 1458 - 14.58.14 - 58   - 18 18 m   29. 8.1993 Burnley       93/976
+ 396 Easton Neston Supreme  - 1458 - 58.14.58 - 14   - 36 - 58   - 14.58.14 - 1458 - 18 18 m   30. 8.1975 Easton Neston 75/789
+
+Alliance Major methods
+(treble's path 1 2 1  2 3  4  5  4  3  4 5  6 5  4  5  6  7  8 7  8 8)
+
+ No. Name        Notation                                           hl le lh Tower bells Place   RW ref
+
+ 397 Kalymnos    - 58 - 14.56.38.16.58 - 36 - 14.38.16.34.58 - 14 - 18 18 m    5. 2.1995 Burnley 95/326
+
+Little Alliance Major methods (treble to 6ths dodging in 1-2 and 3-4)
+
+ No. Name                   Notation                           hl le lh Tower bells Place        RW ref
+
+ 398 Northrepps Little      -  56   -  14   -  56   -  38   -  16 18 k   11. 3.1939 Marsham      39/168
+ 399 Belfast Little         34 -    58.14   -  12   -  38.  14.36 18 m   20. 6.1997 Haselbech    97/732
+ 400 Checkendon Little      56 -    56.18.  56 -    56.18   -  16 18 h    4. 3.1939 East Dereham 39/167
+
+Little Alliance Major methods
+           (treble's path 1 2  1    2  3    4  5    6  5    5)
+
+ No. Name                   Notation                        hl le lh Tower bells Place      RW ref
+
+ 401 Deddington Little      -  58   -  16   -  38.  14 -    58 12 d   31. 3.1962 Deddington 62/242
+
+Little Alliance Major methods
+           (treble's path 1 2  1    2  3    4  3    4  5    6  5    5)
+
+ No. Name                   Notation                                hl le lh Tower bells Place   RW ref
+
+ 402 Heywood Little         -  56   -  14   -  56   -  38   -  34.  58 18 l   29.12.1992 Heywood 93/125

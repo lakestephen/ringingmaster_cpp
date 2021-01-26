@@ -1,0 +1,136 @@
+Copyright Central Council of Church Bell Ringers, September 2001
+Treble Bob Major methods
+
+ No. Name                   Notation                                               hl le lh       Tower bells Place                       Handbells  RW ref
+
+ 201 Oxford                 -    34   -    18 -  12 -  18 -  12 -  18 -    12   -  18 18 m         27.12.1718 St Dunstan-in-the-East, EC  30.10.1811 
+ 202 London                 -    34   -    18 -  12 -  18 -  12 -  18 -    16   -  18 12 13624857  28. 2.1814 Keighley                    19. 1.1986 86/161
+ 203 College Exercise       -    34   -    18 -  12 -  18 -  12 -  18 -    56   -  78 12 18457326  26.12.1760 Hackney, St John-at-Hackney  
+ 204 Cumberland Exercise    -    34   -    18 -  12 -  18 -  78 -  18 -    56   -  18 12 a         15. 5.1815 Keighley  
+ 205 Newbury                -    34   -    18 -  56 -  18 -  34 -  18 -    36   -  58 12 e         10. 4.1987 Thatcham                               87/430
+ 206 Kalamazoo              -    34   -    18 -  56 -  18 -  78 -  18 -    56   -  78 18 j                                                 8. 2.2001 01/247
+ 207 Dore                   -    34   -    18.56 -  56.18.34 -  34.18 -    56   -  78 12 15478263  27.12.1974 Dore                                   75/67
+ 208 Tideswell              -    34   -    18.56 -  56.18.34 -  34.18.56   -    56.18 12 14257386  21. 6.1997 Tideswell                              97/730
+ 209 Central Council        -    3456 -    18 -  12 -  18 -  12 -  18 -    12   -  18 18 m                                                 9. 3.1975 75/282
+ 210 John the Baptist       -    3456 -    18 -  56 -  18 -  34 -  18 -    3456 -  38 18 g          7.10.1985 Dore                                   85/957
+ 211 Halifax                -    36   -    18 -  12 -  18 -  12 -  18 -    12   -  18 18 15236847   1. 1.1866 Huddersfield  
+ 212 Violet                 -    38   -    18 -  12 -  18 -  12 -  18 -    12   -  18 14 18264735  16. 3.1865 Huddersfield                 8. 3.1987 87/315
+ 213 Ultraviolet            -    38   -    18 -  12 -  18 -  12 -  18 -    16   -  18 14 17682543   7. 4.1986 Staveley                               86/384
+ 214 Dronfield              -    38   -    18 -  58 -  18 -  14 -  18 -    16   -  18 18 13462857   6. 7.1974 Dronfield                              74/654
+ 215 Gentian                -    38   -    18.56 -  56.18 -  78 -  18.56   -    16.78 12 b         10.10.1989 Creswell                               89/1132
+ 216 Forget-me-Not          -    38   -    18.56 -  56.18 -  78 -  18.56   -    16.78 18 g          6. 8.1986 Creswell                               86/759
+ 217 Handsworth             -    38   -    18.56 -  56.18.34 -  34.18 -    16   -  18 18 j         25. 9.1976 Handsworth (Yorks)                     76/929
+ 218 Irwell                 -    56   -    18 -  12 -  18 -  12 -  18 -    12   -  18 18 m         20.12.1974 Salford, Sacred Trinity     16. 2.1986 75/80 86/224
+ 219 Queen Elizabeth        -    56   -    18 -  12 -  18 -  12 -  18 -    16   -  18 12 14258367                                         16.11.1986 86/1092
+ 220 Imperial III           -    56   -    18 -  56 -  18 -  34 -  18 -    34   -  78 12 15763284  17.11.1760 Norwich, St Giles  
+ 221 Xysys                  -    56   -    18 -  56 -  18 -  34 -  18 -    56   -  58 12 b          6.10.1986 Staveley                               86/961
+ 222 Totley                 -    56   -    18 -  56 -  18 -  34 -  18 -    56   -  58 18 g         15. 5.1976 Dore                                   76/520
+ 223 Amburn                 -    78   -    18 -  78 -  18 -  78 -  18 -    56   -  78 12 a         28. 5.1994 Dronfield                              94/656
+ 224 Kent                   34   -    34.  18 -  12 -  18 -  12 -  18 -    12   -  18 18 m          5. 6.1774 Leeds (Kent)                15. 3.1866 
+ 225 Tiffield               34   -    34.  18 -  12 -  18 -  12 -  18 -    12   -  78 12 18537426  10. 2.1973 Easton Neston                          73/209
+ 226 Rose of England        34   -    34.  18 -  12 -  18 -  12 -  18 -    16   -  18 12 f         12. 1.1857 Liversedge                   6. 1.1986 86/119
+ 227 Prince Albert          34   -    34.  18 -  12 -  18 -  12 -  18 -    16   -  18 18 l         15. 4.1859 Liversedge  
+ 228 Southend-on-Sea        34   -    34.  18 -  12 -  18 -  34 -  18 -    34   -  18 18 k         16. 5.1964 Thorpe Bay                             64/363
+ 229 Haselbech              34   -    34.  18 -  56 -  18.34 -  34.18.36.  14.  36.58 18 m         19. 6.1998 Haselbech                              98/699
+ 230 Ryecroft               34   -    34.  18.56 -  56.18.34 -  34.18.56   -    56.18 12 a         15. 2.1997 Dore                                   97/266
+ 231 Blue Nile              34   -    36.  18.56.12 -  18 -  12.34.18.36.  12.  56.18 18 m          2.11.1985 Willesden                              85/1040
+ 232 Noxious                34   -    56.  18.56.12 -  18.34.12 -  18.1236 -    12.18 18 g          2. 9.1985 Dore                                   85/893
+ 233 Martin                 3456 -    3456.18 -  12 -  18 -  12 -  18 -    12   -  18 18 m                                                17.12.1996 97/63
+ 234 Old Whittington        36   -    36.  18 -  58 -  18 -  34 -  18.36   -    36.78 12 a          7. 1.1978 Dronfield                              78/329
+ 235 Wonderful              38   -    34.  18 -  12 -  18 -  78 -  18.56   -    16.78 12 f          8. 7.1985 Dore                                   85/726
+ 236 Staveley               38   -    34.  18 -  12 -  18.34 -  34.18 -    16   -  18 12 a         11. 2.1978 Staveley                               78/328
+ 237 Youlgreave             38   -    34.  18 -  12 -  18.34 -  34.18 -    16   -  78 12 b         19. 7.1989 Creswell                               89/733
+ 238 Egregious              38   -    34.  18 -  12 -  18.34 -  34.18.34   -    34.18 12 c          2. 6.1986 Dore                                   86/587
+ 239 Zealous                38   -    38.  18 -  12 -  18 -  12 -  18 -    12   -  78 12 f          6. 1.1986 Staveley                               86/116
+ 240 Norton                 38   -    38.  18 -  12 -  18 -  12 -  18 -    56   -  78 12 f         26. 7.1997 Norton (Yorks)                         97/849
+ 241 Mosborough             38   -    38.  18 -  12 -  18 -  12 -  18.34.  12.  56.78 12 f          8.12.1979 Dronfield                              80/27
+ 242 Easton Neston          56   -    36.  18 -  12 -  18 -  34 -  18.36   -    12.38 18 m         18.12.1976 Easton Neston                          77/76
+ 243 Jupiter                56   -    36.  18 -  56 -  18 -  14 -  18.36   -    14.58 12 f         17. 4.1986 Hungerford                             86/427
+ 244 Hammersmith            56   -    36.  18 -  56 -  18 -  34 -  18.36   -    56.18 18 m          1. 7.1996 South Hackney                          96/883
+ 245 Windsor                56   -    56.  18 -  12 -  18 -  12 -  18 -    12   -  18 18 m         29. 9.1963 Bray (Berks)                20. 2.1982 63/700 82/238
+ 246 Hook Norton            56   -    56.  18 -  12 -  18 -  12 -  18 -    16   -  18 12 f         10. 6.1995 Hook Norton                            95/767
+ 247 Spitalfields Festival  56   -    56.  18 -  56 -  18 -  14 -  18.36.  12.  36.78 12 a         29. 5.1997 Spitalfields                           97/681
+ 248 Albion                 56   -    56.  18.56 -  56.18.34 -  34.18.34   -    34.18 12 a         27. 3.1808 Liversedge  
+ 249 Rivendell              56   -    56.  18.56 -  56.18.34 -  34.18.34   -    34.78 12 b         26. 9.1981 Chislehurst, Annunciation              81/928
+ 250 Heywood                56   -    56.  18.56 -  56.18.34 -  34.18.34   -    34.78 18 g         13. 1.1993 Heywood                                93/251
+ 251 Timothy                56.  34.  56.  18 -  12 -  18 -  12 -  18 -    12   -  18 18 m                                                28. 2.1982 82/238
+ 252 Bolsover               56.  38.  56.  18.56.12 -  18 -  12 -  18.34.  12.  56.18 18 m          8. 7.1978 Dronfield                              78/712
+ 253 Chesterfield           56.  38.  56.  18.56.12 -  18 -  12 -  18.34.  12.  56.78 12 f         28. 4.1979 Dronfield                              79/475
+ 254 Burnley                58.  34   -    18 -  58 -  18 -  12 -  18.56   -    16.78 12 c         13.10.1996 Burnley                                96/1150
+ 255 Gormless               78   -    78.  18 -  12 -  18 -  12 -  18 -    12   -  18 18 m                                                26.11.1999 99/1191
+
+Little Treble Bob Major methods (treble to 2nds)
+
+ No. Name             Notation hl le lh Handbells
+
+ 256 Gonville Little  34 -  34.12 18 m    Spliced
+
+Little Treble Bob Major methods (treble to 4ths)
+
+ No. Name           Notation           hl le lh Tower bells Place
+
+ 257 Albion Little  56 - 56.18.56 - 56.14 12 e   24.10.1913 Pulford
+
+Little Treble Bob Major methods (treble to 6ths)
+
+ No. Name                     Notation                         hl le lh Tower bells Place   RW ref
+
+ 258 Shrinking Violet Little  -  38 -  18 -  12 -  18 -  12 -  16 18 m    7.11.1998 Dore    98/1182
+ 259 Heywood Little           56 -  56.18.56 -  56.18.34 -  34.16 18 h   21. 5.1993 Heywood 93/651
+
+Treble Bob Major methods (treble triple dodging)
+
+ No. Name      Notation                                                                                 hl le lh Tower bells Place
+
+ 260 Champion  56.34.56 - 56.34.56.18.56.12.56 - 56.12.56.18.34.12.34 - 34.12.34.18.56.34.56 - 56.34.56.78 12 b   20.12.1894 Brighton, St Peter
+
+Treble Bob Royal methods
+
+ No. Name         Notation                                                     hl le lh         Tower bells Place                     Handbells  RW ref
+
+ 261 Oxford       -  34 -  10 -  12 -  10 -    12 -    10 -  12 -  10 -  12 -  10 10 m            7. 4.1741 St Sepulchre, Holborn, EC  3.11.1811 
+ 262 Rotherham    -  34 -  10 -  12 -  10 -    12 -    10.34 -  34.10 -  18 -  10 12 1362485079  11. 5.1986 Rotherham, All Saints                86/539
+ 263 Violet       -  30 -  10 -  12 -  10 -    12 -    10 -  12 -  10 -  12 -  10 14 1826403957  29. 3.1987 Ranmoor                   28. 4.1985 85/481 87/384
+ 264 Berkeley     -  50 -  10 -  58 -  10 -    12 -    10 -  14 -  10.34 -  14.90 12 a           20.10.1984 Berkeley                             84/1044
+ 265 Kent         34 -  34.10 -  12 -  10 -    12 -    10 -  12 -  10 -  12 -  10 10 m            5. 1.1778 Leeds (Kent)              17. 1.1866 
+ 266 Nile         34 -  38.10.58.12 -  10.78.  12.34.  10.36.12 -  10.38.12 -  10 10 m           13.10.1984 Charminster                          84/1005
+ 267 Windsor      56 -  56.10 -  12 -  10 -    12 -    10 -  12 -  10 -  12 -  10 10 m                                                29.12.1992 93/130
+ 268 Albion       56 -  56.10.56 -  56.10.34   -  34.  10.34 -  34.10.34 -  34.10 12 a           15. 9.1980 Isleworth                            80/881
+ 269 Sowerbine    78 -  78.10 -  12 -  10 -    12 -    10 -  12 -  10 -  12 -  10 10 m                                                20. 4.1986 86/450
+ 270 Bockingford  78 -  78.10.78 -  78.10.3478 -  3478.10.34 -  34.10.34 -  34.10 12 a           10. 6.1980 Maidstone                            80/576 670 81/119
+
+Little Treble Bob Royal methods (treble to 4ths)
+
+ No. Name           Notation           hl le lh Tower bells Place
+
+ 271 Albion Little  56 - 56.10.56 - 56.14 12 e    7. 2.1914 Stockport, St George
+
+Treble Bob Maximus methods
+
+ No. Name           Notation                                                             hl le lh           Tower bells Place                 Handbells  RW ref
+
+ 272 Oxford         -  34 -  1T -  12 -  1T -  12 -  1T -  12 -  1T -  12 -  1T -  12 -  1T 1T m             12. 3.1758 Southwark Cathedral   24.11.1816 
+ 273 New Rotherham  -  34 -  1T -  12 -  1T -  12 -  1T.34 -  34.1T.34 -  34.1T -  10 -  1T 12 136248507T9E   5. 6.1988 Rotherham, All Saints            88/655
+ 274 Violet         -  3T -  1T -  12 -  1T -  12 -  1T -  12 -  1T -  12 -  1T -  12 -  1T 14 1826403T5E79                                   15. 3.1987 87/339
+ 275 Kent           34 -  34.1T -  12 -  1T -  12 -  1T -  12 -  1T -  12 -  1T -  12 -  1T 1T m              7. 4.1820 Birmingham, St Martin 28. 4.1889 
+ 276 White Nile     34 -  30.1T.50.12 -  1T.70.12.34.1T.36.12 -  1T.38.12 -  1T.38.12 -  1T 1T m              7. 4.1985 Reading                          85/417
+ 277 Albion         56 -  56.1T.56 -  56.1T.34 -  34.1T.34 -  34.1T.34 -  34.1T.34 -  34.1T 12 a                                              11. 1.1994 94/180
+
+Little Treble Bob Maximus methods (treble to 4ths)
+
+ No. Name           Notation           hl le lh Tower bells Place
+
+ 278 Albion Little  56 - 56.1T.56 - 56.14 12 e   11. 2.1933 Ipswich
+
+Treble Bob Fourteen methods
+
+ No. Name    Notation                                                             hl le lh Handbells  RW ref
+
+ 279 Oxford  -  34 -  1B - 12 - 1B - 12 - 1B - 12 - 1B - 12 - 1B - 12 - 1B - 12 - 1B 1B m  28. 4.1971 71/474
+ 280 Kent    34 -  34.1B - 12 - 1B - 12 - 1B - 12 - 1B - 12 - 1B - 12 - 1B - 12 - 1B 1B m  17. 4.1951 51/279
+
+Treble Bob Sixteen methods
+
+ No. Name  Notation                                                                      hl le lh Handbells  RW ref
+
+ 281 Kent  34 - 34.1D - 12 - 1D - 12 - 1D - 12 - 1D - 12 - 1D - 12 - 1D - 12 - 1D - 12 - 1D 1D m  25. 4.1969 69/611

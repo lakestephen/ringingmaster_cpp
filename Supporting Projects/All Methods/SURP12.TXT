@@ -1,0 +1,509 @@
+Copyright Central Council of Church Bell Ringers, September 2001
+Surprise Maximus methods
+
+ No. Name                      Notation                                                                                                       hl le lh           Tower bells Place                         Handbells  CCC  RW ref
+
+6329 Westminster               -    34 -  14   -    12   -    3T   -    12     -    3T   -    12     -    3T   -  12   -  3T   -    12   -    3T 12 a                                                      23. 1.1967  43D 67/173
+6330 Eves                      -    34 -  14   -    12   -    3T   -    12     -    5T   -    14     -    5T   -  14   -  5T   -    14   -    5T 12 f                Spliced                                               99/778
+6331 Norwich                   -    34 -  14   -    12   -    3T   -    34     -    3T   -    34     -    3T   -  34   -  3T   -    34   -    1T 1T m                                                      22.10.1990 C148 90/1228
+6332 Adventurers' Fen          -    34 -  14.  5T   -    5T.  16   -    14     -    3T.  16   -      16.  5T.  18 -    18.9T.  18   -    18.  9T 12 a                                                       2. 2.1992 E170 92/239
+6333 Knarr Fen                 -    34 -  14.  7T.  12   -    16   -    7T.    14.  58   -    14     -    70.  18 -    18.9T.  18   -    18.  ET 1T l                                                       9. 4.1993 F192 93/475
+6334 Laddus Fen                -    34 -  14.  7T.  12   -    16   -    7T.    14.  58   -    14     -    7T.  18 -    18.9T.  18   -    18.  9T 1T l             27.12.1993 Guildford Cathedral            4. 5.1993 F193 93/551 94/108
+6335 Trafalgar                 -    34 -  145T -    56   -    16   -    14     -    3T   -    16     -    5T   -  18   -  7T   -    10   -    9T 12 b             15. 8.1987 St Martin-in-the-Fields                  105G 70/599 608 87/791
+6336 Birmingham                -    36 -  14   -    12   -    3T   -    12     -    3T   -    14     -    3T   -  16   -  5T   -    18   -    ET 12 b             19.11.1959 Birmingham Cathedral                      690 59/734
+6337 Painswick                 -    36 -  14   -    5T   -    16   -    12     -    5T   -    16     -    5T   -  18   -  7T   -    10   -    ET 12 b             13.11.1971 Painswick                                106G 69/693 70/394 599 72/14
+6338 Lindum                    -    36 -  14   -    5T   -    16   -    14     -    3T   -    14     -    5T   -  14   -  5T   -    14   -    5T 12 f                Spliced                                          107G 70/697
+6339 Millennium                -    36 -  14   -    5T   -    38   -    147T   -    30   -    169T   -    50   -  18   -  9T   -    70   -    ET 12 b              1.12.1984 Christchurch                             146W 85/85 99/424
+6340 Yarmouth                  -    38 -  1458 -    9T   -    18   -    129T   -    10   -    90     -    7T   -  78   -  167T -    1690 -    1T 12 b              3. 4.1979 Shoreditch                               108G 69/972 70/394 599 79/433
+6341 Indiana                   -    38 -  147T -    1250 -    369T -    147T   -    38   -    169T   -    50   -  16   -  5T   -    18   -    7T 1T m             14.12.1974 Aston                                     75F 69/227 75/48
+6342 Quex                      -    38 -  147T -    1250 -    369T -    147T   -    58   -    169T   -    70   -  18   -  9T   -    10   -    ET 12 b             28. 2.1970 Birmingham Cathedral           1. 3.1978  61E 68/711 78/336
+6343 Kidderminster             -    38 -  147T -    50   -    169T -    7T     -    18   -    129T   -    30   -  14   -  5T   -    16   -    ET 12 b             11.12.1971 Aston                          7. 6.1978  62E 68/711 72/33 78/568
+6344 Elkington                 -    30 -  14   -    5T   -    36   -    1470   -    58   -    369T   -    30.  14.58.  14.7T.  14.  36.  14.  ET 12 b                Spliced                                          109G 70/599 608
+6345 New Southgate             -    30 -  14   -    5T   -    36   -    1470   -    58   -    369T   -    70   -  18   -  9T   -    30   -    1T 12 a             18. 5.1988 Shoreditch                               A128 88/547 553
+6346 Superlative               -    30 -  14   -    5T   -    36   -    1470   -    58   -    369T   -    70   -  18   -  9T   -    30   -    ET 12 b             30. 4.1927 Ipswich                       20.11.1974  691 74/1029
+6347 Harleston                 -    30 -  14   -    5T   -    36   -    1470   -    58   -    369T   -    70   -  18   -  9T   -    30   -    ET 1T g                Spliced                                           692 63/129
+6348 Ouse Fen                  -    30 -  14   -    7T   -    36   -    349T   -    58   -    14     -    3470 -  18   -  7T   -    18   -    ET 12 c1                                                     11. 8.1993 F194 93/882 940 1027
+6349 Grundisburgh              -    3T -  14   -    12   -    123T -    14     -    3T   -    16     -    5T   -  16   -  5T   -    16   -    5T 1T m             18. 4.1992 Grundisburgh                             E171 92/481
+6350 Cockpit                   -    3T -  14   -    12   -    16   -    12.    7T.  58.  14   -      9T.  70   -  12.  58.3T.  90.  14.  70.  9T 12 f                Spliced                                          J228 96/325
+6351 Conisbrough               -    3T -  14   -    12   -    36   -    12     -    3T   -    16     -    3T   -  16   -  3T   -    16   -    3T 12 f              5. 8.1980 Shoreditch                                63E 68/711 80/752
+6352 Warwickshire              -    3T -  14   -    12   -    3T   -    12     -    3T   -    14     -    5T   -  16   -  9T   -    10   -    ET 12 b             10. 4.1971 Manchester, Town Hall                    110G 69/693 70/394 599 71/574
+6353 Bourne                    -    3T -  14   -    12   -    3T   -    34     -    3T   -    34     -    3T   -  34   -  3T   -    34   -    3T 12 e                                                      19.11.1990 C149 90/1228
+6354 Surfleet                  -    3T -  14   -    12   -    3T.  14   -      12.  5T.  14   -      12.  5T.  14 -    12.5T.  14   -    12.  5T 12 d             27. 5.1987 Surfleet                                 112Z 87/647
+6355 York                      -    3T -  14   -    12   -    3T.  14   -      14.  3T.  14   -      14.  3T.  14 -    14.3T.  14   -    14.  3T 12 a             11. 2.1939 Ipswich                       13. 3.1962  693 62/212
+6356 New Durham                -    3T -  14   -    12   -    3T.  14   -      14.  3T.  14   -      14.  3T.  14 -    14.3T.  14   -    34.  1T 12 a             28. 1.1963 Leicester Cathedral            6. 1.1963  694 63/68 114
+6357 Feering                   -    3T -  14   -    12   -    3T.  14   -      14.  3T.  14   -      14.  3T.  14 -    14.3T.  14   -    34.  ET 12 b             14. 4.1973 Aston                                     44D 67/440 73/353
+6358 Phobos                    -    3T -  14   -    12.  5T.  16   -    34     -    5T   -    16     -    7T.  16 -    16.7T.  16   -    16.  7T 1T l                Spliced                                               99/1191
+6359 High Fen                  -    3T -  14   -    1256 -    16   -    12     -    125T -    16     -    147T -  36   -  7T   -    12   -    7T 12 d             11. 6.1994 Ashton-under-Lyne                        G193 94/711
+6360 Jubilee                   -    3T -  14   -    1256 -    36   -    14     -    125T -    14     -    5T   -  14   -  5T   -    14   -    5T 12 f             14. 6.1977 Shoreditch                    19.12.1977 118P 77/640 78/79
+6361 Flambard                  -    3T -  14   -    125T -    16   -    127T   -    18   -    9T     -    10   -  16   -  9T   -    50   -    ET 12 b              1.10.1994 Christchurch                             G194 94/1119
+6362 Turramurra                -    3T -  14   -    125T -    16   -    147T   -    38   -    169T   -    50   -  18   -  7T   -    90   -    ET 12 b             30. 3.1997 Sydney, St Mary's Cathedral              K184 97/398
+6363 Winchester                -    3T -  14   -    125T -    36   -    127T   -    38   -    149T   -    50   -  16   -  7T   -    10   -    ET 12 b             12. 8.1967 Winchester                    15. 1.1997  45D 67/662 97/220
+6364 Zemindar                  -    3T -  14   -    125T -    36   -    1470   -    38   -    149T   -    30   -  16   -  7T   -    50   -    ET 12 b             27. 3.1995 Leicester Cathedral                      H223 95/447
+6365 Utah                      -    3T -  14   -    125T -    36   -    147T   -    38   -    169T   -    50   -  16   -  5T   -    18   -    7T 1T m              8. 6.1974 Kidderminster                             76F 69/227 74/558
+6366 Cambridge                 -    3T -  14   -    125T -    36   -    147T   -    58   -    169T   -    70   -  18   -  9T   -    10   -    ET 12 b             15. 8.1908 Ipswich                       28. 9.1947  695 47/496
+6367 Primrose                  -    3T -  14   -    125T -    36   -    147T   -    58   -    169T   -    70   -  18   -  9T   -    10   -    ET 1T g                Spliced                                           696 63/129
+6368 Cynulliad Cenedlaethol Cymru
+                               -    3T -  14   -    125T -    36   -    147T   -    58   -    169T   -    70   -  18   -  9T   -    10.  34.  ET 12 b             26. 5.1999 Llandaff Cathedral                            99/603
+6369 Zelah                     -    3T -  14   -    125T -    36   -    347T   -    1458 -    569T   -    1670 -  78   -  189T -    10   -    ET 12 b             24. 5.1975 Aston                         12.10.1978 111G 70/599 608 75/510 78/964
+6370 Centurion                 -    3T -  14   -    125T -    36   -    7T     -    18   -    9T     -    10   -  18   -  9T   -    50   -    ET 12 b             21.12.1989 Reading                                  B104 90/127
+6371 Bellingdon                -    3T -  14   -    125T -    36.  12.  7T.    14.  58.  14.  9T.    36.  70.  16 -    58.9T.  18   -    70.  ET 12 b             28. 8.1989 Coventry Cathedral                       B105 89/864
+6372 Fingest                   -    3T -  14   -    125T -    36.  14.  7T.    14.  38   -    129T   -    1450.36 -    36.145T -    12   -    ET 12 b             15.12.1990 High Wycombe                             C150 91/58
+6373 Chigwell Row              -    3T -  14   -    56   -    1236 -    12     -    5T   -    14     -    5T   -  14   -  5T   -    14   -    5T 12 f                Spliced                                          K185 97/1147
+6374 Janeway                   -    3T -  14   -    56   -    1236 -    14     -    125T -    14     -    5T.  14 -    14.5T.  12   -    12.  5T 12 f             15. 2.1997 Rotherham                                K186 97/270
+6375 Lessness                  -    3T -  14   -    56   -    16   -    12     -    5T   -    14     -    5T   -  14   -  5T   -    14   -    5T 12 f             15. 3.1980 Nottingham, St Peter                     117S 80/318
+6376 Lufkin                    -    3T -  14   -    56   -    16   -    14     -    123T -    34     -    123T -  34   -  123T -    34   -    3T 1T m                Spliced                                               99/386 447
+6377 Stansted Mountfitchet     -    3T -  14   -    56   -    16   -    14     -    345T -    14     -    5T   -  14   -  5T   -    14   -    5T 12 f                Spliced                                          L154 98/554
+6378 Uxbridge                  -    3T -  14   -    56   -    16   -    34     -    5T   -    14     -    5T   -  14   -  5T   -    14   -    5T 12 f             11. 9.1976 Shoreditch                    19. 4.1978 112G 70/697 76/886 78/443
+6379 Quayhead                  -    3T -  14   -    56   -    16   -    34     -    5T   -    14     -    7T   -  16   -  7T   -    16   -    7T 12 d             31.12.1990 Bristol, St Stephen           29. 1.1997 C151 91/114 97/293
+6380 Ballymena                 -    3T -  14   -    56   -    16   -    34     -    5T.  36   -      16.  7T.  58 -    18.9T.  70   -    10.  9T 12 b              9. 4.1995 Ballymena                                H224 95/640
+6381 Hoxton                    -    3T -  14   -    56   -    36   -    12     -    145T -    56     -    567T -  36   -  167T -    12   -    7T 12 d              1. 9.1981 Shoreditch                                71T 82/155
+6382 Christchurch              -    3T -  14   -    5T   -    1236 -    127T   -    38   -    149T   -    50   -  16   -  7T   -    10   -    ET 12 b             11.11.1972 Christchurch                             113G 72/984
+6383 New Cambridge             -    3T -  14   -    5T   -    1236 -    147T   -    58   -    169T   -    70   -  18   -  9T   -    10   -    ET 12 b              8.12.1928 Ipswich                        1. 4.1962  697 62/292
+6384 Fulford                   -    3T -  14   -    5T   -    16   -    12     -    38   -    14     -    7T.  18 -    18.9T.  18   -    18.  9T 12 d2             5. 3.2001 Escrick                                       01/378
+6385 Wensleydale               -    3T -  14   -    5T   -    16   -    127T   -    18   -    12     -    3T   -  14   -  5T   -    16   -    ET 12 b             25. 3.1972 Solihull                                 114G 70/599 608 72/321
+6386 Fallingwells              -    3T -  14   -    5T   -    16   -    127T   -    18   -    349T   -    3450 -  16   -  127T -    18   -    ET 12 b              3. 3.2001 Moulton                                       01/350
+6387 Overhaulm                 -    3T -  14   -    5T   -    16   -    127T   -    18   -    9T     -    50   -  16   -  127T -    18   -    ET 12 b              5. 5.2001 Moulton                                       01/537
+6388 Hampstead                 -    3T -  14   -    5T   -    16   -    127T   -    38   -    129T   -    30   -  14   -  5T   -    18   -    ET 12 b              7. 2.1978 Shoreditch                               115G 70/697 78/248
+6389 Woodspring                -    3T -  14   -    5T   -    16   -    127T   -    38   -    14     -    50   -  16   -  9T   -    10   -    9T 12 b             11. 4.1981 Midsomer Norton                           72T 81/404
+6390 Worthington               -    3T -  14   -    5T   -    16   -    127T   -    38   -    1490   -    50   -  16   -  7T   -    18   -    7T 12 b             19.12.1987 Kettering                                113Z 88/109
+6391 Queenscliff               -    3T -  14   -    5T   -    16   -    127T   -    38   -    149T   -    50   -  16   -  3T.  14.  36.  18.  ET 12 b             29. 2.1988 Leicester Cathedral                      A119 88/302
+6392 Belgrave                  -    3T -  14   -    5T   -    16   -    127T   -    38   -    149T   -    50   -  16   -  7T   -    18   -    1T 12 a             16. 9.1947 Birmingham, St Martin                     698 47/470
+6393 Yorkshire                 -    3T -  14   -    5T   -    16   -    127T   -    38   -    149T   -    50   -  16   -  7T   -    18   -    ET 12 b             30.11.1929 Ipswich                       13. 2.1962  699 62/148
+6394 Woodstock                 -    3T -  14   -    5T   -    16   -    127T   -    38   -    149T   -    50   -  16   -  7T   -    18   -    ET 1T g             15. 6.1997 Shoreditch                                700 63/129 97/826
+6395 Wye                       -    3T -  14   -    5T   -    16   -    127T   -    38   -    149T   -    50   -  16   -  7T   -    18.  90.  ET 12 b             21. 7.1958 Leicester Cathedral                       701 58/506
+6396 Quedgeley                 -    3T -  14   -    5T   -    16   -    127T   -    38   -    149T   -    50   -  16   -  7T   -    1890 -    ET 12 b              1. 7.1990 Stockton-on-Tees                         C152 90/751
+6397 Biddenden                 -    3T -  14   -    5T   -    16   -    127T   -    38   -    149T   -    50   -  16   -  7T.  90.  18   -    ET 12 b             12.12.1998 Great Yarmouth                           L155 99/95
+6398 Braunstone                -    3T -  14   -    5T   -    16   -    127T   -    38   -    149T   -    50   -  16   -  7T.  90.  18.  90.  ET 12 b             27. 4.1997 Ossett                                   K187 97/610 98/275
+6399 Zyladecore                -    3T -  14   -    5T   -    16   -    127T   -    38   -    149T   -    50   -  1678 -  9T.  70.  16.  58.  ET 12 b             23. 1.1999 East Grinstead                                99/166
+6400 Radstock                  -    3T -  14   -    5T   -    16   -    129T   -    30   -    14     -    70   -  18   -  9T   -    10   -    9T 12 b              3.10.1992 Bristol, St Stephen                      E172 92/1084
+6401 Vaughan                   -    3T -  14   -    5T   -    16   -    1470   -    38   -    169T   -    50   -  16   -  9T   -    50   -    ET 12 b             22. 8.1994 Leicester Cathedral                      G195 94/951
+6402 Ewerby                    -    3T -  14   -    5T   -    16   -    147T   -    1258 -    369T   -    70   -  18   -  9T   -    10   -    ET 12 b              1. 1.1980 Lincoln Cathedral                        118S 80/69 120
+6403 Applegate                 -    3T -  14   -    5T   -    16   -    147T   -    38   -    169T   -    50   -  16   -  7T   -    58   -    ET 12 b             28. 2.1983 Leicester Cathedral                      616V 83/243
+6404 Lyddington                -    3T -  14   -    5T   -    16   -    147T   -    38   -    349T   -    30   -  16   -  5T   -    38   -    1T 12 f              7. 5.1960 Lincoln Cathedral             13. 1.1975  702 60/338 75/239
+6405 Lindsey                   -    3T -  14   -    5T   -    16   -    147T   -    58   -    369T   -    1270 -  18   -  9T   -    10   -    ET 12 b              3. 5.1949 Birmingham, St Martin                     703 
+6406 Ulley                     -    3T -  14   -    5T   -    16   -    347T   -    18   -    9T     -    70.  14 -    18.7T.  18   -    10.  ET 12 b              3. 9.2001 Escrick                                       01/954
+6407 XL                        -    3T -  14   -    5T   -    16   -    347T   -    58.  36.  9T.    14.  70.  58 -    16.9T.  70   -    18.  ET 12 b             13.10.1990 Birmingham Cathedral                     C153 90/1126
+6408 Filbert                   -    3T -  14   -    5T   -    16   -    70     -    18   -    149T   -    30   -  18   -  7T   -    78   -    ET 12 b             20. 5.1996 Leicester Cathedral                      J229 96/636
+6409 Gallowtree Gate           -    3T -  14   -    5T   -    16   -    70     -    18   -    9T     -    10   -  16   -  9T   -    50   -    ET 12 b             28.11.1983 Leicester Cathedral                      617V 83/1091
+6410 Epiphany                  -    3T -  14   -    5T   -    16   -    7T     -    18   -    129T   -    10   -  14   -  3T   -    12   -    ET 12 b              6. 1.1996 Amersham                                 J230 96/151
+6411 Quenby Hall               -    3T -  14   -    5T   -    16   -    7T     -    18   -    129T   -    10   -  14   -  3T   -    56   -    ET 12 b                                                       2. 2.1998 L156 98/213
+6412 Dychpitts                 -    3T -  14   -    5T   -    16   -    7T     -    18   -    129T   -    10   -  34   -  345T -    16   -    ET 12 b             20. 1.2001 Moulton                                       01/161
+6413 Albanian                  -    3T -  14   -    5T   -    16   -    7T     -    18   -    129T   -    30   -  14   -  5T   -    16   -    ET 12 b             14. 7.1949 Birmingham Cathedral           1. 8.1977  704 77/801
+6414 Frisebie                  -    3T -  14   -    5T   -    16   -    7T     -    18   -    129T   -    30   -  14   -  5T.  78.  16   -    ET 12 b             24. 2.1999 Lockington                                    99/290
+6415 Neutone                   -    3T -  14   -    5T   -    16   -    7T     -    18   -    129T   -    30   -  14   -  5T.  90.  16   -    ET 12 b              3.11.1999 Lockington                                    99/1140
+6416 Tickeyhole                -    3T -  14   -    5T   -    16   -    7T     -    18   -    129T   -    30   -  34   -  145T -    16   -    ET 12 b             14. 4.2001 Moulton                                       01/457
+6417 Upton                     -    3T -  14   -    5T   -    16   -    7T     -    18   -    129T   -    30.  14 -    14.3T.  14   -    14.  ET 12 b              2. 5.2000 Shoreditch                    13. 1.1997 K188 97/172 00/571
+6418 Northfield                -    3T -  14   -    5T   -    16   -    7T     -    18   -    14     -    7T   -  18   -  3T   -    14   -    ET 12 b             24. 2.1977 Birmingham Cathedral                     119P 77/317
+6419 Wheldrake                 -    3T -  14   -    5T   -    16   -    7T     -    18   -    149T   -    50   -  36   -  127T -    18   -    ET 12 b             10. 4.2000 Escrick                                       00/451
+6420 Timaru                    -    3T -  14   -    5T   -    16   -    7T     -    18   -    169T   -    50   -  18   -  7T.  36.  12.  36.  ET 12 b             27. 4.1964 Leicester Cathedral           30.11.1977  705 64/329 78/79
+6421 Damgate                   -    3T -  14   -    5T   -    16   -    7T     -    18   -    90     -    10   -  16   -  7T   -    58   -    7T 12 b             31. 1.1983 Leicester Cathedral            9. 2.1989 618V 83/163 89/213
+6422 Watford Springs           -    3T -  14   -    5T   -    16   -    7T     -    18   -    9T     -    1450 -  1236 -  7T   -    18   -    ET 12 b             18. 7.1992 Cornhill, London, EC                     E173 92/821
+6423 Southwark                 -    3T -  14   -    5T   -    16   -    7T     -    18   -    9T     -    10   -  12   -  3T   -    14   -    ET 12 b             27. 1.1962 Southwark Cathedral                       706 62/97
+6424 Menbeam                   -    3T -  14   -    5T   -    16   -    7T     -    18   -    9T     -    10   -  12   -  3T   -    14.  56.  ET 12 b             18.11.1998 Lockington                               L157 98/1242
+6425 Kintore                   -    3T -  14   -    5T   -    16   -    7T     -    18   -    9T     -    10   -  12   -  3T   -    14.  90.  ET 12 b             19. 5.1999 Lockington                                    99/554
+6426 Overie                    -    3T -  14   -    5T   -    16   -    7T     -    18   -    9T     -    10   -  12   -  3T   -    1456 -    ET 12 b              4.12.1996 Nottingham, St Peter                     J231 97/35
+6427 Clink                     -    3T -  14   -    5T   -    16   -    7T     -    18   -    9T     -    10   -  12   -  3T   -    1478 -    ET 12 b             11. 6.1997 Lockington                               K189 97/707
+6428 Hope                      -    3T -  14   -    5T   -    16   -    7T     -    18   -    9T     -    10   -  12   -  3T   -    1490 -    ET 12 b             20. 5.1998 Lockington                               L158 98/602
+6429 Jimspinks                 -    3T -  14   -    5T   -    16   -    7T     -    18   -    9T     -    10   -  12   -  3T   -    56.  14.  ET 12 b             10. 2.2001 Moulton                                       01/245
+6430 Matchedwell               -    3T -  14   -    5T   -    16   -    7T     -    18   -    9T     -    10   -  12   -  3T.  14   -    12.  ET 12 b             24. 2.2001 Moulton                                       01/298
+6431 MM                        -    3T -  14   -    5T   -    16   -    7T     -    18   -    9T     -    10   -  14   -  123T.56   -    36.  ET 12 b             12. 8.2000 Amersham                                      00/1041
+6432 Bishoprock                -    3T -  14   -    5T   -    16   -    7T     -    18   -    9T     -    10   -  14   -  125T.78.  36.  1278.ET 12 b             17. 9.1997 Nottingham, St Peter                     K190 97/1026
+6433 Vercellis                 -    3T -  14   -    5T   -    16   -    7T     -    18   -    9T     -    10   -  14   -  5T   -    36   -    ET 12 b             20. 9.1990 Reading                        7.12.1989 B106 90/158 1058
+6434 Dropnose                  -    3T -  14   -    5T   -    16   -    7T     -    18   -    9T     -    10   -  14   -  5T   -    3678 -    ET 12 b             18. 3.1998 Lockington                               L159 98/553
+6435 Xecellis                  -    3T -  14   -    5T   -    16   -    7T     -    18   -    9T     -    10   -  14   -  5T.  12.  36   -    ET 12 b             16. 2.2000 Lockington                                    00/277
+6436 Innisidgen                -    3T -  14   -    5T   -    16   -    7T     -    18   -    9T     -    10   -  14   -  5T.  78.  36   -    ET 12 b              7.10.1998 Lockington                               L160 98/1088
+6437 Jezebel                   -    3T -  14   -    5T   -    16   -    7T     -    18   -    9T     -    10   -  14   -  5T.  90.  36.  90.  ET 12 b             14. 4.1999 Lockington                                    99/482
+6438 Tregoze                   -    3T -  14   -    5T   -    16   -    7T     -    18   -    9T     -    10   -  16   -  127T -    58   -    ET 12 b             16. 7.1997 Nottingham, St Peter                     K191 97/827
+6439 Queensfield               -    3T -  14   -    5T   -    16   -    7T     -    18   -    9T     -    10   -  16   -  127T.90.  1258 -    ET 12 b              2.12.1998 Lockington                               L161 99/13
+6440 Zeitun                    -    3T -  14   -    5T   -    16   -    7T     -    18   -    9T     -    10   -  16   -  127T.90.  1258.90.  ET 12 b              8. 9.1999 Lockington                                    99/969
+6441 Merseyside                -    3T -  14   -    5T   -    16   -    7T     -    18   -    9T     -    10   -  16   -  147T -    1458 -    ET 12 b             28. 5.1988 Liverpool, St Nicholas        12. 4.1989 A130 88/600 89/463
+6442 Walcot                    -    3T -  14   -    5T   -    16   -    7T     -    18   -    9T     -    10   -  16   -  347T -    3458 -    ET 12 b             14. 2.1998 Peterborough Cathedral                   L162 98/286
+6443 Ramleaze                  -    3T -  14   -    5T   -    16   -    7T     -    18   -    9T     -    10   -  16   -  347T -    58   -    ET 12 b              5. 3.1997 Lockington                               K192 97/343
+6444 Pypard                    -    3T -  14   -    5T   -    16   -    7T     -    18   -    9T     -    10   -  16   -  347T.12.  3458.12.  ET 12 b             19.11.1997 Nottingham, St Peter                     K193 97/1276
+6445 Oklahoma                  -    3T -  14   -    5T   -    16   -    7T     -    18   -    9T     -    10   -  16   -  5T.  78   -    58.  ET 12 b             16. 6.1994 Reading                       12. 2.1997 G196 94/736 97/293
+6446 Eldean                    -    3T -  14   -    5T   -    16   -    7T     -    18   -    9T     -    10   -  16   -  7T   -    3458 -    ET 12 b             15. 7.1998 Lockington                               L163 98/799 1075
+6447 Swindon                   -    3T -  14   -    5T   -    16   -    7T     -    18   -    9T     -    10   -  16   -  7T   -    58   -    ET 12 b              8. 1.1977 Solihull                      10. 6.1987 116G 70/599 608 77/97 87/649
+6448 Elcombe                   -    3T -  14   -    5T   -    16   -    7T     -    18   -    9T     -    10   -  16   -  7T.  14.  58.  14.  ET 12 b              5. 3.1985 Shoreditch                               147W 84/1002 85/347
+6449 Sexaginta                 -    3T -  14   -    5T   -    16   -    7T     -    18   -    9T     -    10   -  18   -  129T.70   -    78.  ET 12 b             30. 9.1995 Birmingham, St Martin                    H225 95/1149
+6450 Tyneside                  -    3T -  14   -    5T   -    16   -    7T     -    18   -    9T     -    10   -  18   -  149T -    1470 -    ET 12 b             30. 6.1990 Newcastle-upon-Tyne Cathedral            C154 90/751
+6451 Stancil                   -    3T -  14   -    5T   -    16   -    7T     -    18   -    9T     -    10   -  18   -  9T   -    1270 -    ET 12 b              1. 3.1969 Leicester Cathedral                       77F 69/268
+6452 Medeshamstede             -    3T -  14   -    5T   -    16   -    7T     -    18   -    9T     -    10   -  18   -  9T   -    5670 -    ET 12 b             29. 9.1990 Peterborough Cathedral                   C155 90/1033
+6453 Lincolnshire              -    3T -  14   -    5T   -    16   -    7T     -    18   -    9T     -    10   -  18   -  9T   -    70   -    ET 12 b             18.12.1948 Walsall                       23.10.1974  707 74/1008
+6454 Countesthorpe             -    3T -  14   -    5T   -    16   -    7T     -    18   -    9T     -    10   -  18   -  9T   -    70   -    ET 1T g                Spliced                                          G197 95/193
+6455 Reach                     -    3T -  14   -    5T   -    16   -    7T     -    18   -    9T     -    10   -  18   -  9T.  14.  70.  14.  ET 12 b              5. 2.1994 Moulton                       11. 2.1990 C156 90/278 336 94/310
+6456 Dorking                   -    3T -  14   -    5T   -    16   -    7T     -    18   -    9T     -    10   -  78   -  7T   -    78   -    9T 12 c1             1. 1.1991 Shoreditch                               117G 69/972 70/394 599 91/193
+6457 Belvoir                   -    3T -  14   -    5T   -    16   -    7T     -    18   -    9T     -    30   -  18   -  7T   -    38   -    1T 12 f              3. 7.1950 Leicester Cathedral            5. 4.1989  708 50/434 89/463
+6458 Tantun                    -    3T -  14   -    5T   -    16   -    7T     -    18   -    9T     -    50   -  16   -  3T   -    14   -    ET 12 b             28. 5.1995 Taunton                       13.11.1996 H226 95/692 96/1285
+6459 Ulysses                   -    3T -  14   -    5T   -    16   -    7T     -    38   -    14     -    10   -  16   -  125T -    14   -    7T 12 b             19. 3.1994 Nottingham, St Peter                     G198 94/380 475
+6460 Chorleywood               -    3T -  14   -    5T   -    16   -    7T     -    38   -    149T   -    10   -  12   -  145T -    36   -    ET 12 b             18. 7.1987 Guildford Cathedral                      114Z 87/732
+6461 Mancroft                  -    3T -  14   -    5T   -    16   -    7T     -    38   -    149T   -    10   -  36   -  7T.  14.  58   -    ET 12 b             28.10.1990 Norwich, St Peter Mancroft               C157 90/1151
+6462 Guildhall                 -    3T -  14   -    5T   -    16   -    7T     -    38   -    90     -    30   -  16   -  9T   -    70   -    ET 12 c1            29.10.1990 Leicester Cathedral                      C158 90/1128
+6463 Rongeres                  -    3T -  14   -    5T   -    16   -    7T     -    38   -    9T     -    30   -  14   -  5T   -    18   -    ET 12 b             18. 6.2001 Escrick                                       01/687
+6464 Tewkesbury                -    3T -  14   -    5T   -    16   -    7T     -    38   -    9T     -    30   -  16   -  7T   -    70   -    7T 12 c1             1. 3.1983 Shoreditch                               619V 83/281
+6465 River Glen                -    3T -  14   -    5T   -    16   -    7T     -    58   -    169T   -    30   -  14   -  189T -    70   -    ET 12 b             31. 8.1988 Shoreditch                               A131 88/950
+6466 Humberside                -    3T -  14   -    5T   -    16   -    7T.    12.  38   -    149T   -    50   -  16   -  7T   -    18   -    ET 12 b              9. 6.1981 Lincoln                                   73T 81/629
+6467 Beangram                  -    3T -  14   -    5T   -    16   -    7T.    12.  38   -    149T   -    50   -  16   -  7T.  90.  18.  90.  ET 12 b              3. 3.1997 Melbourne (Derbys)                       K194 97/343
+6468 NUSCR                     -    3T -  14   -    5T   -    36   -    12347T -    58   -    14569T -    70   -  1678 -  189T -    10   -    ET 12 b             20. 2.2000 Nottingham, St Peter                          00/448
+6469 Wycombe                   -    3T -  14   -    5T   -    36   -    127T   -    58   -    149T   -    70   -  16   -  7T   -    10   -    7T 12 c1            23. 6.1962 High Wycombe                              709 62/513
+6470 Millstone                 -    3T -  14   -    5T   -    36   -    1470   -    18   -    129T   -    10   -  16   -  9T   -    50   -    ET 12 b             19. 5.1997 Leicester Cathedral                      K195 97/634
+6471 River Witham              -    3T -  14   -    5T   -    36   -    147T   -    18   -    129T   -    1450 -  36   -  127T -    18   -    ET 12 b             23. 5.1987 Rotherham, All Saints                    115Z 87/584
+6472 Delaware                  -    3T -  14   -    5T   -    36   -    147T   -    18   -    129T   -    10   -  16   -  7T   -    58   -    ET 12 b             28. 3.1992 Solihull                                 E174 92/457
+6473 Grandisson                -    3T -  14   -    5T   -    36   -    147T   -    18   -    129T   -    30   -  14   -  167T -    1258 -    ET 12 b             27. 4.1991 Exeter                                   D135 91/474
+6474 Tailor Paul               -    3T -  14   -    5T   -    36   -    147T   -    18   -    129T   -    30   -  14   -  189T -    1270 -    ET 12 b              7.12.1991 Norwich, St Peter Mancroft               D136 92/36
+6475 Ivanhoe                   -    3T -  14   -    5T   -    36   -    147T   -    18   -    129T   -    70   -  18   -  5T   -    16   -    ET 12 b             28. 4.1991 Midsomer Norton                          D137 91/472
+6476 Viaduct                   -    3T -  14   -    5T   -    36   -    147T   -    18.  36.  9T     -    10   -  14   -  7T   -    78   -    7T 12 d2               Spliced                                          E175 92/309
+6477 Combretonio               -    3T -  14   -    5T   -    36   -    147T   -    38.  14.  9T.    14.  30.  16 -    16.3T.  18   -    10.  3T 12 c              4. 6.1977 Ashton-under-Lyne                        120P 77/655
+6478 Aldenham                  -    3T -  14   -    5T   -    36   -    347T   -    58   -    169T   -    70   -  18   -  7T   -    10   -    ET 12 b             31.12.1949 Leicester Cathedral                       710 50/50
+6479 Worsley                   -    3T -  14   -    5T   -    36   -    7T     -    18   -    149T   -    30   -  14   -  3T   -    14   -    3T 1T m                Spliced                                          118G 69/693 70/394 599
+6480 UBSCR                     -    3T -  14   -    5T   -    36   -    7T     -    38   -    14     -    5T   -  16   -  9T   -    10   -    ET 12 b             23. 1.1993 Midsomer Norton                          F195 93/198 1084
+6481 Pontefract                -    3T -  14   -    5T   -    36   -    7T     -    38   -    149T   -    50   -  16   -  7T   -    10   -    ET 12 b              4. 7.1950 Birmingham, St Martin                     711 50/434
+6482 Kingwood                  -    3T -  14   -    5T   -    36.  12   -      14.  3T.  14   -      14.  5T.  14 -    14.5T.  14   -    14.  5T 12 d                Spliced                                          F196 93/401 740
+6483 Old Trout                 -    3T -  14   -    5T   -    36.  12   -      14.  3T.  14   -      14.  5T.  14 -    14.5T.  14   -    14.  5T 1T k1               Spliced                                          K196 97/171
+6484 Kingston Bagpuize         -    3T -  14   -    5T   -    36.  14.  7T     -    18   -    149T.  36.  50.  36.14.  58.369T.70.  18   -    ET 12 b             21. 9.1995 Reading                                  H227 95/1152 1287
+6485 Yuletide                  -    3T -  14   -    5T   -    36.  14.  7T     -    38.  14.  9T     -    70.  18 -    16.9T   -    50   -    7T 12 c1            21.12.1995 Reading                                  H228 96/124
+6486 Kelfield                  -    3T -  14   -    5T   -    36.  14.  7T     -    58.  16.  9T     -    70.  18 -    18.9T   -    70   -    ET 12 b             30. 4.2001 Escrick                                       01/783
+6487 Xhumo                     -    3T -  14   -    5T   -    36.  14.  7T.    14.  38.  14.  369T   -    1450 -  1236.58.149T.38.  70   -    ET 12 b             15. 6.1995 Reading                                  H229 95/791 1067
+6488 Jay                       -    3T -  14   -    5T   -    36.  14.  7T.    14.  58.  1236.9T.    14.  70.  38 -    16.9T.  30   -    78.  ET 12 b             15. 9.1994 Reading                                  G199 94/1071
+6489 Southwell                 -    3T -  14   -    5T.  12.  36   -    147T   -    58   -    169T   -    70   -  18   -  9T   -    10   -    ET 12 b             22. 5.1954 Halifax                                   712 54/370
+6490 Midsomer Norton           -    3T -  14   -    7T   -    18   -    129T   -    50   -    16     -    70   -  18   -  9T   -    10   -    9T 12 b             22. 8.1984 Midsomer Norton                          148W 84/830
+6491 Bedford                   -    3T -  14.  56   -    56.  3T   -    14     -    3T   -    16     -    5T   -  16   -  5T   -    16   -    5T 1T m             23. 5.1949 Leicester Cathedral                       713 
+6492 Devon                     -    3T -  14.  5T   -    12.  36   -    14     -    3T.  14   -      14.  5T.  14 -    14.5T.  14   -    14.  5T 12 a              6. 1.1987 Shoreditch                               116Z 87/174
+6493 Via Gellia                -    3T -  145T -    12.  5T.  16   -    34     -    145T -    16     -    5T   -  16   -  5T   -    16   -    5T 12 b             21.11.1993 Sheffield Cathedral                      F197 93/1241 94/95
+6494 Ickleton                  -    3T -  16   -    56   -    36   -    34     -    3T   -    16     -    3T   -  16   -  3T   -    16   -    3T 12 f                Spliced                                          K197 97/1147
+6495 Blackley                  -    3T -  16   -    56   -    3T   -    14     -    3T   -    14     -    145T -  36   -  145T -    36   -    ET 12 b                Spliced                                          119G 70/599 608
+6496 Langley                   -    3T -  16   -    56   -    3T   -    14     -    3T   -    14     -    5T   -  16   -  7T   -    18   -    ET 12 b             25. 1.1954 Leicester Cathedral           19. 1.1975  714 54/82 75/239
+6497 Buckfast                  -    3T -  16   -    56   -    3T   -    14     -    5T   -    16     -    7T   -  18   -  9T   -    30   -    1T 12 a                Spliced                                          120G 70/599 608
+6498 Hurdsfield                -    3T -  18   -    12   -    38   -    14     -    5T   -    16     -    7T   -  16   -  7T   -    34   -    ET 12 e                Spliced                                           78F 
+6499 November                  -    56 -  14   -    56   -    123T -    34     -    3T   -    34     -    3T   -  34   -  3T.  14   -    12.  3T 1T m             18.11.1989 Newport, Isle of Wight                   B107 89/1132
+6500 Easton                    -    56 -  14   -    56   -    123T -    34     -    5T   -    16     -    7T   -  16   -  7T   -    12   -    7T 1T k1            12. 5.1991 Bristol, St Stephen                      D138 91/588
+6501 Cray                      -    56 -  14   -    56   -    36   -    34     -    58   -    34     -    70   -  34   -  9T   -    34   -    1T 12 e                Spliced                                          121G 70/697
+6502 Enfield                   -    56 -  14   -    56   -    3T   -    12     -    3T   -    14     -    5T   -  16   -  7T   -    18   -    ET 1T j             24. 1.1998 Shoreditch                               K198 97/1147 98/185
+6503 Cornwall                  -    56 -  14   -    56   -    3T   -    14     -    5T   -    14     -    5T   -  14   -  5T   -    14   -    5T 1T l              4. 9.1979 Shoreditch                               122G 70/599 608 79/867
+6504 Nightlayers Fen           -    56 -  14   -    56.  7T.  36   -    7T.    14.  58   -    14     -    7T.  18 -    18.9T.  18   -    18.  9T 1T l                                                      20. 7.1993 F198 93/882 940
+6505 Double Dublin             -    56 -  14   -    78   -    36.  14.  90.    34.  58.  90.  34.    9T.  70   -  56   -  9T   -    78   -    1T 1T m                Spliced                                          123G 69/972 70/394 599
+6506 Clifton                   -    56 -  14   -    78   -    36.  14.  9T.    14.  58.  9T.  14.    9T.  70   -  56   -  9T   -    78   -    1T 1T m             22. 1.1970 Birmingham Cathedral                      79F 69/972 1018 70/394
+6507 Redland                   -    56 -  14   -    7T   -    36.  7T.  34.    7T.  30.  16.  90.    16.  70   -  16   -  9T   -    78   -    1T 1T m             30.11.1996 Solihull                                 J232 97/124 232
+6508 Upwell Fen                -    56 -  14.  56   -    12.  3T   -    34     -    5T   -    16     -    7T   -  16   -  7T   -    12   -    7T 1T k1            18.12.1997 Reading                       27. 9.1994 G200 94/1121 98/107
+6509 Uppington                 -    56 -  14.  56   -    5T.  36.  14   -      7T.  58.  16   -      9T.  70.  18 -    78.9T   -    78   -    1T 1T j                Spliced                                               01/85
+6510 Virginia                  -    56 -  145T -    56   -    36   -    14     -    3T   -    14     -    3T   -  14   -  3T   -    14   -    3T 12 167329E4T508  17.11.1981 Shoreditch                                    81/1080
+6511 Jakarta                   -    50 -  14.  50   -    5T.  36.  14   -      7T.  58.  16   -      9T.  70.  18 -    38.9T   -    38   -    1T 1T j             25. 9.1995 Leicester Cathedral                      H230 95/1104
+6512 Juquila                   -    50 -  16   -    7T   -    18   -    9T     -    30   -    14     -    5T   -  16   -  5T   -    12   -    ET 12 b              3. 2.1996 St Sepulchre, Holborn, EC                J233 96/251
+6513 Trowbridge                -    5T -  14   -    12   -    3T   -    12     -    3T   -    14     -    5T   -  16   -  7T   -    10   -    9T 12 b             25.11.1972 Walsall                                  124G 70/599 608 73/10
+6514 Westland                  -    5T -  14   -    12.  5T.  16   -    14     -    5T.  14.  56.    14.  7T.  18 -    18.9T   -    38.  10.  3T 1T k2               Spliced                                          E176 92/309
+6515 Quethiock                 -    5T -  14   -    56   -    16   -    14     -    5T.  14   -      14.  5T.  14 -    14.5T.  14   -    14.  5T 12 f             15. 9.1987 Shoreditch                               117Z 87/954
+6516 Lutterworth               -    5T -  14   -    56   -    36   -    12     -    3T   -    14     -    5T   -  16   -  7T   -    18   -    ET 12 c1             2.10.1979 Shoreditch                               125G 69/972 70/394 599 79/995
+6517 Sawley                    -    5T -  14   -    56   -    36   -    14     -    3T   -    14     -    3T   -  14   -  3T   -    14   -    3T 12 b             20.10.1981 Shoreditch                                74T 81/991
+6518 Ealing                    -    5T -  14   -    56   -    36   -    14     -    5T   -    14     -    5T   -  14   -  5T   -    14   -    5T 12 f             22. 3.1969 Leicester, St Margaret        10. 8.1977  80F 69/328 77/779
+6519 Hampshire                 -    5T -  14   -    56   -    36   -    78     -    58   -    90     -    7T.  14 -    14.9T   -    14   -    1T 1T m                Spliced                                          126G 69/972 70/394 599
+6520 Leatherhead               -    5T -  14   -    56   -    36.  14   -      14.  5T.  14   -      14.  5T.  14 -    14.5T.  14   -    14.  5T 12 f                Spliced                                           81F 69/875
+6521 Husqvarna                 -    5T -  14   -    5T.  78.  36.  14.  9T     -    58   -    16.    9T.  70   -  16.  78.9T   -    18   -    ET 12 d2             2. 5.1985 Shoreditch                               124X 85/480
+6522 Hirundai                  -    5T -  14.  56.  7T   -    36.  14.  7T     -    58   -    14.    9T.  70.  56.18   -  9T   -    18   -    ET 1T j2            27. 6.1985 Shoreditch                               125X 85/647
+6523 Stoughton                 -    5T -  14.  5T   -    12.  3T   -    14     -    5T   -    14     -    5T   -  14   -  5T   -    14   -    5T 12 f              1. 8.1995 Shoreditch                               149W 84/1002 95/957
+6524 Vriezenveen               -    5T -  14.  5T   -    12.  3T   -    34     -    5T   -    16     -    1670 -  78   -  9T   -    70   -    7T 1T k1                                                     27.10.1994 G201 94/1169
+6525 Whaplode Fen              -    5T -  14.  5T   -    12.  3T   -    34     -    5T   -    16     -    1670 -  78.  16.9T.  16.  70.  16.  7T 1T k1                                                     24.11.1994 G202 94/1245
+6526 Thorpe Tilney Fen         -    5T -  14.  5T   -    12.  3T   -    34     -    5T   -    16     -    7T   -  16   -  7T   -    12   -    7T 1T k1                                                     27. 7.1994 G203 94/810
+6527 Ariel                     -    5T -  14.  5T   -    12.  3T.  14   -      12.  5T.  14   -      369T.70.  18 -    18.9T.  18   -    18.  ET 1T k1             5. 9.1991 Birmingham Cathedral                     D139 91/973
+6528 Indesit                   -    5T -  14.  5T   -    12.  3T.  14   -      12.  5T.  16   -      16.  7T.  58 -    18.9T   -    18   -    9T 12 d2            14. 3.1985 Shoreditch                               126X 85/349
+6529 Zanussi                   -    5T -  14.  5T   -    12.  3T.  14   -      12.  5T.  16   -      16.  7T.  58 -    18.9T   -    18   -    9T 1T j2             9. 4.1981 Birmingham Cathedral          16. 3.1983  75T 81/473 83/389
+6530 Haggerston                -    5T -  14.  5T   -    12.  3T.  14   -      12.  5T.  16   -      169T.70.  58 -    18.9T.  18   -    18.  ET 12 d              4. 3.1980 Shoreditch                               119S 80/535
+6531 Strathmore                -    5T -  14.  5T   -    5T.  16   -    14     -    3T   -    14     -    145T -  14   -  5T   -    14   -    5T 1T h             25. 8.1990 St Martin-in-the-Fields                  C159 90/983
+6532 Essex                     -    5T -  14.  5T   -    5T.  16   -    14     -    3T.  14   -      14.  5T.  14 -    14.5T.  14   -    14.  5T 1T h              3. 4.1976 Leicester, St Margaret                   127G 70/599 608 76/417
+6533 Andromeda                 -    5T -  14.  5T   -    5T.  36   -    14.    7T.  18   -    16     -    5T.  18 -    18.3T.  18   -    18.  3T 1T m             17.10.1991 Birmingham Cathedral                     D140 91/1088
+6534 Downpatrick               -    5T -  14.  5T   -    5T.  36.  12   -      147T.58.  16   -      169T.70.  58 -    16.7T.  16.  70.  16.  ET 1T j1            17. 3.1991 Bedford                                  D141 91/568
+6535 Worcester                 -    5T -  14.  5T   -    5T.  36.  14   -      14.  5T   -    14     -    7T   -  78   -  7T   -    78   -    1T 1T m              5. 4.1988 Shoreditch                               128G 70/277 88/528
+6536 Vega                      -    5T -  14.  5T   -    5T.  36.  14   -      7T.  38.  16   -      169T.30.  14 -    14.389T.70.  18   -    9T 1T j2             2.10.1990 Shoreditch                               C160 90/1149
+6537 Xanthochroi Fen           -    5T -  14.  5T   -    5T.  36.  14   -      7T.  58   -    16.    9T.  1670 -  78   -  9T   -    70   -    9T 1T h                                                      19. 1.1995 H231 95/200
+6538 Zeyerveen Fen             -    5T -  14.  5T   -    5T.  36.  14   -      7T.  58   -    16.    9T.  1670 -  78.  16.9T   -    1670 -    9T 1T h                                                      30. 3.1995 H232 95/474
+6539 Young Man's Fen           -    5T -  14.  5T   -    5T.  36.  14   -      7T.  58   -    16.    9T.  1670 -  78.  16.9T.  16.  70.  16.  9T 1T h              3. 8.1999 Shoreditch                    28. 2.1995 H233 95/301 99/799
+6540 White Mounth              -    5T -  14.  5T   -    5T.  36.  14   -      7T.  58.  16   -      9T.  70   -  18   -  189T -    18   -    ET 1T j1                                                     14. 6.1995 H234 95/769 923
+6541 Weaverham                 -    5T -  14.  5T   -    5T.  36.  14   -      7T.  58.  16   -      9T.  70   -  18   -  9T.  18   -    18.  ET 12 c2             8. 2.1997 Worcester, All Saints                    K199 97/290
+6542 Bow Lane                  -    5T -  14.  5T   -    5T.  36.  14   -      7T.  58.  16   -      9T.  70.  18 -    16.7T.  16.  70.  16.  ET 1T j1            22. 9.1997 St Mary-le-Bow, London, EC               K200 97/1028
+6543 Horsleydown               -    5T -  14.  5T   -    5T.  36.  14   -      7T.  58.  16   -      9T.  70.  18 -    18.9T   -    18   -    1T 12 c1             4. 3.1986 Shoreditch                    14.10.1996  86U 82/574 86/499 96/1153
+6544 Bristol                   -    5T -  14.  5T   -    5T.  36.  14   -      7T.  58.  16   -      9T.  70.  18 -    18.9T   -    18   -    1T 1T j             22. 5.1950 Leicester Cathedral           29. 3.1972  715 50/338 72/323
+6545 Premiere                  -    5T -  14.  5T   -    5T.  36.  14   -      7T.  58.  16   -      9T.  70.  18 -    18.9T   -    18   -    ET 12 c2             1. 2.1983 Shoreditch                               620V 83/181
+6546 Parkway                   -    5T -  14.  5T   -    5T.  36.  14   -      7T.  58.  16   -      9T.  70.  18 -    18.9T   -    18   -    ET 1T j1             3. 2.1987 Shoreditch                               118Z 87/266
+6547 Mildmay                   -    5T -  14.  5T   -    5T.  36.  14   -      7T.  58.  16   -      9T.  70.  18 -    18.9T   -    38.  10.  3T 1T j2             4. 2.1997 Shoreditch                               K201 97/241
+6548 Dysart                    -    5T -  14.  5T   -    5T.  36.  14   -      7T.  58.  16   -      9T.  70.  18 -    18.9T   -    90   -    1T 1T j2            25.11.1991 Leicester Cathedral            8. 1.2001 D142 91/1228 01/117
+6549 Kingland                  -    5T -  14.  5T   -    5T.  36.  14   -      7T.  58.  16   -      9T.  70.  18 -    18.9T.  1670 -    70.  1T 1T k1             6. 5.1997 Shoreditch                               K202 97/705 98/275
+6550 Halifax                   -    5T -  14.  5T   -    5T.  36.  14.  9T.    14.  58.  9T.  14.    9T.  70.  18 -    18.9T   -    18   -    1T 12 b             23.11.1974 Birmingham Cathedral          13. 5.1981  46D 67/309 74/1028 81/694
+6551 Smallbrook                -    5T -  14.  5T   -    5T.  36.  14.  9T.    14.  58.  9T.  14.    9T.  70.  18 -    18.9T   -    18   -    1T 1T g             17.10.1974 Birmingham Cathedral                      44L 74/967
+6552 Wolverhampton             -    5T -  14.  5T   -    5T.  36.  14.  9T.    14.  58.  9T.  14.    9T.  70.  18 -    18.9T   -    18   -    ET 12 c             22. 4.1989 Bristol, St Stephen                      B108 89/460
+6553 Redcliffe                 -    5T -  14.  5T   -    5T.  38   -    3478   -    30   -    5690   -    50.  18 -    18.9T   -    18   -    1T 1T m             30.11.1975 Reading                                  129G 70/599 608 76/52
+6554 Thornige                  -    5T -  14.  5T   -    5T.  38   -    7T     -    30   -    16     -    50.  18 -    18.9T   -    18   -    1T 1T k              5. 2.1991 Shoreditch                               D143 91/372
+6555 Everest                   -    5T -  14.  5T   -    5T.  30.  14   -      1470.5T.  16   -      9T.  30.  18 -    14.3T.  50.  14.  90.  1T 1T m              2. 9.1990 Kingston-upon-Thames                     C161 90/1055
+6556 Euximoor Fen              -    5T -  14.  5T   -    7T.  36   -    7T     -    58   -    16     -    70.  16 -    18.9T   -    18   -    1T 1T k                                                      20.10.1992 E177 92/1181 93/112
+6557 Chatteris Fen             -    5T -  14.  5T   -    7T.  36   -    7T     -    5T   -    16     -    7T.  16 -    16.7T   -    16   -    7T 12 f             11. 9.1993 Amersham                      18. 6.1992 E178 92/701 93/1023
+6558 Digby Fen                 -    5T -  14.  5T   -    7T.  36   -    7T     -    5T.  16   -      16.  7T.  16 -    16.7T.  16   -    16.  7T 12 f                                                       1. 7.1992 E179 92/728
+6559 Joyce Fen                 -    5T -  14.  5T   -    7T.  36   -    7T.    14.  58   -    14     -    7T.  18 -    18.9T.  18   -    18.  9T 12 f                                                      26. 5.1993 F199 93/654
+6560 Mildenhall Fen            -    5T -  14.  5T   -    7T.  36   -    7T.    14.  58   -    14     -    7T.  18 -    18.9T.  18   -    18.  9T 1T l             29. 7.1993 Birmingham Cathedral          18. 5.1993 F200 93/607 93/903
+6561 Potterhanworth Fen        -    5T -  14.  5T   -    7T.  36.  14.  7T     -    58   -    14     -    147T -  14   -  9T.  58   -    58.  9T 1T l                                                      25.11.1993 F201 93/1271
+6562 Colston                   -    5T -  14.  5T.  12   -    3T.  14   -      12.  5T.  16   -      16.  7T.  58 -    18.9T   -    18   -    9T 1T j2               Spliced                                           80T 
+6563 The Hundred               -    5T -  14.  5T.  12.  5T.  36   -    14.    7T.  58   -    16.    9T.  70   -  18   -  9T   -    10   -    7T 1T k2            19.11.1987 Birmingham Cathedral                     119Z 87/1098
+6564 Isleham Fen               -    5T -  16   -    12   -    1236 -    14     -    5T   -    16     -    167T -  16   -  7T   -    12   -    7T 12 d             20. 4.1997 Shoreditch                    21. 1.1993 F202 93/228 97/585 610
+6565 Blankney Fen              -    5T -  16   -    12   -    1236 -    14     -    5T   -    16     -    167T -  16   -  7T   -    34   -    7T 12 d                                                      22. 6.1994 G204 94/715
+6566 Joist Fen                 -    5T -  16   -    12   -    1236 -    14     -    5T   -    16     -    7T.  16 -    16.7T.  16   -    16.  7T 12 d              2.11.1999 Shoreditch                    18. 3.1993 F203 93/725 99/1113
+6567 Hacconby Fen              -    5T -  16   -    12   -    1236 -    14     -    5T.  16   -      16.  7T.  16 -    16.7T.  16   -    16.  7T 12 d              1. 4.1997 Shoreditch                    14. 1.1993 F204 93/154 97/609
+6568 Jersey                    -    5T -  16   -    12   -    18   -    14     -    10   -    16     -    10   -  18   -  9T   -    70   -    9T 12 b                Spliced                                          130G 69/972 70/394 599
+6569 Wembley                   -    5T -  16   -    12   -    36   -    14     -    3T   -    16     -    3T   -  16   -  3T   -    16   -    3T 12 f             20.11.1969 Birmingham Cathedral          31. 8.1977  47D 67/760 69/1013 77/846
+6570 Trafford                  -    5T -  16   -    12   -    36   -    14     -    3T   -    16     -    3T   -  36   -  3T   -    36   -    3T 12 f                Spliced                                          131G 70/599 608 674
+6571 Stoodley                  -    5T -  16   -    12   -    36   -    14     -    5T   -    16     -    147T -  18   -  7T   -    18   -    7T 12 a                Spliced                                           48D 67/682
+6572 Rochester                 -    5T -  16   -    12   -    3T.  14   -      14.  3T   -    16     -    5T   -  16   -  5T   -    16   -    5T 1T m              3. 2.1934 Ipswich                       13.10.1977  716 77/979
+6573 Cotswold                  -    5T -  16   -    127T -    1238 -    149T   -    1450 -    36     -    167T -  58   -  189T -    70   -    ET 12 b                Spliced                                          132G 70/599 608
+6574 Evesham                   -    5T -  16   -    127T -    1238 -    149T   -    50   -    16     -    70   -  18   -  9T   -    10   -    9T 12 b              4.10.1969 Evesham                                   82F 69/895
+6575 Berkshire                 -    5T -  16   -    127T -    38   -    129T   -    50   -    14     -    70   -  16   -  9T   -    18   -    ET 12 c1            26.11.1983 Solihull                                 621V 84/9
+6576 Wigorniensis              -    5T -  16   -    127T -    38   -    149T   -    1450 -    36     -    70   -  18   -  9T   -    10   -    9T 12 b             13. 1.1990 Kidderminster                            C162 90/180
+6577 Worcestershire            -    5T -  16   -    127T -    38   -    149T   -    50   -    16     -    70   -  18   -  189T -    70   -    9T 12 b              4. 2.1987 Worcester, All Saints                    133G 69/693 70/394 599 87/269
+6578 Oxfordshire               -    5T -  16   -    127T -    38   -    149T   -    50   -    16     -    70   -  78   -  9T   -    18   -    ET 12 c1             8.12.1973 Aston                                    134G 69/972 70/394 599 74/33
+6579 Pudsey                    -    5T -  16   -    127T -    38   -    149T   -    50   -    16     -    7T   -  18   -  9T   -    10   -    ET 12 b             13. 9.1930 Ipswich                        6.11.1974  717 74/1008
+6580 Cheltenham                -    5T -  16   -    127T -    38   -    149T   -    50   -    16     -    7T   -  18   -  9T   -    10   -    ET 1T g                Spliced                                           718 63/129
+6581 Kilsby                    -    5T -  16   -    56   -    3T   -    34     -    3T   -    14     -    5T   -  16   -  7T   -    10   -    9T 12 b                Spliced                                          135G 70/599 608 674
+6582 Backnang                  -    5T -  16   -    5T   -    16   -    7T     -    18   -    129T   -    30   -  16   -  5T   -    90   -    ET 12 b             15.11.1998 Shoreditch                               L164 98/1240
+6583 Xenia                     -    5T -  16   -    5T   -    18   -    7T     -    10   -    9T     -    10   -  78   -  7T   -    70   -    1T 12 a             22. 3.1975 Birmingham Cathedral           4.10.1978 136G 70/599 608 75/302 78/964
+6584 Stoneygate                -    5T -  16   -    5T   -    36   -    14     -    3T   -    14     -    5T   -  16   -  5T   -    16   -    ET 12 b              8. 2.1954 Leicester Cathedral                       719 54/130
+6585 Verona                    -    5T -  16   -    5T   -    38   -    147T   -    50   -    169T   -    70   -  18   -  7T   -    12   -    ET 12 b             17.11.1973 Bristol, St Stephen           20. 9.1978  97K 73/982 79/163
+6586 Apsley                    -    5T -  16   -    5T   -    38   -    147T   -    50   -    169T   -    70   -  18   -  7T   -    78   -    ET 12 b             29.11.1975 Walsall                                  137G 69/693 70/394 599 75/1059
+6587 Prittlewell               -    5T -  16   -    7T   -    18   -    129T   -    30   -    14     -    5T   -  16   -  7T   -    18   -    ET 12 b             13.10.1949 Birmingham Cathedral                      720 
+6588 Walsall                   -    5T -  16   -    7T   -    18   -    129T   -    30   -    14     -    5T   -  16   -  7T   -    18   -    ET 1T g                Spliced                                           721 63/129
+6589 Framland                  -    5T -  16   -    7T   -    18   -    9T     -    10   -    12     -    3T   -  14   -  5T   -    16   -    1T 12 a              5. 4.1954 Leicester Cathedral                       722 54/258
+6590 Gartree                   -    5T -  16   -    7T   -    18   -    9T     -    10   -    12     -    3T   -  14   -  5T   -    16   -    ET 12 b              8. 3.1954 Leicester Cathedral           21. 9.1977  723 54/178 77/934
+6591 Shutford                  -    5T -  16   -    7T   -    18   -    9T     -    10   -    12     -    3T   -  14   -  5T.  16   -    16.  ET 12 b             12. 2.1994 Moulton                                  G205 94/311
+6592 Dodford                   -    5T -  16   -    7T   -    18   -    9T     -    10   -    12     -    3T.  14 -    14.3T.  14   -    14.  ET 12 b             17. 2.1973 Walsall                                  138G 69/972 70/394 599 73/209
+6593 Jedburgh                  -    5T -  16   -    7T   -    18   -    9T     -    10   -    90     -    10   -  78   -  7T   -    10   -    9T 12 b              7. 7.1973 Birmingham Cathedral                     139G 70/599 608 73/598
+6594 Old West River            -    5T -  16   -    7T   -    36.  7T.  14     -    5T   -    16     -    7T   -  16   -  7T   -    16   -    7T 12 d                Spliced                                          F205 93/401 436
+6595 Gedney Fen                -    5T -  16   -    7T   -    36.  7T.  14     -    5T.  16   -      16.  7T.  16 -    16.7T.  16   -    16.  7T 12 d             25.10.1993 Leicester Cathedral            5. 1.1993 F206 93/154 93/1143
+6596 Goldsborough              -    5T -  16   -    7T   -    38   -    149T   -    50   -    16     -    70   -  18   -  9T   -    10   -    9T 12 b             25. 5.1981 Bristol, St Stephen                       76T 81/579
+6597 Ponders End               -    78 -  14   -    78   -    3T   -    12     -    3T   -    14     -    5T   -  16   -  7T   -    18   -    ET 1T j                Spliced                                               99/778
+6598 Astbury                   -    7T -  14.  7T   -    7T.  36   -    7T     -    58   -    1690   -    70.  16 -    16.9T.  16.  70.  16.  ET 1T l             13. 2.1999 Worcester, All Saints                         99/291 447
+6599 Redfield                  -    7T -  147T -    56.  7T.  36.  7T.  34.    7T.  30.  16.  90.    16.  70.  16.78   -  169T -    16   -    1T 1T m                Spliced                                           724 63/297 560
+6600 Wexham                    -    7T -  18   -    125T -    36   -    14     -    5T   -    16     -    7T   -  18   -  9T   -    10   -    ET 12 b                Spliced                                          140G 70/599 608
+6601 Solihull                  -    7T -  18   -    129T -    30   -    14     -    5T   -    16     -    7T   -  18   -  9T   -    10   -    ET 12 b             23. 3.1950 Birmingham Cathedral                      725 50/210
+6602 Manitoba                  -    7T -  18   -    9T   -    10   -    12     -    3T   -    14     -    5T   -  16   -  7T   -    18   -    ET 12 b                Spliced                                           49D 67/309
+6603 Brigstow                  -    7T.56.147T -    56.  7T.  36.  7T   -      7T.  58.  16   -      16.  70.  16.78   -  169T.78.  16   -    1T 1T m             17. 9.1961 Ashton-under-Lyne                         726 61/654
+6604 Dr Butler                 -    90 -  10   -    5T   -    36   -    14     -    18   -    56     -    7T   -  56   -  3T   -    30   -    9T 12 b                Spliced                                          H235 95/1149
+6605 Uspenski                  -    9T -  14.  9T   -    5T.  36.  14   -      7T.  58.  16   -      9T.  70.  18 -    14.9T   -    14   -    1T 1T j             23. 5.1994 Leicester Cathedral                      G206 94/634 747
+6606 Saskatchewan              -    9T -  10   -    12   -    3T   -    14     -    5T   -    16     -    7T   -  18   -  9T   -    10   -    ET 12 b                Spliced                                           50D 67/440
+6607 Leominster                34   -  34.16   -    56   -    3T   -    14     -    3T   -    36     -    5T   -  36   -  5T   -    36   -    5T 1T m                Spliced                                          141G 70/599 608
+6608 Burwell Fen               34   -  3T.14   -    12   -    36.  14   -      14.  5T.  1236 -      16.  7T.  16 -    16.7T.  16   -    16.  7T 12 a             28. 3.1998 Macclesfield                  19. 3.1992 E180 92/434 98/358
+6609 Fleet                     34   -  3T.14   -    12   -    3T   -    12     -    3T   -    16     -    7T   -  16   -  7T   -    16   -    7T 12 f              4. 1.1983 Shoreditch                               622V 83/121
+6610 Quebec                    34   -  3T.14   -    12   -    3T   -    14     -    5T   -    56     -    5T   -  58   -  169T -    18   -    9T 12 d              3. 5.1983 Shoreditch                               623V 83/489 84/444
+6611 Chester                   34   -  3T.14   -    12   -    3T.  14   -      34.  5T.  14   -      34.  5T.  14 -    34.5T.  14   -    34.  5T 12 a              4. 4.1989 Shoreditch                               B109 89/549
+6612 Fleetville                34   -  3T.14   -    12.  7T.  36.  14   -      14.  58.  149T -      16.  70.  38 -    38.9T.  36.  58.  14.  ET 1T j1                                                     24. 5.1994 G207 94/659
+6613 Northumberland            34   -  3T.14.  56.  12.  5T.  36.  78.  14.    7T.  58.  90.  16.    9T.  70   -  18   -  9T   -    10   -    1T 12 d              2. 9.1986 Shoreditch                               137Y 86/1131
+6614 Carlisle                  34   -  3T.14.  56.  12.  5T.  36.  78.  14.    7T.  58.  90.  16.    9T.  70   -  18   -  9T   -    10   -    ET 12 d1             4.11.1986 Shoreditch                               138Y 86/1125
+6615 Cumbria                   34   -  3T.14.  56.  12.  5T.  36.  78.  14.    7T.  58.  90.  16.    9T.  70   -  18   -  9T   -    10   -    ET 1T k2             3.10.1989 Shoreditch                               B110 89/971
+6616 Eaton                     34   -  5T.14   -    12   -    3T   -    12     -    5T.  16   -      16.  7T.  16 -    16.9T   -    70   -    9T 1T l              3. 1.1995 Shoreditch                               H236 95/297
+6617 Starlock Hay Fen          34   -  5T.14   -    12   -    3T   -    34     -    10   -    90     -    10   -  18   -  189T -    18   -    ET 1T l                                                      10. 2.1994 G208 94/210
+6618 Belfast                   34   -  5T.14   -    12   -    3T.  12   -      14.  3T.  16   -      12.  3T.  16 -    12.3T.  16   -    12.  3T 1T m             26. 9.1970 High Wycombe                   7. 8.1978 142G 69/693 70/394 599 78/756
+6619 Waltham Abbey             34   -  5T.14   -    12   -    3T.  12.  9T.    14.  38.  169T -      12.  30.  18 -    12.3T.  10   -    12.  3T 1T m                Spliced                                          120S 80/1010
+6620 National Trust Centenary  34   -  5T.14   -    5T   -    3T   -    14     -    5T.  14   -      14.  5T.  14 -    14.5T.  14   -    14.  5T 12 f             18. 3.1995 Birmingham Cathedral                     H237 95/526
+6621 Selly Park                34   -  5T.14   -    5T   -    3T.  12   -      14.  3T.  16   -      14.  3T.  18.36.  18.9T.  18   -    18.  9T 1T j2            21. 4.1994 Birmingham Cathedral                     G209 94/588
+6622 Umbriel                   34   -  5T.14   -    5T   -    3T.  12   -      14.  5T.  14   -      369T.70.  18 -    18.9T.  18   -    18.  ET 1T k1             4. 6.1992 Birmingham Cathedral                     E181 92/773
+6623 Clerkenwell               34   -  5T.14   -    5T   -    3T.  14   -      14.  5T.  36   -      16.  7T.  58 -    18.9T.  70   -    10.  9T 12 b             25. 2.1978 Aston                                    143G 69/972 70/394 599 78/251
+6624 Mottram                   34   -  5T.14   -    5T   -    3T.  14   -      14.  5T.  36   -      16.  7T.  58 -    18.9T.  70   -    10.  9T 1T g             18.11.1971 Birmingham Cathedral                      55H 72/12
+6625 Counting House            34   -  5T.14   -    5T   -    3T.  14.  9T     -    58.  169T -      9T.  10   -  18   -  9T.  18   -    90.  1T 1T m             25. 7.2001 St Sepulchre, Holborn, EC                     01/827
+6626 Barking Creek             3458 -  38.10.  5678.12.  50.  38.  1490.7T.    14.  58.  16   -      12.  3T.  18 -    12.3T.  18   -    12.  3T 1T g                Spliced                                          E182 92/309
+6627 Dodleston                 36   -  56.14.  5T   -    5T.  16   -    12     -    3T   -    14     -    5T   -  14   -  5T   -    14   -    5T 12 c2             3. 9.1985 Shoreditch                               127X 85/914
+6628 Daresbury                 36   -  56.14.  5T   -    5T.  16   -    12.    7T.  38   -    14.    9T.  50   -  16   -  7T   -    18   -    9T 12 e             27. 3.1982 Aston                                     87U 82/340
+6629 Xique-Xique               36   -  56.14.  5T   -    5T.  16   -    12.    7T.  38   -    14.    9T.  50   -  16   -  7T   -    18   -    9T 1T k              7. 1.1997 Shoreditch                               150W 84/171 97/241
+6630 Tayside                   36   -  56.14.  5T   -    5T.  16   -    14     -    5T.  14.  56     -    7T.  18 -    18.7T   -    70.  18.  9T 1T k1               Spliced                                          E183 92/309
+6631 Preston                   36   -  56.14.  5T   -    5T.  16   -    34     -    58   -    12     -    70   -  12   -  9T   -    12   -    1T 12 b                Spliced                                          144G 70/599 608
+6632 Ribbleton                 36   -  56.14.  5T   -    5T.  16   -    34     -    58   -    1256   -    1470 -  14.  56.149T -    14   -    1T 12 b              3. 1.1984 Shoreditch                               145G 70/599 608 84/214
+6633 Huddersfield              36   -  56.14.  5T   -    5T.  36   -    14     -    3T.  16   -      16.  3T.  16 -    16.3T.  16   -    16.  3T 12 e             10. 1.1974 Birmingham Cathedral                      45L 74/118
+6634 Strathclyde               36   -  56.14.  5T   -    5T.  36   -    14     -    3T.  16   -      16.  3T.  16 -    16.3T.  16   -    16.  3T 1T k              4. 2.1971 Birmingham Cathedral          17. 7.1978 146G 69/972 70/394 599 71/240 78/756
+6635 Renfrew                   36   -  56.14.  5T   -    5T.  36   -    14     -    3T.  16   -      16.  3T.  16 -    16.3T.  16   -    36.  1T 1T k                Spliced                                          L165 98/554 763
+6636 Verulam                   36   -  56.14.  5T   -    5T.  36   -    14     -    58.  14   -      14.  70.  14 -    14.9T.  14   -    14.  3T 12 b                Spliced                                          147G 70/599 608
+6637 Clydeside                 36   -  56.14.  5T   -    5T.  36.  14   -      147T.58.  36   -      9T.  70.  18 -    18.9T   -    18   -    1T 1T j2            29. 9.1988 Birmingham Cathedral                     A132 88/1068
+6638 Deansgate                 36   -  56.14.  5T.  12.  5T.  36   -    14     -    5T   -    16     -    7T   -  18   -  9T   -    38   -    9T 12 a              4. 6.1977 Leicester, St Margaret        22. 2.1978  51D 67/440 77/573 78/253
+6639 Thurnby                   36   -  56.14.  5T.  12.  5T.  36.  14   -      7T.  58.  16   -      9T.  70.  18 -    18.9T.  78   -    70.  1T 1T k1            10. 2.1990 Worcester, All Saints                    C163 90/274
+6640 Alnilam                   36   -  7T.18   -    9T.  50.  36.  14   -      1270.3T   -    16.    9T.  70   -  16   -  9T.  70.  16.  70.  ET 1T l             20. 3.2000 Birmingham Cathedral                          00/350
+6641 Alnitak                   36   -  7T.18   -    9T.  50.  36.  14   -      1270.3T   -    16.    9T.  70.  16 -    18.9T   -    18   -    1T 1T k              4.12.2000 Birmingham Cathedral                          01/11
+6642 Mintaka                   36   -  7T.18   -    9T.  50.  36.  14   -      1270.3T   -    16.    9T.  70.  16 -    18.9T   -    18   -    ET 1T l             17. 1.2000 Birmingham Cathedral                          00/117
+6643 Rigel                     36   -  7T.18   -    9T.  50.  36.  14   -      1470.5T.  14.  36.    9T.  10.  58 -    16.7T.  16.  70.  16.  ET 1T l             13. 3.1984 Birmingham, St Martin         28. 3.1993 151W 84/301 93/426
+6644 Orion                     36   -  7T.18   -    9T.  50.  36.  14   -      1470.5T.  16   -      9T.  30.  18 -    14.3T.  50.  14   -    1T 1T m             25. 2.1982 Birmingham Cathedral          14. 7.1991  88U 82/257 91/745
+6645 Sirius                    36   -  7T.18   -    9T.  50.  36.  14   -      1470.5T.  36   -      9T.  10.  38 -    14.3T   -    14.  50.  1T 1T m             25. 1.1997 Moulton                                  K203 97/219 415
+6646 Narcissus                 36   -  7T.18   -    9T.  50.  36.  14   -      70.  123T -    16.    9T.  70.  16 -    18.9T   -    18   -    1T 1T k                Spliced                                          E184 92/309
+6647 Bellatrix                 36   -  7T.18   -    9T.  50.  36.  14   -      70.  145T.36   -      9T.  30.  18 -    18.9T   -    18   -    ET 1T l             17. 1.1991 Birmingham Cathedral                     D144 91/171
+6648 Betelgeuse                36   -  7T.18   -    9T.  50.  36.  14   -      70.  3T.  12   -      9T.  70.  18 -    18.9T.  18   -    18.  ET 1T l              9.11.1983 Birmingham, St Martin                    624V 83/1016
+6649 Saiph                     36   -  7T.18   -    9T.  50.  36.  14   -      70.  3T.  16   -      9T.  10.  58.14   -  9T.  18.  30.  18.  9T 1T k1             5. 3.2001 Birmingham Cathedral                          01/350
+6650 Lilbourne                 38   -  36.1478 -    12.  7T.  36.  14   -      14.  5T.  16   -      16.  7T.  14.58.  14.9T.  14   -    14.  9T 12 f                Spliced                                          148G 70/599 608
+6651 Adonis                    30.  7T -  10.  7T   -    50.  367T -    12     -    3T.  14.  36.    12.  5T.  18 -    18.9T.  18   -    18.  9T 1T h                Spliced                                          E185 92/309
+6652 Navarre                   3T   -  3T.14   -    12   -    16.  34.  7T     -    1458 -    149T   -    50   -  16   -  7T   -    18   -    ET 12 f              7.12.1999 Shoreditch                                    99/1257
+6653 Shropshire                3T   -  3T.14   -    12   -    36   -    12     -    58   -    12     -    70.  14 -    14.9T.  14   -    14.  3T 12 b                Spliced                                          149G 70/599 608
+6654 Newport                   3T   -  3T.14   -    12   -    3T   -    14     -    123T -    14     -    3T   -  14   -  3T   -    14   -    3T 12 d2             3. 2.1990 Newport, Isle of Wight                   C164 90/277
+6655 Upperby                   3T   -  3T.14   -    12   -    3T   -    14     -    3T   -    36     -    5T   -  14   -  9T.  58   -    58.  9T 12 f              2. 3.1996 Moulton                                  J234 96/493
+6656 Dreadnought               3T   -  3T.14   -    12   -    3T   -    14     -    3T.  16   -      16.  7T.  36.14   -  7T.  90   -    70.  9T 12 a              3.11.1991 Reading                                  D145 91/1137
+6657 Reading                   3T   -  3T.14   -    12   -    3T   -    14     -    58   -    16     -    3T   -  1478 -  347T -    78   -    3T 12 b              4. 4.1978 Shoreditch                                83F 69/227 78/420
+6658 Dubbo                     3T   -  3T.14   -    12   -    3T   -    14     -    5T   -    16     -    345T -  1678 -  123T -    1670 -    5T 12 b             19.12.1996 Reading                                  J235 97/120 255
+6659 Moorgate                  3T   -  3T.14   -    12   -    3T   -    14     -    5T   -    16     -    7T   -  1458 -  349T -    16   -    9T 12 f             22. 4.1972 Birmingham Cathedral                     150G 69/972 70/394 599 72/402
+6660 Oldham                    3T   -  3T.14   -    12   -    3T   -    14     -    5T   -    16     -    7T   -  16   -  7T   -    36   -    7T 12 a             27. 5.1983 Oldham                        12. 4.1978  52D 67/309 78/399 83/532
+6661 Prospect Row              3T   -  3T.14   -    12   -    3T   -    14     -    5T   -    36     -    70   -  18   -  9T   -    34   -    ET 12 f                                                       4. 4.1990 C165 90/441
+6662 Framingham Earl           3T   -  3T.14   -    12   -    3T   -    14     -    5T   -    36     -    70   -  18   -  9T   -    56   -    ET 12 f                                                       8. 3.1990 C166 90/441
+6663 Mellor                    3T   -  3T.14   -    12   -    3T   -    14     -    5T   -    36     -    7T   -  18   -  9T   -    56   -    9T 12 f              9.10.1976 Shoreditch                     5. 4.1978  84F 77/31 78/399
+6664 Rowarth                   3T   -  3T.14   -    12   -    3T   -    14     -    5T   -    36     -    7T   -  18   -  9T   -    78   -    9T 12 f             28. 8.2000 Escrick                                       00/988
+6665 Ashton                    3T   -  3T.14   -    12   -    3T   -    34     -    5T   -    16     -    70   -  36   -  7T   -    16   -    3T 12 b             27.12.1977 Ashton-under-Lyne                         53D 67/309 78/77
+6666 Ashover                   3T   -  3T.14   -    12   -    3T.  14   -      12.  5T.  14   -      16.  7T.  18 -    16.9T.  16   -    16.  9T 12 f             18.12.1988 Midsomer Norton                          A133 89/167
+6667 Bowcliffe                 3T   -  3T.14   -    12   -    3T.  14   -      12.  5T.  14   -      16.  7T.  18 -    18.9T   -    18   -    9T 12 f             16.11.1997 St Mary-le-Bow, London, EC               K204 98/10
+6668 St James'                 3T   -  3T.14   -    12   -    3T.  14   -      12.  5T.  14   -      169T.70.  18 -    18.9T.  18   -    18.  ET 12 a              8.12.1994 Birmingham Cathedral                     G210 95/40
+6669 Fenchurch                 3T   -  3T.14   -    12   -    3T.  14   -      14.  3T.  16   -      14.  3T.  18.36.  18.9T.  18   -    18.  9T 12 f              6. 1.1977 Birmingham Cathedral                     121P 77/165
+6670 Adams Park                3T   -  3T.14   -    12   -    3T.  14   -      14.  5T.  14   -      36.  7T.  16 -    16.9T   -    70.  16.  9T 12 a             18. 2.1995 High Wycombe                             H238 95/276 487
+6671 Embankment                3T   -  3T.14   -    12   -    3T.  14   -      14.  5T.  14   -      36.  7T.  18 -    16.9T.  16   -    16.  9T 12 f             26.10.1988 Shoreditch                               A134 88/1094
+6672 Bowyer                    3T   -  3T.14   -    12   -    3T.  14   -      14.  5T.  14   -      36.  7T.  18 -    18.9T   -    18   -    9T 12 f             27. 3.1996 Birmingham, St Martin                    J236 96/443
+6673 Jurassic Park             3T   -  3T.14   -    12   -    3T.  14   -      14.  5T.  14   -      369T.70.  18 -    18.9T.  18   -    18.  ET 12 a              4.11.1993 Birmingham Cathedral                     F207 93/1169
+6674 Illinois                  3T   -  3T.14   -    12   -    3T.  14   -      14.  5T.  16   -      16.  50.  16 -    18.9T.  18   -    18.  ET 12 f             13. 3.1976 Aston                          6. 9.1978  83N 76/309 78/871
+6675 Londinium                 3T   -  3T.14   -    12   -    3T.  14   -      14.  5T.  16   -      16.  5T.  16 -    18.9T.  18   -    18.  9T 12 f             12.12.1959 Ashton-under-Lyne             13.12.1971  727 59/766 72/39
+6676 Kingshurst                3T   -  3T.14   -    12   -    3T.  14   -      14.  5T.  16   -      16.  70.  14.58.  14.9T.  14   -    14.  ET 12 f             18. 1.1975 Leicester Cathedral           12. 7.1989  62M 75/133 89/714
+6677 Zambia                    3T   -  3T.14   -    12   -    3T.  14   -      14.  5T.  16   -      16.  70.  18 -    18.9T.  18   -    38.  ET 12 f             17. 6.1993 Reading                        7. 5.1997 F208 93/700 97/661
+6678 Lambeth                   3T   -  3T.14   -    12   -    3T.  14   -      14.  5T.  16   -      16.  70.  58 -    16.7T.  16.  70.  16.  ET 12 f             26. 8.1962 Ashton-under-Lyne                         728 62/617
+6679 Overcote                  3T   -  3T.14   -    12   -    3T.  14   -      14.  5T.  16   -      16.  70.  58 -    16.9T.  16   -    16.  ET 12 f             17. 9.1992 Reading                       16.11.1989 B111 90/13 92/1061
+6680 Newgate                   3T   -  3T.14   -    12   -    3T.  14   -      14.  5T.  16   -      16.  7T.  14.58.  14.9T.  14   -    14.  9T 12 f              5. 1.1967 Birmingham Cathedral          11. 8.1971  54D 67/88 71/919
+6681 West Hartlepool           3T   -  3T.14   -    12   -    3T.  14   -      14.  5T.  16   -      16.  7T.  18 -    16.9T.  16   -    12.  9T 12 f             26. 4.1982 Leicester Cathedral           18. 5.1989  89U 82/423 89/554
+6682 Eldon                     3T   -  3T.14   -    12   -    3T.  14   -      14.  5T.  16   -      16.  7T.  18 -    18.9T.  18   -    38.  9T 12 f              2. 2.1967 Birmingham Cathedral          22. 2.1989  55D 67/139 89/256
+6683 Monument                  3T   -  3T.14   -    12   -    3T.  14   -      14.  5T.  16   -      16.  7T.  36.18   -  145T.78.  50   -    7T 12 f             15. 6.1988 Shoreditch                               A135 88/681
+6684 Barford                   3T   -  3T.14   -    12   -    3T.  14   -      14.  5T.  16   -      16.  7T.  58 -    16.9T.  16   -    16.  9T 12 f             27.11.1969 Birmingham Cathedral          14. 2.1979  85F 70/15 119 79/266
+6685 Queenscliffe              3T   -  3T.14   -    12   -    3T.  14   -      14.  5T.  16   -      16.  7T.  58 -    18.9T   -    18   -    9T 12 f              8. 9.1981 Nottingham, St Peter           1. 3.1990  77T 81/870 971 90/350
+6686 Reach Fen                 3T   -  3T.14   -    12   -    3T.  14   -      14.  5T.  16   -      169T.70.  58 -    18.9T.  18   -    18.  ET 12 a                                                      24. 2.1994 G211 94/210 261 95/923
+6687 Quadring Fen              3T   -  3T.14   -    12   -    3T.  14   -      14.  5T.  16.  90.    16.  70.  58 -    18.9T.  18   -    18.  9T 12 a                                                      21.12.1993 F209 94/109 247
+6688 Metropolis                3T   -  3T.14   -    12.  5T.  36.  14   -      149T.58.  16   -      34.  7T.  18 -    34.9T.  10   -    10.  9T 12 f             26. 2.1953 Leicester Cathedral                       729 53/146 205
+6689 Beodericsworth            3T   -  3T.14   -    12.  7T.  36.  14   -      149T.58.  16   -      14.  7T.  18 -    18.3T.  18   -    18.  3T 12 f             12.11.1988 Ipswich                                  A136 88/1165
+6690 Cornhill                  3T   -  3T.14.  5T.  12.  5T.  36.  14   -      14.  3T.  56   -      16.  5T.  16 -    18.9T.  30   -    30.  9T 12 f              8. 1.1972 Reading                                   64J 72/102
+6691 Yahoo                     3T   -  3T.10   -    58.  70.  369T.70.  14     -    38.  16.  9T.    14.  50.  18 -    58.9T.  50.  36.  10.  9T 12 f                Spliced                                          152W 84/171
+6692 Folgate                   3T   -  56.14   -    56   -    3T   -    14     -    5T   -    14     -    5T   -  14   -  5T   -    14   -    5T 12 a             12. 7.1977 Shoreditch                    28. 6.1978 122P 77/700 78/634
+6693 Elmodesham                3T   -  5T.14   -    12   -    3T   -    14     -    145T -    14     -    145T -  14   -  145T -    14   -    5T 12 c             13.12.1986 Shoreditch                               139Y 87/60
+6694 Hughenden                 3T   -  5T.14   -    12   -    3T   -    14     -    5T.  14   -      14.  5T.  14 -    14.5T.  14   -    14.  5T 12 c              9. 3.1972 Birmingham Cathedral          11. 1.1978  65J 72/283 78/128
+6695 Amersham                  3T   -  5T.14   -    12   -    3T.  14   -      14.  5T.  14   -      14.  5T.  14 -    14.5T   -    14   -    5T 12 c              2.11.1985 Shoreditch                               128X 85/1019
+6696 Feltwell Fen              3T   -  5T.14   -    12   -    3T.  14.  78.    14.  58.  14.  56.    14.  7T.  14 -    16.7T.  16   -    16.  7T 12 c                                                      26.11.1992 E186 93/16
+6697 Nuro Fen                  3T   -  5T.14   -    5T   -    36.  12.  9T     -    58.  9T   -      9T.  70.  18 -    18.9T   -    18   -    1T 12 b                Spliced                                          G212 94/379
+6698 Wigston                   3T   -  5T.14   -    5T   -    3T   -    14     -    5T   -    14     -    5T   -  14   -  5T   -    14   -    5T 12 a             21.11.1949 Leicester Cathedral           11. 9.1995  730 49/590 50/48 95/1082
+6699 Buckingham                3T   -  5T.14   -    5T   -    3T.  12   -      14.  5T   -    14     -    5T   -  14   -  5T   -    14   -    5T 12 a             24. 3.1952 Leicester Cathedral                       731 52/226
+6700 Buckinghamshire           3T   -  5T.14   -    5T   -    3T.  12   -      14.  5T   -    14     -    5T.  14 -    14.5T.  14   -    14.  5T 12 a             26. 6.1952 Leicester Cathedral                       732 52/434
+6701 Leicestershire            3T   -  5T.14   -    5T   -    3T.  14   -      14.  5T.  14   -      14.  5T.  14 -    14.5T.  14   -    14.  5T 12 a              5.12.1949 Leicester Cathedral                       733 49/614
+6702 Goscote                   3T   -  70.14   -    70   -    3T   -    14     -    5T   -    14     -    5T   -  14   -  5T   -    14   -    5T 12 a             19. 8.1954 Leicester Cathedral                       734 54/562 768
+6703 Fulham                    56   -  56.14   -    5T   -    36.  14   -      14.  5T   -    14     -    3T   -  34   -  3T   -    34   -    1T 1T m             30. 5.1970 Leicester Cathedral                       86F 69/1018
+6704 Xavier                    56   -  56.14.  56   -    56.  3T   -    14     -    5T   -    14     -    5T   -  14   -  5T   -    14   -    5T 1T l             18.10.1983 Shoreditch                    18. 1.1990 625V 83/950 90/253
+6705 New Gloucester            56   -  56.14.  78   -    78.  36.  90.  12.    90.  58   -    349T   -    70   -  56   -  9T   -    78   -    1T 1T m                Spliced                                          151G 70/599 608
+6706 Aldebaran                 58.  9T.58.14.  9T.  58.  9T.  36.  14.  70.    14.  30.  9T.  36.    9T.  70.  14.58.  14.9T.  58.  14.  58.  1T 1T j             31. 1.1985 Birmingham Cathedral                     129X 85/261
+6707 Newport Pagnell           5T   -  34.16   -    12   -    36.  14   -      147T.58   -    14.    9T.  50.  16 -    16.5T   -    14.  30.  ET 12 c2               Spliced                                          D146 92/110
+6708 Dun Laoghaire             5T   -  36.14.  7T   -    58.  36.  9T.  14.    70.  58   -    16.    9T.  70   -  18   -  9T   -    90   -    ET 12 d1               Spliced                                          F210 93/401
+6709 Manchester                5T   -  5T.14   -    5T   -    36.  14   -      14.  58.  14   -      14.  70.  14 -    14.9T   -    14   -    ET 12 a                Spliced                                          152G 69/972 70/394 599
+6710 Dunsmore                  5T   -  5T.14   -    5T   -    36.  14.  9T.    14.  58.  9T.  14.    9T.  70.  18 -    18.9T   -    18   -    1T 12 b                Spliced                                          153G 70/599 608
+6711 London Pride              5T.  34 -  14   -    5T   -    3T.  14   -      14.  58.  9T.  14     -    7T.  16 -    16.9T.  16   -    1670.ET 12 d                Spliced                                          E187 92/1131
+6712 Tattersalls               5T.  34.5T.14   -    5T   -    3T.  14   -      14.  5T.  14   -      14.  5T.  14 -    14.5T.  14   -    14.  5T 12 a                                                      14. 6.1989 B112 89/618
+6713 Jam Pot                   5T.  36 -  16.  5T.  12   -    36   -    14     -    5T.  34   -      14.  5T.  14 -    14.5T.  14.  38   -    ET 12 f                Spliced                                          H239 95/1149 1163
+6714 Pennine                   78.  56.90.14.  78.  56.  90.  3T.  14.  7T.    90.  58.  90.  14.    9T.  70.  14.58.  14.5T.  14.  50.  14.  7T 12 f                Spliced                                           87F 69/227
+6715 Cirencester               70.  36 -  1450.78.  9T   -    16   -    129T   -    10   -    90     -    7T   -  78   -  167T -    1690 -    1T 12 b                Spliced                                          154G 69/972 70/394 599
+6716 Thamesdown                9T.  50 -  14.  50.  9T.  50.  36.  14.  90.    14.  58.  9T.  34.    9T.  70.  38.14.  38.9T   -    38.  14.  ET 12 c             22. 9.1974 Reading                                   46L 74/921
+6717 Thameslink                9T.  50 -  14.  70.  12.  5890.367T.14.  9T     -    3T   -    16.    9T.  10.  36 -    14.567T -    90   -    ET 12 c1               Spliced                                          E188 92/309
+
+Little Surprise Maximus methods (treble to 6ths)
+
+ No. Name                    Notation                               hl le lh Tower bells Place                 CCC  RW ref
+
+6718 Dowager Little          -  3T -  14   -  12.  5T.16 -  12   -  16 1T m      Spliced                       D147 92/110
+6719 Little Ashfield Little  -  3T -  14   -  5T   -  36 -  78   -  16 12 d1   1.11.1975 Manchester, Town Hall  63M 76/31 77/550
+6720 Lifford Lane Little     -  9T.58.1470.9T.1258.7T.36 -  147T -  16 12 a      Spliced                       G213 94/379 575
+6721 Glazgow Little          36 -  56.14.  5T -    5T.36 -  14   -  36 1T j      Spliced                       G214 94/310
+6722 Lincoln Little          3T -  3T.14   -  12   -  3T -  12   -  36 12 b   18.12.1982 Nottingham, St Peter   90U 83/102
+6723 Rempstone Little        3T -  3T.14.  7T -    58.36 -  14   -  36 12 d2     Spliced                       153W 84/1002
+
+Little Surprise Maximus methods (treble to 8ths)
+
+ No. Name                 Notation                                             hl le lh Tower bells Place                 Handbells  CCC  RW ref
+
+6724 Assheton Little      -  3T -  14 -  5T -  1236 -  147T -    3458 -  16 -  58 12 c2  20. 4.1981 Ashton-under-Lyne                 78T 81/427
+6725 Peterlord Little     -  5T -  14.5T -  5T.36   -  14   -    145T -  14 -  18 1T m    2. 1.1995 Manchester, Town Hall            H240 95/223
+6726 Guildford Little     -  5T -  14.5T -  5T.36   -  14   -    3T.  14.36 -  58 1T m   14. 5.1988 Guildford Cathedral              154W 84/1002 88/598
+6727 Littleport Little    -  5T -  14.5T -  5T.36.  14 -    14.  5T   -  14 -  18 1T m   12. 8.1969 Shoreditch            31. 1.1972  88F 69/694 72/163
+6728 Giltspur Little      34 -  3T.14 -  12 -  3T.  14 -    147T.58.  12 -  14.38 1T g      Spliced                                  H241 95/249
+6729 Huddersfield Little  36 -  56.14.5T -  5T.36   -  14   -    3T.  16 -  16.38 12 b    8. 6.1972 Birmingham Cathedral              66J 72/582
+6730 Glasgow Little       36 -  56.14.5T -  5T.36   -  14   -    3T.  16 -  16.38 1T g   15.10.1970 Birmingham Cathedral             155G 70/899
+
+Little Surprise Maximus methods (treble to 10ths)
+
+ No. Name              Notation                                                       hl le lh Tower bells Place                CCC  RW ref
+
+6731 Cambridge Little  -  3T -  14 -  125T -  36 -  1470 -  58 -  169T -  70 -  18 -  90 12 c1   7. 4.1996 Bristol, St Stephen  J237 96/490
+6732 Middlesex Little  -  5T -  14 -  5T   -  36.14 -    7T.58 -  16   -  7T -  16 -  10 1T k2   7. 7.1981 Shoreditch            79T 81/783
+6733 Bristol Little    -  5T -  14.5T -    5T.36.14 -    7T.58.16 -    16.7T -  16 -  10 1T g   26. 2.1976 Birmingham Cathedral  84N 76/331
+6734 Clyde Little      36 -  56.14.5T -    5T.36 -  14   -  3T.16 -    16.3T.16 -  16.30 1T m   12.11.1970 Birmingham Cathedral 156G 70/960
+6735 Farndon Little    3T -  3T.14 -  12   -  3T.14 -    12.5T.16 -    16.7T.18 -  18.30 12 e   11. 2.1995 Solihull             H242 95/297 1067
+
+Surprise Fourteen methods
+
+ No. Name            Notation                                                                                 hl le lh Tower bells Place                 Handbells  CCC  RW ref
+
+6736 York            -  3B -  14 -  12   -  3B.14 -    14.3B.14 -    14.3B.14 -    14.3B.14 -  14.3B.14 -  14.3B 12 a                                    13.10.1970 157G 70/1002 71/177
+6737 Cambridge       -  3B -  14 -  125B -  36 -  147B -  58 -  169B -  70 -  18EB -  9T -  10 -  EB -  1T -  AB 12 b   30.11.1993 Birmingham, St Martin 26. 5.1976  85N 76/602 94/12
+6738 St Swithun      -  3B -  14 -  56   -  16 -  14   -  5B -  14   -  5B -  14   -  5B -  12 -  5B -  14 -  5B 12 f      Spliced                                  L166 98/110 275
+6739 Vermuyden       -  3B -  14 -  56   -  36 -  14   -  5B -  14   -  5B -  14   -  5B -  14 -  5B -  14 -  5B 12 f      Spliced                                  F211 93/625
+6740 Yorkshire       -  3B -  14 -  5B   -  16 -  127B -  38 -  149B -  50 -  16EB -  7T -  18 -  9B -  10 -  AB 12 b    3. 5.1993 Winchester            14. 1.1991 158G 70/1002 71/177 91/198 93/522
+6741 Lincolnshire    -  3B -  14 -  5B   -  16 -  7B   -  18 -  9B   -  10 -  EB   -  1T -  10 -  EB -  9T -  AB 12 b                                    20. 1.1999      99/195
+6742 Tintwistle      -  5B -  14 -  56   -  16 -  14   -  5B -  14   -  5B -  14   -  5B -  14 -  5B -  14 -  5B 12 f      Spliced                                  F212 93/625
+6743 Leatherhead     -  5B -  14 -  56   -  36.14 -    14.5B.14 -    14.5B.14 -    14.5B.14 -  14.5B.14 -  14.5B 12 f      Spliced                                  159G 70/1002 71/177
+6744 Oberon          -  5B -  14.5B -    12.3B.14 -    12.5B.14 -    36.7B.18 -    18.9B -  18 -  EB.10 -  1T.AB 1B j   14.12.1993 Birmingham, St Martin            F213 94/84
+6745 Worcester       -  5B -  14.5B -    5B.36.14 -    14.5B -  14   -  7B -  78   -  7B -  78 -  7B -  78 -  1B 1B m      Spliced                                   56H 71/495
+6746 Bristol         -  5B -  14.5B -    5B.36.14 -    7B.58.16 -    9B.70.18 -    EB.9T.10 -  10.EB -  10 -  1B 1B j2  12. 4.1993 Winchester            14. 7.1982  90U 82/680 93/445
+6747 Pudsey          -  5B -  16 -  127B -  38 -  149B -  50 -  16EB -  7T -  18   -  9B -  10 -  EB -  1T -  AB 12 b    3. 1.2000 Winchester                            00/64
+6748 Newgate         3B -  3B.14 -  12   -  3B.14 -    14.5B.16 -    16.7B.14.58.  14.9B.14 -  14.9B.14 -  14.9B 12 f      Spliced                                  160G 70/1002 71/177
+6749 London No.3     3B -  3B.14 -  12   -  3B.14 -    14.5B.16 -    16.7B.14.58.  14.9B.14.58.14.9B.14.58.14.9B 12 f                                     9. 3.1994 G215 94/407
+6750 Leicestershire  3B -  5B.14 -  5B   -  3B.14 -    14.5B.14 -    14.5B.14 -    14.5B.14 -  14.5B.14 -  14.5B 12 a      Spliced                                  161G 70/1002 71/177
+6751 Fulham          56 -  56.14 -  5B   -  36.14 -    14.5B -  14   -  3B -  34   -  3B -  34 -  3B -  34 -  1B 1B m      Spliced                                  162G 70/1002 71/177
+
+Little Surprise Fourteen methods (treble to 8ths)
+
+ No. Name               Notation                               hl le lh Tower bells RW ref
+
+6752 Littleport Little  - 5B - 14.5B - 5B.36.14 - 14.5B - 14 - 18 1B m      Spliced 00/1215
+
+Little Surprise Fourteen methods (treble to 10ths)
+
+ No. Name            Notation                                          hl le lh Tower bells RW ref
+
+6753 Bristol Little  - 5B - 14.5B - 5B.36.14 - 7B.58.16 - 16.7B - 16 - 10 1B g      Spliced 00/1215
+
+Little Surprise Fourteen methods (treble to 12ths)
+
+ No. Name              Notation                                                     hl le lh Tower bells RW ref
+
+6754 Bristol12 Little  - 5B - 14.5B - 5B.36.14 - 7B.58.16 - 9B.70.18 - 18.9B - 18 - 1T 1B j      Spliced 00/1215
+
+Surprise Sixteen methods
+
+ No. Name            Notation                                                                                               hl le lh Tower bells Place                 Handbells  CCC  RW ref
+
+6755 York            -  3D -  14 -  12   -  3D.14 -    14.3D.14 -    14.3D.14 -    14.3D.14 -    14.3D.14 -  14.3D.14 -  14.3D 12 a      Spliced                                   57H 71/159
+6756 Feering         -  3D -  14 -  12   -  3D.14 -    14.3D.14 -    14.3D.14 -    14.3D.14 -    14.3D.14 -  14.3D.14 -  34.CD 12 b      Spliced                                  F214 93/496
+6757 Cambridge       -  3D -  14 -  125D -  36 -  147D -  58 -  169D -  70 -  18ED -  9T -  10AD -  EB -  1T -  AD -  1B -  CD 12 b   13. 6.2000 Birmingham, St Martin 14.11.1990 C167 90/1195 00/718
+6758 Yorkshire       -  3D -  14 -  5D   -  16 -  127D -  38 -  149D -  50 -  16ED -  7T -  18AD -  9B -  10 -  ED -  1T -  CD 12 b    1. 1.1996 Birmingham, St Martin            J238 96/151
+6759 Lincolnshire    -  3D -  14 -  5D   -  16 -  7D   -  18 -  9D   -  10 -  ED   -  1T -  AD   -  1B -  1T -  AD -  EB -  CD 12 b                                    12. 4.1991 D148 91/422
+6760 Sawley          -  5D -  14 -  56   -  36 -  14   -  3D -  14   -  3D -  14   -  3D -  14   -  3D -  14 -  3D -  14 -  3D 12 b      Spliced                                  H243 95/329
+6761 Ealing          -  5D -  14 -  56   -  36 -  14   -  5D -  14   -  5D -  14   -  5D -  14   -  5D -  14 -  5D -  14 -  5D 12 f      Spliced                                  F215 93/904
+6762 Leatherhead     -  5D -  14 -  56   -  36.14 -    14.5D.14 -    14.5D.14 -    14.5D.14 -    14.5D.14 -  14.5D.14 -  14.5D 12 f      Spliced                                   58H 71/159
+6763 Bristol         -  5D -  14.5D -    5D.36.14 -    7D.58.16 -    9D.70.18 -    ED.9T.10 -    AD.EB.1T -  1T.AD -  1T -  1D 1D j4  16.11.1993 Birmingham, St Martin 18. 3.1981  80T 81/347 456 93/1270
+6764 Wembley         -  5D -  16 -  12   -  36 -  14   -  3D -  16   -  3D -  16   -  3D -  16   -  3D -  16 -  3D -  16 -  3D 12 f      Spliced                                  H244 95/329
+6765 Londinium       3D -  3D.14 -  12   -  3D.14 -    14.5D.16 -    16.5D.16 -    18.9D.18 -    18.9D.18 -  18.9D.18 -  18.9D 12 f      Spliced                                   59H 71/159
+6766 Newgate         3D -  3D.14 -  12   -  3D.14 -    14.5D.16 -    16.7D.14.58.  14.9D.14 -    14.9D.14 -  14.9D.14 -  14.9D 12 f      Spliced                                   60H 71/159
+6767 Parkhurst       3D -  3D.14 -  12   -  3D.14 -    14.5D.16 -    16.7D.14.58.  14.9D.14.58.  14.9D.14.58.14.9D.14 -  14.9D 12 f      Spliced                                  H245 95/1309
+6768 Leicestershire  3D -  5D.14 -  5D   -  3D.14 -    14.5D.14 -    14.5D.14 -    14.5D.14 -    14.5D.14 -  14.5D.14 -  14.5D 12 a      Spliced                                   61H 71/159
+6769 Fulham          56 -  56.14 -  5D   -  36.14 -    14.5D -  14   -  3D -  34   -  3D -  34   -  3D -  34 -  3D -  34 -  1D 1D m      Spliced                                   62H 71/159
+
+Little Surprise Sixteen methods (treble to 8ths)
+
+ No. Name               Notation                               hl le lh Tower bells RW ref
+
+6770 Littleport Little  - 5D - 14.5D - 5D.36.14 - 14.5D - 14 - 18 1D m      Spliced 00/450
+
+Surprise Eighteen methods
+
+ No. Name     Notation                                                                                         hl le lh Handbells  CCC  RW ref
+
+6771 York     -  3G -  14 - 12 - 3G.14 - 14.3G.14 - 14.3G.14 -  14.3G.14 - 14.3G.14 - 14.3G.14 - 14.3G.14 - 14.3G 12 a     Spliced G216 94/210
+6772 Feering  -  3G -  14 - 12 - 3G.14 - 14.3G.14 - 14.3G.14 -  14.3G.14 - 14.3G.14 - 14.3G.14 - 14.3G.14 - 34.FG 12 b     Spliced G217 94/210
+6773 Newgate  3G -  3G.14 - 12 - 3G.14 - 14.5G.16 - 16.7G.14.58.14.9G.14 - 14.9G.14 - 14.9G.14 - 14.9G.14 - 14.9G 12 f     Spliced G218 94/210
+
+Surprise Twenty methods
+
+ No. Name     Notation                                                                                                    hl le lh Handbells  CCC  RW ref
+
+6774 York     -  3J -  14 - 12 - 3J.14 - 14.3J.14 - 14.3J.14 -  14.3J.14 - 14.3J.14 - 14.3J.14 - 14.3J.14 - 14.3J.14 - 14.3J 12 a     Spliced G219 94/562
+6775 Feering  -  3J -  14 - 12 - 3J.14 - 14.3J.14 - 14.3J.14 -  14.3J.14 - 14.3J.14 - 14.3J.14 - 14.3J.14 - 14.3J.14 - 34.HJ 12 b     Spliced G220 94/562
+6776 Newgate  3J -  3J.14 - 12 - 3J.14 - 14.5J.16 - 16.7J.14.58.14.9J.14 - 14.9J.14 - 14.9J.14 - 14.9J.14 - 14.9J.14 - 14.9J 12 f     Spliced G221 94/562

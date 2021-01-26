@@ -1,0 +1,355 @@
+Copyright Central Council of Church Bell Ringers, September 2001
+Alliance Royal methods (treble dodging in 1-2)
+
+ No. Name     Notation                    hl le lh Tower bells Place   RW ref
+
+ 403 Moulton  34 - 34.10 - 10 - 10 - 10 - 10 12 a   26. 9.1975 Moulton 75/893
+ 404 Shifnal  56 - 56.10 - 10 - 10 - 10 - 10 12 a   30. 9.1972 Worsley 72/901
+
+Alliance Royal methods (treble dodging in 1-2 and 3-4)
+
+ No. Name     Notation                          hl le lh Tower bells Place   RW ref
+
+ 405 Worsley  - 30 - 14 - 56 - 36 - 50 - 1450 - 50 12 f    3. 8.1983 Worsley 83/728
+ 406 Bolton   - 50 - 16 - 70 - 18 - 10 - 10   - 90 12 b   31. 7.1983 Bolton  83/728
+
+Alliance Royal methods (treble dodging in 7-8 and 9-10)
+
+ No. Name        Notation                           hl le lh Tower bells Place                        RW ref
+
+ 407 Ulrikakaka  - 14 - 36.70.58.16 - 16.70.16 - 16.90 12 a   21. 4.1997 Oxford, St Thomas the Martyr 97/483
+
+Alliance Royal methods (treble dodging in 1-2, 3-4 and 5-6)
+
+ No. Name           Notation                                  hl le lh Tower bells Place         RW ref
+
+ 408 Wealdstone     - 30 - 14 -  50 -  16 - 70 -  18 -  10 -  90 12 b   27.12.1976 Slough        77/99
+ 409 Northallerton  - 50 - 14.50 -  50.36 - 14.70.58.36.70.14.50 10 g    2.12.2000 Northallerton 01/37
+
+Alliance Royal methods (treble dodging in 1-2, 3-4 and 7-8)
+
+ No. Name        Notation                             hl le lh Tower bells Place     RW ref
+
+ 410 Springrove  - 30 - 14 - 50 - 16 - 10 - 56 - 70 - 70 12 c1  20. 5.1977 Isleworth 77/639 773
+
+Alliance Royal methods (treble dodging in 1-2, 5-6 and 7-8)
+
+ No. Name     Notation                             hl le lh Tower bells Place     RW ref
+
+ 411 Lampton  - 30 - 14 - 10 - 12 - 30 - 14 - 10 - 90 12 b   18.11.1977 Isleworth 77/1089
+
+Alliance Royal methods (treble dodging in 1-2, 5-6 and 9-10)
+
+ No. Name      Notation                               hl le lh Tower bells Place     RW ref
+
+ 412 Victoria  - 30 - 14 - 38 - 1470 - 38 - 70 - 18 - 90 12 b   24. 5.1978 Isleworth 78/521
+
+Alliance Royal methods (treble dodging in 1-2, 3-4, 5-6 and 7-8)
+
+ No. Name        Notation                                          hl le lh Tower bells Place                RW ref
+
+ 413 Smallberry  -  30 -  14 -  50 -  16 -  70 -  18.56 - 56.10.56.90 12 b   28.10.1977 Isleworth            77/1020
+ 414 Wye Valley  -  50 -  14.50 -  70.36 -  70 -  50.16 - 16.70.16.70 10 l   11. 2.1995 Hereford Cathedral   95/277
+ 415 Cerisier    34 -  50.14 -  50 -  30.14 -  70.58.16 - 16.70.16.90 10 l   14. 9.1995 Birmingham Cathedral 96/304
+ 416 Bart's      30 -  30.14 -  12 -  30.14 -  14.50.16 - 16.70.58.90 12 f   28. 1.1995 Daventry             95/252
+
+Alliance Royal methods (treble dodging in 1-2, 3-4, 5-6 and 9-10)
+
+ No. Name            Notation                                         hl le lh Tower bells Place                 RW ref
+
+ 417 Hagworthingham  -  30 -  14 - 12 - 30 -  34 -  50.16.70.18 -  18.70 10 m   20.12.1980 Duffield              81/75
+ 418 Wandering Wye   -  30 -  14 - 12 - 30.14 -  34.18 -  70 -  18 -  70 12 b   20. 1.1996 Hereford Cathedral    96/198
+ 419 Osterley        -  30 -  14 - 50 - 16 -  70 -  18 -  50 -  58 -  50 12 c1   2. 2.1977 Isleworth             77/164
+ 420 Wyke            -  30 -  14 - 50 - 16 -  70 -  38 -  30 -  16 -  90 12 b   28. 4.1978 Isleworth             78/521
+ 421 D-Day           34 -  50.14 - 50 - 30.14 -  70.58.16.70.16 -  16.90 10 l    6. 6.1994 Birmingham, St Martin 94/686
+
+Alliance Royal methods (treble dodging in 1-2, 3-4, 7-8 and 9-10)
+
+ No. Name         Notation                                             hl le lh Tower bells Place     RW ref
+
+ 422 Gunnersbury  -  30 -  14 -  50 -  16 -    30 -  14 -  10 -  18 -  10 12 f   27. 1.1978 Isleworth 78/168
+ 423 Maypole      -  50 -  14.50 -  50.36.1470.58.16 -  16.70 -  16 -  10 10 g   20. 8.1991 Maidstone 91/903
+ 424 Saltby       34 -  50.14 -  50 -  30.14.  50 -  16 -  70 -  16 -  70 10 k1  25. 7.2000 Saltby    00/818
+ 425 Beeston      34 -  50.14 -  50 -  30.14.  50.16 -  16.70 -  16 -  70 10 k1   4.12.1999 Beeston   00/114
+ 426 Cranage      34 -  50.14 -  50 -  30.14.  50.16 -  16.70.56 -  58.10 12 d1  11.12.1999 Dudley    00/33
+ 427 Middlewich   36 -  56.14.50 -  50.16.70.  18 -  16 -  70.16 -  78.90 10 j1   6. 3.1999 Kempston  99/336
+
+Alliance Royal methods (treble dodging in 1-2, 5-6, 7-8 and 9-10)
+
+ No. Name                Notation                                    hl le lh Tower bells Place        RW ref
+
+ 428 Spirit of Aquarius  - 30 - 14 - 1236 - 34 - 10 - 14 - 50 - 14 - 50 12 f   21. 9.1997 Chesterfield 97/1125
+ 429 Isleworth           - 30 - 14 - 10   - 14 - 10 - 14 - 10 - 14 - 10 12 f   14. 2.1973 Isleworth    73/438
+
+Alliance Royal methods (treble dodging in 3-4, 5-6, 7-8 and 9-10)
+
+ No. Name       Notation                                  hl le lh Tower bells Place                Handbells  RW ref
+
+ 430 Normanton  - 10 - 12 - 10 - 12 - 10 - 12 - 10 - 12 - 10 10 m                                   18. 6.1983 83/605
+ 431 Morland    - 10 - 12 - 30 - 14 - 50 - 16 - 70 - 18 - 90 12 b   16. 6.1970 Nottingham, St Peter            70/540
+
+Alliance Royal methods (treble dodging in 1-2, double dodging in 5-6 and single dodging in 9-10)
+
+ No. Name     Notation                                  hl le lh Tower bells Place    RW ref
+
+ 432 Supreme  - 30 - 14 - 38 - 14 - 70 - 38 - 70 - 18 - 90 12 b   19. 3.1983 Duffield 83/323
+
+Alliance Royal methods (treble dodging in 1-2, 3-4, 5-6, 7-8 and double dodging in 9-10)
+
+ No. Name         Notation                                                  hl le lh Tower bells Place       RW ref
+
+ 433 Swindon      34 - 30.14 - 12 - 30.14 -  14.50.14 - 16.70.16 - 16 -  16.70 12 f   12. 7.1975 Swindon     75/650
+ 434 Ewerby       30 - 30.14 - 12 - 30.14 -  14.50.14 - 36.70.16 - 16 -  16.70 12 a   25. 5.1975 Ewerby      75/589
+ 435 Allemthorne  30 - 30.14 - 12 - 30.14 -  14.50.16 - 16.70.14 - 14.58 -  90 12 f   18. 2.1995 Moulton     95/386
+ 436 Knottingley  30 - 56.14 - 56 - 30 -  34 -  50.16 - 16.70.16 - 16 -  34.70 12 f   28.10.1996 Knottingley 96/1199
+
+Alliance Royal methods (treble double dodging in 1-2, 3-4 and 5-6)
+
+ No. Name     Notation                                                hl le lh Tower bells Place    RW ref
+
+ 437 Chester  - 30 - 34 - 14 - 50 - 56 - 36 - 3470 - 1478 - 18 - 10 - 90 12 b   19. 1.1985 Duffield 85/197
+
+Little Alliance Royal methods (treble to 6ths dodging in 1-2 and 3-4)
+
+ No. Name             Notation                hl le lh Tower bells Place             RW ref
+
+ 438 Tameside Little  - 50 - 14.50 - 12.36.14.36 10 m    4. 3.1990 Ashton-under-Lyne 90/417
+
+Little Alliance Royal methods (treble to 8ths dodging in 1-2 and 3-4)
+
+ No. Name             Notation                     hl le lh Tower bells Place    RW ref
+
+ 439 Daventry Little  - 50 - 14.50 - 50.36.14.50 - 18 10 m   27. 3.1976 Daventry 76/375
+
+Alliance Maximus methods (treble dodging in 1-2)
+
+ No. Name     Notation                         hl le lh Tower bells Place   RW ref
+
+ 440 Moulton  34 - 34.1T - 1T - 1T - 1T - 1T - 1T 12 a   15. 5.1993 Moulton 93/652
+
+Alliance Maximus methods (treble dodging in 1-2 and 3-4)
+
+ No. Name           Notation                                     hl le lh Tower bells Place                         RW ref
+
+ 441 Melbury        - 5T - 14.5T - 5T.36.14.  58 -    7T -  9T - 9T 12 a   19. 9.1995 Birmingham, St Martin         95/1106
+ 442 '88            - 5T - 14.5T - 5T.36.147T.58.16.  7T -  1T - 1T 1T m   15. 8.1988 Melbourne Cathedral, Victoria 88/1044
+ 443 Judgement Day  - 5T - 14.5T - 5T.36.147T.58.169T.70.18.9T - 1T 1T j   29. 8.1997 Birmingham, St Martin         97/953
+
+Alliance Maximus methods (treble dodging in 1-2 and 11-12)
+
+ No. Name     Notation                                 hl le lh Tower bells Place                RW ref
+
+ 444 Brystol  - 5T - 14.5T.36.7T.58.16.70.18.9T - 18 - 1T 1T m   17. 9.1970 Birmingham Cathedral 70/860
+
+Alliance Maximus methods (treble dodging in 1-2, 3-4 and 5-6)
+
+ No. Name     Notation                                           hl le lh Tower bells Place                RW ref
+
+ 445 Ariston  -  3T -  14 -  12 -  3T.14 -  34.18.9T.70.18.9T -  ET 12 d    9. 2.1995 Birmingham Cathedral 95/277
+ 446 Priory   -  5T -  14.5T -  5T.36.14.78 -  58.16.70 -  9T.70.1T 1T g      Spliced                      99/875
+ 447 Deimos   34 -  5T.16 -  56 -  36.7T.34 -  1T -  70.18.3T.10.3T 1T g      Spliced                      99/1191
+ 448 Halley   3T -  3T.14 -  12 -  3T -  14 -  5T.36.70.18.9T -  ET 12 f    6. 2.1986 Birmingham Cathedral 86/204
+
+Alliance Maximus methods (treble dodging in 1-2, 3-4, 5-6 and 7-8)
+
+ No. Name          Notation                                                 hl le lh Tower bells Place                     RW ref
+
+ 449 Anglia        -  3T -  14 -  7T -  18 -  34 -  18 -  16 -  7T -  9T -  9T 12 d2  14.11.1998 Bristol, St Stephen       98/1182
+ 450 Royal Maundy  -  5T -  14.5T -  12.3T.14 -  12.5T.14 -  36.7T.18.9T.10.ET 1T j   23. 3.1989 Birmingham Cathedral      89/367
+ 451 Bicentenary   3T -  3T.14 -  12 -  3T.14 -  14.5T.14 -  36.7T.18.9T -  9T 12 f   21. 2.1988 St Sepulchre, Holborn, EC 88/304
+ 452 Centenary     3T -  3T.14 -  12 -  3T.14 -  14.5T.14 -  36.7T.18.9T.10.ET 12 d   14. 1.1989 Birmingham Cathedral      89/166
+
+Alliance Maximus methods (treble dodging in 1-2, 3-4, 5-6 and 11-12)
+
+ No. Name        Notation                                               hl le lh Tower bells Place                    RW ref
+
+ 453 Cardassian  -  5T.38.16.9T.70 - 36.70.9T -  58.16.7T -  9T.18 - 10.ET 1T j2  26. 5.1994 Birmingham Cathedral     94/713
+ 454 Lysian      34 -  5T.14 -  5T - 36.14 -  7T.18 -  1T -  9T.18 - 10.ET 1T l   28. 4.1994 Birmingham Cathedral     94/560
+ 455 London      3T -  3T.14 -  12 - 3T.14 -  14.5T.16.7T.18.9T.10 - 10.9T 12 d2  20. 3.1971 Macclesfield, St Michael 71/425
+
+Alliance Maximus methods (treble dodging in 1-2, 3-4, 9-10 and 11-12)
+
+ No. Name                  Notation                                                   hl le lh Tower bells Place                 Handbells  RW ref
+
+ 456 Farringdon            - 34 - 14 -  12.5T.16 -    58.14.  7T -  78 -  9T.70.18.90.1T 1T k      Spliced                                  98/163
+ 457 Double Dublin         - 56 - 14.56 -  5T.36.147T.58.169T.70.18 -  78.9T -  78 -  1T 1T j      Spliced                                  01/85 220
+ 458 Spirit of Birmingham  - 5T - 14.5T -  5T.36.14.  58 -    7T.18 -  18.9T.18 -  18.9T 12 a   30. 3.1995 Birmingham Cathedral             95/448
+ 459 Palgrave              - 5T - 14.5T -  5T.36.147T.58.16.  7T.18 -  18.9T.18 -  18.9T 1T h    9. 6.1981 Birmingham, St Martin 31. 8.1983 81/629 83/841
+ 460 Maypole               - 5T - 14.5T -  5T.36.147T.58.169T.70.18 -  18.9T -  18 -  1T 1T j    7.12.1972 Birmingham Cathedral             73/51
+
+Alliance Maximus methods (treble dodging in 3-4, 5-6, 7-8 and 9-10)
+
+ No. Name       Notation                                             hl le lh Tower bells Place                 RW ref
+
+ 461 Redmarley  - 14.56.7T - 36.7T.34.7T.30.16.90.16.70 - 16.78.9T - 1T 1T m    8. 2.1992 Worcester, All Saints 92/259
+
+Alliance Maximus methods (treble dodging in 1-2, 3-4, 5-6, 7-8 and 9-10)
+
+ No. Name        Notation                                              hl le lh Tower bells Place    RW ref
+
+ 462 Manchester  - 3T - 14 - 5T - 16 - 7T - 18 - 129T - 10 - 14 - 3T - ET 12 b   20. 7.1996 Amersham 96/857
+
+Alliance Maximus methods (treble dodging in 1-2, 3-4, 5-6, 7-8 and 11-12)
+
+ No. Name       Notation                                                hl le lh Tower bells Place      RW ref
+
+ 463 Broadgate  3T - 56.14.56 - 5T.16.7T - 90.18.90 - 9T.10 - 9T - 10 - 7T 12 e    6. 9.1983 Shoreditch 83/883
+
+Alliance Maximus methods (treble dodging in 1-2, 3-4, 5-6, 9-10 and 11-12)
+
+ No. Name        Notation                                                    hl le lh Tower bells Place                RW ref
+
+ 464 Rea Valley  -  5T -  14.5T -  5T.36 - 14.7T.18.9T.30.14.58.16.9T - 18 - 1T 1T j    9. 3.1995 Birmingham Cathedral 95/385
+ 465 Provost     3T -  3T.14 -  12 -  3T - 14 -  5T.36.7T.18 -  18.9T - 18 - 9T 12 f   27. 4.1995 Birmingham Cathedral 95/552
+
+Alliance Maximus methods (treble dodging in 1-2, 3-4, 5-6, 7-8, 9-10 and double dodging in 11-12)
+
+ No. Name                    Notation                                                                           hl le lh Tower bells Place                     Handbells  RW ref
+
+ 466 Eididh Nan Clach Geala  -  3T -  14 -  5T -  16 -  127T -  38   -    149T -    50 -  16 -  7T.18 - 18 - 18.ET 12 b                                        10.10.1995 95/1182
+ 467 Liathach                -  5T -  14.5T -  5T.36.14 -    7T.58.  16   -    9T.  70.18 -  18.9T.18 - 18 - 18.ET 1T j1                                       31. 8.1995 95/1082
+ 468 Shoreditch              34 -  3T.14 -  12 -  3T.14 -    14.5T.  14   -    16.  7T.18 -  18.9T.18 - 18 - 18.9T 12 d   29. 4.1975 Shoreditch                28. 9.1983 76/139 83/906
+ 469 Londin                  3T -  3T.14 -  12 -  1T -  14   -  145T -    34.  16.  7T.18 -  18.9T.18 - 18 - 18.9T 12 f    2. 6.1989 Shoreditch                           89/575
+ 470 Brandon Parva           3T -  3T.14 -  12 -  3T.14 -    14.5T.  16   -    16.  7T.18 -  18.9T.18 - 18 - 14.9T 12 f                                         8. 7.1990 90/802
+ 471 Cantuar                 3T -  3T.14 -  12 -  3T.14 -    14.5T.  16   -    16.  7T.58 -  18.9T.18 - 18 - 18.9T 12 f   28. 4.1973 Canterbury                31. 1.1979 73/414 79/183
+ 472 Snow Hill               3T -  3T.14.5T.12.5T.36.14 -    14.3T.  1456 -    1236.5T.16.34.18.9T.10 - 10 - 10.9T 12 f   22.10.1988 St Sepulchre, Holborn, EC            88/1139
+
+Alliance Maximus methods (treble dodging in 1-2, 3-4, 5-6, 7-8 and double dodging in 9-10 and 11-12)
+
+ No. Name           Notation                                                                hl le lh Handbells  RW ref
+
+ 473 Seana Bhraigh  3T - 3T.14 - 12 - 3T.14 - 14.5T.16 - 16.7T.56 - 16 - 16.7T.16 - 16 - 16.7T 12 a   1.11.1995 95/1229
+
+Alliance Maximus methods (treble double dodging in 1-2 and 11-12)
+
+ No. Name      Notation                                               hl le lh Tower bells Place                RW ref
+
+ 474 Thursday  - 30 - 58 - 149T - 3670 - 1T - 3670 - 149T - 58 - 30 - ET 12 b   19. 9.1991 Birmingham Cathedral 91/1016
+
+Alliance Maximus methods (treble double dodging in 1-2, 3-4 and 5-6)
+
+ No. Name     Notation                                                     hl le lh Tower bells Place   RW ref
+
+ 475 Chester  - 3T - 34 - 14 - 5T - 56 - 36 - 347T - 1478 - 18 - 1T - 1T - ET 12 b   15.12.1979 Walsall 80/71
+
+Alliance Maximus methods
+(treble's path 1 2 1  2 3  4  3 4  5  6    7  8  9  10 11 12 12 11 10 9  9)
+
+ No. Name        Notation                                                hl le lh Tower bells Place RW ref
+
+ 476 Eboracum    - 5T - 14.5T - 5T.36.147T.58.16.7T.18.9T.18.9T.18.9T.18.9T 1T h   12. 3.1994 York  94/352
+
+Alliance Maximus methods
+(treble's path 1 2 1  2 3  4  3 4  5  6    7  8  9  10 11 12 12   11 12 12 11 11)
+
+ No. Name        Notation                                                     hl le lh Tower bells Place                RW ref
+
+ 477 Lostrib     - 5T - 14.5T - 5T.36.147T.58.16.7T.16.7T.58.169T.70.18.9T -  ET 1T m   16. 3.1995 Birmingham Cathedral 95/385
+
+Alliance Maximus methods
+ (treble's path 1 2 1  2 3  4  3 4  5  6    7  8    9  10 9 10 11 12 12 11 10 9  9)
+
+ No. Name         Notation                                                       hl le lh Tower bells Place           RW ref
+
+ 478 Snotingeham  - 5T - 14.5T - 5T.36.147T.58.169T.70.18 - 18.9T.18.9T.18.9T.18.90 1T j1   3. 4.1999 Nottingham, SMV 99/459
+
+Alliance Maximus methods
+   (treble's path 1 2 1  2 3  4  3 4  5  6 7  8  9  10 11 12 11 12 12 11 12 11 11)
+
+ No. Name           Notation                                                   hl le lh Tower bells Place                RW ref
+
+ 479 Langley Green  - 5T - 14.5T - 12.3T - 3T.14.5T.16.7T.10 -  18.9T.18 -  18.ET 1T j2  12.11.1992 Birmingham Cathedral 92/1206
+
+Alliance Maximus methods
+(treble's path 1 2 1  2 3  4 3  4 5  6 5    6 7  8 7    8 9  10 9  10 11 12 11 12 11 11)
+
+ No. Name        Notation                                                            hl le lh Tower bells Place      RW ref
+
+ 480 Strathmore  - 3T - 14 - 5T - 16 - 127T - 38 - 149T - 50 -  16 -  7T -  18 -  90.ET 12  b   1. 8.2000 Shoreditch 00/887
+
+Alliance Maximus methods
+(treble's path 1 2  1 2  3  4 3  4 5  6  5 6  7  8  7 8  9  10 11 12 12 11 10 9  10 9  9)
+
+ No. Name        Notation                                                              hl le lh Tower bells Place                RW ref
+
+ 481 Queensway   3T - 3T.14 - 12 - 3T.14 - 14.5T.14 - 36.7T.18.9T.18.9T.18.9T.18 -  18.9T 12 f   23. 4.1992 Birmingham Cathedral 92/480
+ 482 Barford     3T - 3T.14 - 12 - 3T.14 - 14.5T.16 - 16.7T.58.9T.18.9T.18.9T.18 -  18.9T 12 f   17. 6.1971 Birmingham Cathedral 71/621
+
+Little Alliance Maximus methods (treble to 6ths dodging in 1-2 and 3-4)
+
+ No. Name            Notation                   hl le lh Tower bells Place               RW ref
+
+ 483 Winwick Little  -  5T -  14.5T -  12.36.14.36 1T m      Spliced                     96/466
+ 484 Belfast Little  34 -  5T.14 -  12 -  3T.14.36 1T m   30.10.1995 Leicester Cathedral 95/1227
+
+Little Alliance Maximus methods (treble to 8ths dodging in 1-2 and 3-4)
+
+ No. Name             Notation                     hl le lh Tower bells Place               RW ref
+
+ 485 Daventry Little  - 5T - 14.5T - 5T.36.14.5T - 18 1T m   24. 7.1995 Leicester Cathedral 95/863
+
+Little Alliance Maximus methods
+    (treble's path 1 2  3  4  4  3  4 3  4  5  5)
+
+ No. Name            Notation                  hl le lh           Tower bells RW ref
+
+ 486 Cheetah Little  70.16.58.14.58 - 12.7T.38.5T 1T 197E6243T508     Spliced 97/657
+
+Little Alliance Maximus methods
+      (treble's path 1 2 1  2 3  4 4  3 2  1  2  3  3)
+
+ No. Name              Notation                     hl le lh           Handbells RW ref
+
+ 487 St Chad's Little  - 3T - 14 - 14 - 14.36.5T.16.3T 1T 14693725E8T0   Spliced 99/851
+
+Little Alliance Maximus methods
+ (treble's path 1 2 1  1  2 3  4 3  3  4 3  3  4  5  5)
+
+ No. Name         Notation                           hl le lh           Tower bells RW ref
+
+ 488 Lynx Little  - 3T.12 - 1T - 12.3T - 12.36.5T.16.5T 1T 14693725E8T0     Spliced 94/1072
+
+Little Alliance Maximus methods
+     (hunt bell's path 12 11 12 12 11 10 9 10 10 9 10 10 9  8  8)
+
+ No. Name                 Notation                             hl le lh           Tower bells RW ref
+
+ 489 Reverse Lynx Little  -  10.ET -  1T - ET.10 - ET.70.18.7T.18 1T 31528E60479T     Spliced 99/460
+
+Twin-hunt Alliance Maximus methods (b) (treble dodging in 1-2)
+
+ No. Name                 Notation                         hl   le lh           Tower bells Place   RW ref
+
+ 490 Moulton Slow Course  34 - 34.1T - 1T - 1T - 1T - 1T - 10ET 12 12537496E8T0   2. 5.1998 Moulton 98/534
+
+Alliance Fourteen methods (treble dodging in 1-2 and 3-4)
+
+ No. Name           Notation                                       hl le lh Tower bells RW ref
+
+ 491 Old Milverton  - 5B - 14.5B - 5B.36.147B.58.16.7B - 1T - EB - 1B 1B m      Spliced 97/512
+
+Alliance Fourteen methods (treble dodging in 1-2, 3-4, 11-12 and 13-14)
+
+ No. Name     Notation                                                       hl le lh Tower bells RW ref
+
+ 492 Maypole  - 5B - 14.5B - 5B.36.147B.58.169B.70.18EB.9T.10 - 10.EB - 10 - 1B 1B j2     Spliced 97/512
+
+Alliance Fourteen methods (treble dodging in 1-2, 3-4, 11-12 and double dodging in 13-14)
+
+ No. Name          Notation                                                           hl le lh Tower bells Place                 RW ref
+
+ 493 Cranesthorpe  - 5B - 14.5B - 5B.36.147B.58.16.  70 -  9B.10 - 10.EB.10 - 10 - 10.EB 1B h      Spliced                       97/512
+ 494 Akenfield     - 5B - 14.5B - 5B.36.147B.58.169B.70.18.9B.10 - 10.EB.10 - 10 - 10.EB 1B j1  21. 9.1995 Birmingham, St Martin 96/201
+
+Little Alliance Fourteen methods
+ (treble's path 1 2 3  4 4  5  5  4  3  3)
+
+ No. Name         Notation              hl le lh             Tower bells RW ref
+
+ 495 Linx Little  - 1B - 14.36.5B.16.5B.36 1B 146E3927A5B8T0     Spliced 97/512 743
+
+Alliance Sixteen methods (treble dodging in 1-2, 3-4, 5-6, 7-8, 9-10, 11-12, 13-14 and double dodging in 15-16)
+
+ No. Name          Notation                                                                                 hl le lh Handbells  RW ref
+
+ 496 Cantuar No.1  3D - 3D.14 - 12 - 3D.14 - 14.5D.16 - 16.7D.58 - 18.9D.18 - 18.9D.18 - 18.9D.18 - 18 - 18.9D 12 f   2. 4.1994 94/539 95/923

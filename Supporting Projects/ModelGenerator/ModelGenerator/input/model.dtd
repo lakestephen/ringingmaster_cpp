@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT columnName (#PCDATA)>
+<!ELEMENT variableName (#PCDATA)>
+<!ELEMENT infoName (#PCDATA)>
+<!ELEMENT customType (#PCDATA)>
+<!ELEMENT enumName (#PCDATA)>
+<!ELEMENT field (variableName, customType?, enumName?, infoName?)>
+<!ATTLIST field
+	type (BOOL | int | long | double | CString | COleDateTime | enum | custom | Info) #REQUIRED
+>
+<!ELEMENT model (field+)>
+<!ATTLIST model
+	classname NMTOKEN #REQUIRED
+>

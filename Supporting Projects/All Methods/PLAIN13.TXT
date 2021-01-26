@@ -1,0 +1,66 @@
+Copyright Central Council of Church Bell Ringers, September 2001
+Single-hunt Sextuples methods
+
+ No. Name       Notation                hl le  lh Tower bells Place      RW ref
+
+3045 Plain Bob  A.1.A.1.A.1.A.1.A.1.A.1.A  12A p    2.12.2000 Winchester 01/11
+
+Twin-hunt Sextuples methods (a)
+
+ No. Name       Notation                  hl lh Tower bells Place      Handbells  RW ref
+
+3046 Grandsire  3.1.A.1.A.1.A.1.A.1.A.1.A.1  a    1. 1.1997 Winchester 18. 4.1972 72/384 97/145
+
+Single-hunt Fourteen methods
+
+ No. Name       Notation                        hl le lh Tower bells Place      Handbells  RW ref
+
+3047 Plain Bob  - 1B - 1B - 1B - 1B - 1B - 1B - 1B 12 a    1. 1.1999 Winchester 27. 8.1944 44/371 99/122
+
+Single-hunt Little Fourteen methods (treble to 4ths)
+
+ No. Name        Notation hl le lh Tower bells Place      Handbells  RW ref
+
+3048 Little Bob  - 1B -   14 12 e    3. 1.1994 Winchester 13. 4.1970 70/339 94/159
+
+Single-hunt Little Fourteen methods (treble to 6ths)
+
+ No. Name                     Notation    hl le lh Handbells  RW ref
+
+3049 Gainsborough Little Bob  - 1B - 1B - 16 12 d1    Spliced 71/710
+
+Twin-hunt Septuples methods (a)
+
+ No. Name       Notation                      hl lh Handbells  RW ref
+
+3050 Grandsire  3.1.C.1.C.1.C.1.C.1.C.1.C.1.C.1  a  18. 8.1995 95/962
+
+Single-hunt Sixteen methods
+
+ No. Name       Notation                             hl le lh Handbells  RW ref
+
+3051 Plain Bob  - 1D - 1D - 1D - 1D - 1D - 1D - 1D - 1D 12 a     Spliced 94/537
+
+Single-hunt Little Sixteen methods (treble to 4ths)
+
+ No. Name        Notation hl le lh Handbells  RW ref
+
+3052 Little Bob  - 1D -   14 12 e  27.10.1969 69/938
+
+Single-hunt Little Eighteen methods (treble to 4ths)
+
+ No. Name        Notation hl le lh Handbells  RW ref
+
+3053 Little Bob  - 1G -   14 12 e  19. 2.1978 78/252
+
+Single-hunt Little Twenty methods (treble to 4ths)
+
+ No. Name        Notation hl le lh Handbells  RW ref
+
+3054 Little Bob  - 1J -   14 12 e  28. 5.1978 78/568
+
+Single-hunt Little Twenty-two methods (treble to 4ths)
+
+ No. Name        Notation hl le lh Handbells  RW ref
+
+3055 Little Bob  - 1L -   14 12 e   9. 7.1978 78/598
